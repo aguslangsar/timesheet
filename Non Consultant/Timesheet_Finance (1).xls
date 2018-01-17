@@ -1,0 +1,8496 @@
+
+
+
+<table cellpadding="0" cellspacing="0" width="100%">
+	<thead>
+		<tr>
+			<th>No</th>
+			<th>Departement</th>
+			<th>Fullname</th>
+			<th>Date</th>
+			<th>Month</th>
+			<th>Timestart</th>
+			<th>Timefinish</th>
+			<th>Timeduration</th>
+			<th>Timeduration Decimal</th>
+			<th>Description</th>
+			<th>Category</th>
+			<th>No Proposal</th>
+			<th>No Agreement</th>
+			<th>Companies</th>
+			<th>Services</th>
+		</tr>
+	<thead>
+	<tbody>
+			<tr>
+			<td>1.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>09:04:00</td>
+			<td>11:46:00</td>
+			<td>02:42</td>
+			<td>2.70</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>2.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>11:46:00</td>
+			<td>12:46:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>3.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>12:46:00</td>
+			<td>15:00:00</td>
+			<td>02:14</td>
+			<td>2.23</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>4.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:25:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>5.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>15:25:00</td>
+			<td>18:00:00</td>
+			<td>02:35</td>
+			<td>2.58</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>6.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>18:24:00</td>
+			<td>00:24</td>
+			<td>0.40</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>7.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>18:24:00</td>
+			<td>19:12:00</td>
+			<td>00:48</td>
+			<td>0.80</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>8.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>19:12:00</td>
+			<td>19:46:00</td>
+			<td>00:34</td>
+			<td>0.57</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>9.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>08:48:00</td>
+			<td>11:30:00</td>
+			<td>02:42</td>
+			<td>2.70</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>10.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>11:30:00</td>
+			<td>13:20:00</td>
+			<td>01:50</td>
+			<td>1.83</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>11.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>13:20:00</td>
+			<td>15:02:00</td>
+			<td>01:42</td>
+			<td>1.70</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>12.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>15:02:00</td>
+			<td>15:25:00</td>
+			<td>00:23</td>
+			<td>0.38</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>13.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>15:25:00</td>
+			<td>18:00:00</td>
+			<td>02:35</td>
+			<td>2.58</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>14.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>19:13:00</td>
+			<td>01:13</td>
+			<td>1.22</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>15.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>19:13:00</td>
+			<td>19:47:00</td>
+			<td>00:34</td>
+			<td>0.57</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>16.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>08:00:00</td>
+			<td>11:45:00</td>
+			<td>03:45</td>
+			<td>3.75</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>17.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>11:45:00</td>
+			<td>12:50:00</td>
+			<td>01:05</td>
+			<td>1.08</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>18.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>12:50:00</td>
+			<td>15:05:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>19.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>15:05:00</td>
+			<td>15:34:00</td>
+			<td>00:29</td>
+			<td>0.48</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>20.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>15:34:00</td>
+			<td>18:03:00</td>
+			<td>02:29</td>
+			<td>2.48</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>21.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>18:03:00</td>
+			<td>18:28:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>22.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>18:28:00</td>
+			<td>19:15:00</td>
+			<td>00:47</td>
+			<td>0.78</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>23.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>19:15:00</td>
+			<td>19:34:00</td>
+			<td>00:19</td>
+			<td>0.32</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>24.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>13:17:00</td>
+			<td>15:00:00</td>
+			<td>01:43</td>
+			<td>1.72</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>25.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:27:00</td>
+			<td>00:27</td>
+			<td>0.45</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>26.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>15:27:00</td>
+			<td>18:05:00</td>
+			<td>02:38</td>
+			<td>2.63</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>27.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>18:05:00</td>
+			<td>18:27:00</td>
+			<td>00:22</td>
+			<td>0.37</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>28.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>09:06:00</td>
+			<td>11:45:00</td>
+			<td>02:39</td>
+			<td>2.65</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>29.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>11:45:00</td>
+			<td>12:55:00</td>
+			<td>01:10</td>
+			<td>1.17</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>30.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>12:55:00</td>
+			<td>15:05:00</td>
+			<td>02:10</td>
+			<td>2.17</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>31.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>15:05:00</td>
+			<td>15:30:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>32.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>18:03:00</td>
+			<td>02:33</td>
+			<td>2.55</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>33.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>18:03:00</td>
+			<td>18:30:00</td>
+			<td>00:27</td>
+			<td>0.45</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>34.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>18:30:00</td>
+			<td>19:15:00</td>
+			<td>00:45</td>
+			<td>0.75</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>35.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>19:15:00</td>
+			<td>19:40:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>36.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>19:40:00</td>
+			<td>19:55:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>37.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>08:55:00</td>
+			<td>11:49:00</td>
+			<td>02:54</td>
+			<td>2.90</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>38.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>11:49:00</td>
+			<td>12:49:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>39.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>12:49:00</td>
+			<td>15:05:00</td>
+			<td>02:16</td>
+			<td>2.27</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>40.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>15:05:00</td>
+			<td>15:30:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>41.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>18:04:00</td>
+			<td>02:34</td>
+			<td>2.57</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>42.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>18:04:00</td>
+			<td>18:30:00</td>
+			<td>00:26</td>
+			<td>0.43</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>43.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>18:30:00</td>
+			<td>19:15:00</td>
+			<td>00:45</td>
+			<td>0.75</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>44.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>19:15:00</td>
+			<td>19:49:00</td>
+			<td>00:34</td>
+			<td>0.57</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>45.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>09:10:00</td>
+			<td>11:30:00</td>
+			<td>02:20</td>
+			<td>2.33</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>46.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>11:30:00</td>
+			<td>13:10:00</td>
+			<td>01:40</td>
+			<td>1.67</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>47.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>13:10:00</td>
+			<td>15:00:00</td>
+			<td>01:50</td>
+			<td>1.83</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>48.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>49.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>18:00:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>50.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>18:25:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>51.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>18:25:00</td>
+			<td>19:15:00</td>
+			<td>00:50</td>
+			<td>0.83</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>52.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>19:15:00</td>
+			<td>19:55:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>53.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>09:37:00</td>
+			<td>11:50:00</td>
+			<td>02:13</td>
+			<td>2.22</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>54.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>11:50:00</td>
+			<td>12:50:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>55.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>12:50:00</td>
+			<td>15:00:00</td>
+			<td>02:10</td>
+			<td>2.17</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>56.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:31:00</td>
+			<td>00:31</td>
+			<td>0.52</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>57.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>15:31:00</td>
+			<td>18:00:00</td>
+			<td>02:29</td>
+			<td>2.48</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>58.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>18:31:00</td>
+			<td>00:31</td>
+			<td>0.52</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>59.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>09:44:00</td>
+			<td>11:50:00</td>
+			<td>02:06</td>
+			<td>2.10</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>60.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>11:50:00</td>
+			<td>12:50:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>61.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>12:50:00</td>
+			<td>15:05:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>62.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>15:05:00</td>
+			<td>15:35:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>63.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>15:35:00</td>
+			<td>18:00:00</td>
+			<td>02:25</td>
+			<td>2.42</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>64.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>18:24:00</td>
+			<td>00:24</td>
+			<td>0.40</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>65.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>18:24:00</td>
+			<td>19:15:00</td>
+			<td>00:51</td>
+			<td>0.85</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>66.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>19:15:00</td>
+			<td>19:40:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>67.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>19:40:00</td>
+			<td>20:24:00</td>
+			<td>00:44</td>
+			<td>0.73</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>68.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>09:18:00</td>
+			<td>11:50:00</td>
+			<td>02:32</td>
+			<td>2.53</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>69.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>11:50:00</td>
+			<td>12:50:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>70.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>12:50:00</td>
+			<td>15:10:00</td>
+			<td>02:20</td>
+			<td>2.33</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>71.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>15:10:00</td>
+			<td>15:37:00</td>
+			<td>00:27</td>
+			<td>0.45</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>72.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>15:37:00</td>
+			<td>18:00:00</td>
+			<td>02:23</td>
+			<td>2.38</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>73.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>18:37:00</td>
+			<td>00:37</td>
+			<td>0.62</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>74.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>09:26:00</td>
+			<td>11:50:00</td>
+			<td>02:24</td>
+			<td>2.40</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>75.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>11:50:00</td>
+			<td>12:55:00</td>
+			<td>01:05</td>
+			<td>1.08</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>76.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>12:55:00</td>
+			<td>15:10:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>77.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>15:10:00</td>
+			<td>15:35:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>78.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>15:35:00</td>
+			<td>18:00:00</td>
+			<td>02:25</td>
+			<td>2.42</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>79.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>18:25:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>80.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>18:25:00</td>
+			<td>19:18:00</td>
+			<td>00:53</td>
+			<td>0.88</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>81.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>19:18:00</td>
+			<td>19:45:00</td>
+			<td>00:27</td>
+			<td>0.45</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>82.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>19:45:00</td>
+			<td>20:18:00</td>
+			<td>00:33</td>
+			<td>0.55</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>83.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>08:27:00</td>
+			<td>11:50:00</td>
+			<td>03:23</td>
+			<td>3.38</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>84.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>11:50:00</td>
+			<td>12:50:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>85.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>12:50:00</td>
+			<td>15:10:00</td>
+			<td>02:20</td>
+			<td>2.33</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>86.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>15:10:00</td>
+			<td>15:35:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>87.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>15:35:00</td>
+			<td>18:00:00</td>
+			<td>02:25</td>
+			<td>2.42</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>88.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>18:00:00</td>
+			<td>18:25:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>89.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>18:25:00</td>
+			<td>18:44:00</td>
+			<td>00:19</td>
+			<td>0.32</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>90.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>08:00:00</td>
+			<td>17:00:00</td>
+			<td>09:00</td>
+			<td>9.00</td>
+			<td>Sick Leave (Personal)   : Sakit kepala</td>
+			<td>Personal Leave</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>91.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>09:06:00</td>
+			<td>11:46:00</td>
+			<td>02:40</td>
+			<td>2.67</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>92.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>11:46:00</td>
+			<td>12:46:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>93.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>12:46:00</td>
+			<td>15:13:00</td>
+			<td>02:27</td>
+			<td>2.45</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>94.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>15:13:00</td>
+			<td>15:35:00</td>
+			<td>00:22</td>
+			<td>0.37</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>95.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>15:35:00</td>
+			<td>18:00:00</td>
+			<td>02:25</td>
+			<td>2.42</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>96.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>18:00:00</td>
+			<td>18:25:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>97.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>18:25:00</td>
+			<td>19:20:00</td>
+			<td>00:55</td>
+			<td>0.92</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>98.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>19:20:00</td>
+			<td>19:46:00</td>
+			<td>00:26</td>
+			<td>0.43</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>99.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>09:29:00</td>
+			<td>11:50:00</td>
+			<td>02:21</td>
+			<td>2.35</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>100.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>11:50:00</td>
+			<td>12:50:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>101.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>12:50:00</td>
+			<td>15:12:00</td>
+			<td>02:22</td>
+			<td>2.37</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>102.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>15:12:00</td>
+			<td>15:35:00</td>
+			<td>00:23</td>
+			<td>0.38</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>103.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>15:35:00</td>
+			<td>17:12:00</td>
+			<td>01:37</td>
+			<td>1.62</td>
+			<td>Pulang on time karena malamnya ada janji dengan klien utk memberikan Mf</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>104.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>09:01:00</td>
+			<td>11:30:00</td>
+			<td>02:29</td>
+			<td>2.48</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>105.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>11:30:00</td>
+			<td>13:15:00</td>
+			<td>01:45</td>
+			<td>1.75</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>106.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>13:15:00</td>
+			<td>15:15:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>107.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>15:40:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>108.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>15:40:00</td>
+			<td>18:00:00</td>
+			<td>02:20</td>
+			<td>2.33</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>109.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>18:00:00</td>
+			<td>18:25:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>110.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>18:25:00</td>
+			<td>19:15:00</td>
+			<td>00:50</td>
+			<td>0.83</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>111.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>19:15:00</td>
+			<td>19:40:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>112.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>19:40:00</td>
+			<td>19:55:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>113.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>08:34:00</td>
+			<td>11:50:00</td>
+			<td>03:16</td>
+			<td>3.27</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>114.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>11:50:00</td>
+			<td>12:55:00</td>
+			<td>01:05</td>
+			<td>1.08</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>115.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>12:55:00</td>
+			<td>15:10:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>116.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>15:10:00</td>
+			<td>18:00:00</td>
+			<td>02:50</td>
+			<td>2.83</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>117.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>18:00:00</td>
+			<td>18:25:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>118.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>19:20:00</td>
+			<td>21:20:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td></td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>119.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>21:20:00</td>
+			<td>21:42:00</td>
+			<td>00:22</td>
+			<td>0.37</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>120.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>08:37:00</td>
+			<td>11:50:00</td>
+			<td>03:13</td>
+			<td>3.22</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>121.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>11:50:00</td>
+			<td>12:50:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>122.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>12:50:00</td>
+			<td>15:10:00</td>
+			<td>02:20</td>
+			<td>2.33</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>123.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>15:10:00</td>
+			<td>15:41:00</td>
+			<td>00:31</td>
+			<td>0.52</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>124.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>15:41:00</td>
+			<td>18:05:00</td>
+			<td>02:24</td>
+			<td>2.40</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>125.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>18:05:00</td>
+			<td>18:30:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>126.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>18:30:00</td>
+			<td>18:41:00</td>
+			<td>00:11</td>
+			<td>0.18</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>127.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>09:49:00</td>
+			<td>11:50:00</td>
+			<td>02:01</td>
+			<td>2.02</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>128.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>11:50:00</td>
+			<td>13:02:00</td>
+			<td>01:12</td>
+			<td>1.20</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>129.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>13:02:00</td>
+			<td>15:10:00</td>
+			<td>02:08</td>
+			<td>2.13</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>130.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>15:10:00</td>
+			<td>15:35:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>131.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>15:35:00</td>
+			<td>18:02:00</td>
+			<td>02:27</td>
+			<td>2.45</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>132.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>18:02:00</td>
+			<td>18:25:00</td>
+			<td>00:23</td>
+			<td>0.38</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>133.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>18:25:00</td>
+			<td>19:20:00</td>
+			<td>00:55</td>
+			<td>0.92</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>134.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>19:20:00</td>
+			<td>19:45:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>135.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>19:45:00</td>
+			<td>20:02:00</td>
+			<td>00:17</td>
+			<td>0.28</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>136.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>09:34:00</td>
+			<td>11:49:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>137.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>11:49:00</td>
+			<td>12:49:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>138.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>12:49:00</td>
+			<td>15:10:00</td>
+			<td>02:21</td>
+			<td>2.35</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>139.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>15:10:00</td>
+			<td>15:35:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>140.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>15:35:00</td>
+			<td>18:05:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>141.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>18:05:00</td>
+			<td>18:30:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>142.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>18:30:00</td>
+			<td>19:15:00</td>
+			<td>00:45</td>
+			<td>0.75</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>143.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>19:15:00</td>
+			<td>19:40:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>144.</td>
+			<td>Finance</td>
+			<td>Agus Salim</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>19:40:00</td>
+			<td>20:49:00</td>
+			<td>01:09</td>
+			<td>1.15</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>145.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>07:59:00</td>
+			<td>12:00:00</td>
+			<td>04:01</td>
+			<td>4.02</td>
+			<td>drafting invoice, drafting remainder letter</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>146.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>147.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>16:59:00</td>
+			<td>03:59</td>
+			<td>3.98</td>
+			<td>print invoice</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>148.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>08:06:00</td>
+			<td>09:00:00</td>
+			<td>00:54</td>
+			<td>0.90</td>
+			<td>menyiapkan slip transfer</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>149.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>09:00:00</td>
+			<td>11:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>ke bank mandiri</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>150.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>11:00:00</td>
+			<td>11:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>scan dan email bukti pembayaran</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>151.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>11:30:00</td>
+			<td>13:30:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>152.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>17:06:00</td>
+			<td>03:36</td>
+			<td>3.60</td>
+			<td>input petty cash</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>153.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>08:05:00</td>
+			<td>12:00:00</td>
+			<td>03:55</td>
+			<td>3.92</td>
+			<td>merapikan folder arsip, konfirmasi pembayaran invoice</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>154.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>155.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>17:05:00</td>
+			<td>04:05</td>
+			<td>4.08</td>
+			<td>Input zahir</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>156.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>08:00:00</td>
+			<td>12:00:00</td>
+			<td>04:00</td>
+			<td>4.00</td>
+			<td>merapikan arsip2 rts, konfirmasi ulang biaya operasional baznas dan klien lainnya</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>157.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>158.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>17:00:00</td>
+			<td>04:00</td>
+			<td>4.00</td>
+			<td>input zahir</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>159.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>08:06:00</td>
+			<td>10:00:00</td>
+			<td>01:54</td>
+			<td>1.90</td>
+			<td>mengisi slip transfer, membuat cek</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>160.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>ke bank mandiri</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>161.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>162.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>17:06:00</td>
+			<td>04:06</td>
+			<td>4.10</td>
+			<td>input petty cash, rekap invoice request pak adi</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>163.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>08:01:00</td>
+			<td>12:00:00</td>
+			<td>03:59</td>
+			<td>3.98</td>
+			<td>input zahir</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>164.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>165.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>17:01:00</td>
+			<td>04:01</td>
+			<td>4.02</td>
+			<td>revisi invoice, rekap petty cash rts berdasarkan klien</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>166.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>08:13:00</td>
+			<td>12:00:00</td>
+			<td>03:47</td>
+			<td>3.78</td>
+			<td>menyiapkan berkas gaji rts</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>167.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>168.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>17:13:00</td>
+			<td>03:43</td>
+			<td>3.72</td>
+			<td>input zahir</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>169.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>08:06:00</td>
+			<td>12:00:00</td>
+			<td>03:54</td>
+			<td>3.90</td>
+			<td>merapikan arsip rts</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>170.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>171.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>17:06:00</td>
+			<td>04:06</td>
+			<td>4.10</td>
+			<td>input petty cash, input faktur masukan rts</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>172.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>08:17:00</td>
+			<td>12:00:00</td>
+			<td>03:43</td>
+			<td>3.72</td>
+			<td>input petty cash, mencari berkas bpk balikpapan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>173.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>174.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>17:17:00</td>
+			<td>04:17</td>
+			<td>4.28</td>
+			<td>input zahir</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>175.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>08:07:00</td>
+			<td>09:00:00</td>
+			<td>00:53</td>
+			<td>0.88</td>
+			<td>membuat id billing, membuat anggaran, membuat cek</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>176.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>09:00:00</td>
+			<td>11:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>ke bank mandiri</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>177.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>11:00:00</td>
+			<td>13:30:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>koordinasi meeting</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>178.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>17:07:00</td>
+			<td>03:37</td>
+			<td>3.62</td>
+			<td>input petty cash, mengumpulkan spt rts untuk tender, mengarsipkan petty cash</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>179.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>08:10:00</td>
+			<td>12:00:00</td>
+			<td>03:50</td>
+			<td>3.83</td>
+			<td>menyiapkan spt masa ppn, drafting invoice</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>180.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>181.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>17:10:00</td>
+			<td>04:10</td>
+			<td>4.17</td>
+			<td>drafting invoice, print invoice</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>182.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>08:07:00</td>
+			<td>12:00:00</td>
+			<td>03:53</td>
+			<td>3.88</td>
+			<td>input zahir</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>183.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>184.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>17:07:00</td>
+			<td>04:07</td>
+			<td>4.12</td>
+			<td>input zahir</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>185.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>07:59:00</td>
+			<td>12:00:00</td>
+			<td>04:01</td>
+			<td>4.02</td>
+			<td>input petty cash, rekap ope rts</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>186.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>187.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>16:59:00</td>
+			<td>03:59</td>
+			<td>3.98</td>
+			<td>input ope rts, tlp klien konfirmasi invoice</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>188.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>08:05:00</td>
+			<td>12:00:00</td>
+			<td>03:55</td>
+			<td>3.92</td>
+			<td>input zahir</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>189.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>190.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>17:05:00</td>
+			<td>04:05</td>
+			<td>4.08</td>
+			<td>input petty cash, tlp klien minta bukpot</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>191.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>07:54:00</td>
+			<td>12:00:00</td>
+			<td>04:06</td>
+			<td>4.10</td>
+			<td>print ulang invoice request klien, rekap invoice request pak adi, input petty cash</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>192.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>193.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>08:16:00</td>
+			<td>10:00:00</td>
+			<td>01:44</td>
+			<td>1.73</td>
+			<td>input petty cash, membuat laporan dkm, mengarsipkan petty cash</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>194.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>10:00:00</td>
+			<td>11:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>ke bank mandiri</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>195.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>11:30:00</td>
+			<td>13:30:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>196.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>13:30:00</td>
+			<td>17:16:00</td>
+			<td>03:46</td>
+			<td>3.77</td>
+			<td>mengarsipkan petty cash, membuat bukti pengeluaran kas, scan bukti2 pembayaran</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>197.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>08:00:00</td>
+			<td>17:00:00</td>
+			<td>09:00</td>
+			<td>9.00</td>
+			<td>Sick Leave (Personal)   : </td>
+			<td>Personal Leave</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>198.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>08:00:00</td>
+			<td>17:00:00</td>
+			<td>09:00</td>
+			<td>9.00</td>
+			<td>Sick Leave (Personal)   : </td>
+			<td>Personal Leave</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>199.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>08:00:00</td>
+			<td>17:00:00</td>
+			<td>09:00</td>
+			<td>9.00</td>
+			<td>Annual Leave : izin sakit</td>
+			<td>Personal Leave</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>200.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>08:29:00</td>
+			<td>12:00:00</td>
+			<td>03:31</td>
+			<td>3.52</td>
+			<td>drafting invoice</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>201.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>202.</td>
+			<td>Finance</td>
+			<td>Hilda Nurul Rachma</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>17:29:00</td>
+			<td>04:29</td>
+			<td>4.48</td>
+			<td>print invoice, input petty cash, rekap invoice request pak adi</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>203.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>08:08:00</td>
+			<td>12:00:00</td>
+			<td>03:52</td>
+			<td>3.87</td>
+			<td>-Pelayanan petty cash
+-Merapikan bukti2 petty cash
+-Menginput transaksi petty cash</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>204.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Istirahat, sholat dhuhur,makan siang, pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>205.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>17:00:00</td>
+			<td>04:00</td>
+			<td>4.00</td>
+			<td>Annual Leave : Ijin Cuti Setengah hari - ada keperluan</td>
+			<td>Personal Leave</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>206.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>07:34:00</td>
+			<td>12:00:00</td>
+			<td>04:26</td>
+			<td>4.43</td>
+			<td>-Pelayanan petty cash
+-Menginput transaksi petty cash
+-Merapikan bukti2 petty cash</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>207.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>14:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Istirahat, sholat dhuhur, makan siang, pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>208.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>16:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>-Pelayanan petty cash
+-Menginput transaksi petty cash</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>209.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>17:01:00</td>
+			<td>01:01</td>
+			<td>1.02</td>
+			<td>Sholat ashar, pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>210.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>07:52:00</td>
+			<td>12:00:00</td>
+			<td>04:08</td>
+			<td>4.13</td>
+			<td>-Pelayanan petty cash
+-Merapikan bukti2 petty cash
+-Menginput transaksi petty cash
+-Membuat anggaran petty cash</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>211.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>Istirahat, sholat dhuhur, makan siang, pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>212.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>16:10:00</td>
+			<td>02:40</td>
+			<td>2.67</td>
+			<td>-Pelayanan petty cash
+-Menginput transaksi petty cash
+-Melanjutkan membuat anggaran petty cash
+-Mengecek saldo
+-Mencetak anggaran
+-Mengajukan anggaran ke bp agussalim utk di acc</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>213.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>16:10:00</td>
+			<td>17:02:00</td>
+			<td>00:52</td>
+			<td>0.87</td>
+			<td>Sholat ashar, pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>214.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>08:00:00</td>
+			<td>08:47:00</td>
+			<td>00:47</td>
+			<td>0.78</td>
+			<td>Two Hours Leave : Ijin Datang terlambat karena menjaga anak</td>
+			<td>Personal Leave</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>215.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>08:47:00</td>
+			<td>10:30:00</td>
+			<td>01:43</td>
+			<td>1.72</td>
+			<td>-Pelayanan petty cash
+-Menyiapkan kelengkapan utk transaksi ke bank mandiri
+-Menlpon bank BSM utk konfirmasi penarikan uang tunai via cek</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>216.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>10:30:00</td>
+			<td>12:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>-Antri di bank BSM utk transaksi transfer ke vendor MUC, penarikan uang tunai via cek
+
+-Antri di Bank Mandiri utk transaksi Transfer & Setoran ke vendor MUC, kliring giro dr klien, penarikan uang tunai via cek</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>217.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>Istirahat, sholat dhuhur, makan siang, pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>218.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>16:20:00</td>
+			<td>02:50</td>
+			<td>2.83</td>
+			<td>-Pelayanan petty cash
+-Merapikan bukti2 petty cash
+-Menginput transaksi petty cash</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>219.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>16:20:00</td>
+			<td>17:21:00</td>
+			<td>01:01</td>
+			<td>1.02</td>
+			<td>Sholat ashar, pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>220.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>08:11:00</td>
+			<td>12:00:00</td>
+			<td>03:49</td>
+			<td>3.82</td>
+			<td>-Pelayanan petty cash
+-Mengumpulkan bukti2 biaya2 di th 2015 utk dicopy utk keperluan audit</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>221.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>Istirahat, sholat dhuhur, makan siang, pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>222.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>16:40:00</td>
+			<td>03:10</td>
+			<td>3.17</td>
+			<td>-Pelayanan petty cash
+-Membuat anggaran petty cash
+-Merekap pinjaman karyawan
+-Merapikan bukti2 petty cash
+-Mengecek saldo
+-Mencetak anggaran
+-Mengajukan anggaran ke bp agussalim utk diacc
+-Menulis cek</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>223.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>16:40:00</td>
+			<td>17:21:00</td>
+			<td>00:41</td>
+			<td>0.68</td>
+			<td>Sholat ashar, pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>224.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>07:52:00</td>
+			<td>10:30:00</td>
+			<td>02:38</td>
+			<td>2.63</td>
+			<td>-Pelayanan petty cash
+-Mengajukan cek ke bp sugianto utk dittd
+-Menyiapkan kelengkapan utk transaksi ke bank mandiri
+-mestempel & fotocopy cek</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>225.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>10:30:00</td>
+			<td>12:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>-antri di bank mandiri utk transaksi penarikan uang tunai via cek, transfer ke vendor muc, pembayaran BPJS TK periode Okt 2017</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>226.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>Istirahat, sholat dhuhur, pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>227.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>16:30:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>-Pelayanan petty cash
+-Merapikan bukti2 petty cash
+-Menginput transaksi petty cash
+-Menghitung & Membagi2 uang gaji cash karyawan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>228.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>16:30:00</td>
+			<td>17:07:00</td>
+			<td>00:37</td>
+			<td>0.62</td>
+			<td>Sholat ashar, pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>229.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>07:58:00</td>
+			<td>11:30:00</td>
+			<td>03:32</td>
+			<td>3.53</td>
+			<td>-Pelayanan petty cash
+-Mengumpulkan data petty cash 2015 utk audit
+</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>230.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>11:30:00</td>
+			<td>14:00:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>Istirahat, sholat dhuhur, makan siang, pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>231.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>16:35:00</td>
+			<td>02:35</td>
+			<td>2.58</td>
+			<td>-Pelayanan petty cash
+-Mencetak surat konfirmasi piutang sataf utk keperluan audit 2015 -2016
+-Merapikan bukti2 petty cash
+-Menginput transaksi petty cash</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>232.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>16:35:00</td>
+			<td>17:14:00</td>
+			<td>00:39</td>
+			<td>0.65</td>
+			<td>Sholat ashar, pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>233.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>08:00:00</td>
+			<td>09:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Two Hours Leave : Ijin 1 jam karena menjaga anak</td>
+			<td>Personal Leave</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>234.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>09:10:00</td>
+			<td>12:00:00</td>
+			<td>02:50</td>
+			<td>2.83</td>
+			<td>-Pelayanan petty cash
+-Merapikan bukti2 petty cash
+-Menginput transaksi petty cash
+-Meminta ttd ke bp sugianto utk surat konfirmasi hutang staff utk keperluan audit</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>235.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>istirahat, sholat dhuhur</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>236.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>16:30:00</td>
+			<td>03:30</td>
+			<td>3.50</td>
+			<td>-Mengedarkan surat konfirmasi hutang staf utk keperluan audit
+-Pelayanan petty cash
+-Menginput transaksi petty cash
+-Membuat anggaran petty cash
+-Merapikan bukti2 petty cash</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>237.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>16:30:00</td>
+			<td>17:10:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>Sholat ashar, pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>238.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>08:26:00</td>
+			<td>12:00:00</td>
+			<td>03:34</td>
+			<td>3.57</td>
+			<td>-Pelayanan petty cash
+-Membuat anggaran petty cash
+-Mengecek saldo
+-Mencetak anggaran
+-Mengajukan anggaran ke bp agussalim utk di acc
+-Mengumpulkan & copy bukti petty cash th 2015 utk keperluan auditor MUC
+</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>239.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Istirahat, sholat dhuhur, makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>240.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>14:40:00</td>
+			<td>01:40</td>
+			<td>1.67</td>
+			<td>-bertemu dengan auditor menyerahkan sebagian bukti2 petty cash
+-Merevisi anggaran
+-acc pak agus
+-Menulis cek
+-Mengajukan anggaran ke bp Sugianto
+-Mestempel & copy anggaran</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>241.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>14:40:00</td>
+			<td>15:20:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>Pumping, sholat ashar</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>242.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>15:20:00</td>
+			<td>18:11:00</td>
+			<td>02:51</td>
+			<td>2.85</td>
+			<td>-Pelayanan petty cash
+-Menginput transaksi petty cash
+-Merapikan bukti2 petty cash
+-Membuat anggaran kebutuhan gedung
+-Mengajukan anggaran ke bp agussalim utk di acc
+-Menulis cek
+-Mengajukan anggaran & cek ke bp sugianto
+-Mestempel & copy cek
+-Merapikan bukti2 petty cash
+-menginput transaksi petty cash
+-Mengisi slip transfer Bank mandiri utk transaksi besok pagi
+-Cetak ID billing PPN DN Masa Okt 2017 PT MUC</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>243.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>18:11:00</td>
+			<td>18:41:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>Sholat magrib, pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>244.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>07:25:00</td>
+			<td>08:15:00</td>
+			<td>00:50</td>
+			<td>0.83</td>
+			<td>-Melanjutkan Mengisi slip transfer bank mandiri
+-Mencetak lampiran utk transfer valas TT laur negeri ke royaltystat USD 4000</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>245.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>08:15:00</td>
+			<td>09:30:00</td>
+			<td>01:15</td>
+			<td>1.25</td>
+			<td>-antri di teller bank mandiri utk transaksi pembayaran DPLK Muamalat, setor PPN DN Masa Okt 2017 PT MUC, TRansfer ke vendor MUC, Penarikan uang tunai via cek, transfer TT luar negeri USD 4000</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>246.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>09:30:00</td>
+			<td>11:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>-Pelayanan petty cash
+-Mengirim email bukti transfer ke masing2 user & ke vendor
+</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>247.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>11:00:00</td>
+			<td>11:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>perjalanan ke Abuba steak margonda depok (utk koordinasi meeting team finance)</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>248.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>11:30:00</td>
+			<td>12:30:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Koordinasi meeting team Finance di ABUBA Steak Margonda sambil makan siang</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>249.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>12:30:00</td>
+			<td>12:40:00</td>
+			<td>00:10</td>
+			<td>0.17</td>
+			<td>Sholat dhuhur</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>250.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>12:40:00</td>
+			<td>13:20:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>Melanjutkan koordinasi meeting</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>251.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>13:20:00</td>
+			<td>14:00:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>Perjalanan ke MUC dari koordinasi meeting di Abuba steak margonda Depok</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>252.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>17:30:00</td>
+			<td>03:30</td>
+			<td>3.50</td>
+			<td>-Pelayanan petty cash
+-Mengumpulkan bukti2 cash th 2015 utk keperluan audit</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>253.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>17:30:00</td>
+			<td>18:10:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>Sholat ashar, pumping, sholat magrib</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>254.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>18:10:00</td>
+			<td>18:22:00</td>
+			<td>00:12</td>
+			<td>0.20</td>
+			<td>Merapikan bukti2 petty cash</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>255.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>08:04:00</td>
+			<td>12:00:00</td>
+			<td>03:56</td>
+			<td>3.93</td>
+			<td>-Pelayanan petty cash
+-Mengumpulkan & fotocopy bukti2 petty cash th 2015 utk kebutuhan audit
+</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>256.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Istirahat, sholat dhuhur</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>257.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>16:15:00</td>
+			<td>03:15</td>
+			<td>3.25</td>
+			<td>-Melanjutkan mengumpulkan & fotocopy bukti2 petty cash th 2015 utk keperluan audit
+-Pelayanan petty cash
+-Mengembalikan bukti2 cash th 2015  ke ordner masing2
+-Merapikan bukti2 petty cash
+-Menginput transaksi petty cash</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>258.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>16:15:00</td>
+			<td>17:04:00</td>
+			<td>00:49</td>
+			<td>0.82</td>
+			<td>Sholat ashar, pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>259.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>07:59:00</td>
+			<td>12:00:00</td>
+			<td>04:01</td>
+			<td>4.02</td>
+			<td>-Pelayanan petty cash
+-Merapikan bukti2 petty cash
+-Menginput transaksi petty cash
+-Membuat anggaran petty cash
+-Mengecek saldo
+-Mencetak anggaran
+-Mengajukan anggaran ke bp agussalim utk di acc
+-Menulis cek</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>260.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Istirahat, makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>261.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>16:15:00</td>
+			<td>03:15</td>
+			<td>3.25</td>
+			<td>-Pelayanan petty cash
+-Menginput transaksi petty cash
+-Mengajukan anggaran & cek ke bp sugianto utk dittd ceknya
+-Mengisi slip transfer bank mandiri
+-Membuat surat permohonan pengembalian danan angsuran mobil di mandiri tunas finance
+-Menyiapkan berkas lampiran permohonan pengembalian angsuran mobil</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>262.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>16:15:00</td>
+			<td>17:02:00</td>
+			<td>00:47</td>
+			<td>0.78</td>
+			<td>Pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>263.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>08:43:00</td>
+			<td>12:00:00</td>
+			<td>03:17</td>
+			<td>3.28</td>
+			<td>-Pelayanan petty cash
+-Menginput transaksi petty cash
+-Merapikan bukti2 petty cash</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>264.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Istirahat, makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>265.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>16:45:00</td>
+			<td>03:45</td>
+			<td>3.75</td>
+			<td>-Pelayanan petty cash
+-Menginput transaksi petty cash</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>266.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>16:45:00</td>
+			<td>17:40:00</td>
+			<td>00:55</td>
+			<td>0.92</td>
+			<td>Pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>267.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>00:00:00</td>
+			<td>00:00:00</td>
+			<td>00:00</td>
+			<td>0.00</td>
+			<td>Annual Leave : Cuti setengah hari karena kaki sakit</td>
+			<td>Personal Leave</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>268.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>08:00:00</td>
+			<td>12:00:00</td>
+			<td>04:00</td>
+			<td>4.00</td>
+			<td>Annual Leave : Cuti setengah hari</td>
+			<td>Personal Leave</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>269.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Istirahat, makan siang, pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>270.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>16:45:00</td>
+			<td>03:45</td>
+			<td>3.75</td>
+			<td>-Pelayanan petty cash
+-Merapikan bukti2 petty cash
+-Menginput transaksi petty cash</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>271.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>16:45:00</td>
+			<td>17:38:00</td>
+			<td>00:53</td>
+			<td>0.88</td>
+			<td>Pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>272.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>07:43:00</td>
+			<td>12:00:00</td>
+			<td>04:17</td>
+			<td>4.28</td>
+			<td>-Pelayanan petty cash
+-Menginput transaksi petty cash
+-Merapikan bukti2 petty cash
+-Membuat anggaran petty cash
+-Merekap tagihan Burea Van dijk selama th 2017
+-medesoign custom lemari utk arsip finance
+-bertemu orang utk pesanan custom lemari</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>273.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Istirahat, makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>274.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>16:40:00</td>
+			<td>03:40</td>
+			<td>3.67</td>
+			<td>-Pelayanan petty cash
+-Menginput transaksi petty cash
+-Melanjutkan membuat anggaran petty cash
+-Mengecek saldo
+-Mencetak anggaran
+-Mengajukan anggaran ke bp Agussalim utk diacc
+-Menulis cek
+-Mengajukan anggaran & Cek ke bp sugianto utk dittd ceknya</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>275.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>16:40:00</td>
+			<td>17:28:00</td>
+			<td>00:48</td>
+			<td>0.80</td>
+			<td>Pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>276.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>07:50:00</td>
+			<td>10:30:00</td>
+			<td>02:40</td>
+			<td>2.67</td>
+			<td>-Menulis slip transfer
+-Mengisi & cetak ID biling Pajak MUC Masa Nov 2017
+-Mencetak anggaran pajak MUC
+-Menulis cek
+-Mengajukan anggaran pajak utk dittd cek ke Bp sugianto
+-Menyiapkan kelengkapan utk transaksi ke bank mandiri</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>277.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>10:30:00</td>
+			<td>12:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>antri di bank mandiri utk pembayaran pajak MUC, Transfer & setoran vendor MUC, pembayaran pajak MUC masa November 2017
+
+(yg lama antrian teller bank & konfirmasi cek, ngantri bersama RTS)</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>278.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Istirahat, makan siang, sholat dhuhur</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>279.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>16:20:00</td>
+			<td>03:20</td>
+			<td>3.33</td>
+			<td>-Pelayanan petty cash
+-Merapikan bukti2 petty cash
+-Menginput transaksi petty cash
+-Mengirim bukti transfer via email ke masing2 user</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>280.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>16:20:00</td>
+			<td>17:16:00</td>
+			<td>00:56</td>
+			<td>0.93</td>
+			<td>Sholat ashar, Pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>281.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>07:59:00</td>
+			<td>12:00:00</td>
+			<td>04:01</td>
+			<td>4.02</td>
+			<td>-Pelayanan petty cash
+-Menginput transaksi petty cash
+-Merapiakn bukti2 petty cash</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>282.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Istirahat, sholat dhuhur, makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>283.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>16:20:00</td>
+			<td>03:20</td>
+			<td>3.33</td>
+			<td>-Pelayanan petty cash
+-Menginput transaksi petty cash</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>284.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>16:20:00</td>
+			<td>17:14:00</td>
+			<td>00:54</td>
+			<td>0.90</td>
+			<td>Sholat ashar, pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>285.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>08:37:00</td>
+			<td>12:00:00</td>
+			<td>03:23</td>
+			<td>3.38</td>
+			<td>-Pelayanan petty cash
+-Menginput transaksi petty cash
+-Merapikan bukti2 petty cash</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>286.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Sholat dhuhur, makan siang, istirahat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>287.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>16:45:00</td>
+			<td>03:45</td>
+			<td>3.75</td>
+			<td>-Pelayanan petty cash
+-Menginput transaksi petty cash</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>288.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>16:45:00</td>
+			<td>17:34:00</td>
+			<td>00:49</td>
+			<td>0.82</td>
+			<td>Sholat ashar, pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>289.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>08:00:00</td>
+			<td>10:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Two Hours Leave : Ijin 2 jam karena sedang kurang enak badan</td>
+			<td>Personal Leave</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>290.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>-Pelayanan petty cash
+-Menginput transaksi petty cash</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>291.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>IStirahat, sholat dhuhur, makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>292.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>13:30:00</td>
+			<td>16:30:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>-Pelayanan petty cash
+-Merapikan bukti2 petty cash
+-Menginput transaksi petty cash</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>293.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>16:30:00</td>
+			<td>17:19:00</td>
+			<td>00:49</td>
+			<td>0.82</td>
+			<td>Sholat ashar, pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>294.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>07:53:00</td>
+			<td>12:00:00</td>
+			<td>04:07</td>
+			<td>4.12</td>
+			<td>-Pelayanan petty cash
+-Menginput transaksi petty cash
+-Merapikan bukti2 petty cash
+-Membuat anggaran petty cash
+-Mengecek saldo
+-Mencetak anggaran</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>295.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>istirahat, makan siang, sholat dhuhur</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>296.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>16:45:00</td>
+			<td>03:45</td>
+			<td>3.75</td>
+			<td>-Mengajukan anggaran ke bp agussalim utk diacc
+-Menulis cek
+-Membuat surat kuasa utk kliring giro dr tenant ke bank BSM
+-Merapikan bukti2 petty cash
+-Menginput transaksi petty cash</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>297.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>16:45:00</td>
+			<td>17:30:00</td>
+			<td>00:45</td>
+			<td>0.75</td>
+			<td>Sholat ashar, pumping</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>298.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>17:30:00</td>
+			<td>18:15:00</td>
+			<td>00:45</td>
+			<td>0.75</td>
+			<td>-Menfotocopy & stempel cek
+-Mengisi slip transfer bank
+-Merapikan bukti2 petty cash
+-Mengecek email masuk
+-print out faktur pajak dari vendor</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>299.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>18:15:00</td>
+			<td>18:25:00</td>
+			<td>00:10</td>
+			<td>0.17</td>
+			<td>Sholat magrib</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>300.</td>
+			<td>Finance</td>
+			<td>Nunik Dwi Puspita</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>18:25:00</td>
+			<td>18:59:00</td>
+			<td>00:34</td>
+			<td>0.57</td>
+			<td>Menulis slip transfer bank mandiri utk transaksi besok pagi</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>301.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>07:59:00</td>
+			<td>12:00:00</td>
+			<td>04:01</td>
+			<td>4.02</td>
+			<td>debt collector, minta bukpot 23</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>302.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>istirahat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>303.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>18:46:00</td>
+			<td>05:46</td>
+			<td>5.77</td>
+			<td>input zahir</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>304.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>08:19:00</td>
+			<td>11:30:00</td>
+			<td>03:11</td>
+			<td>3.18</td>
+			<td>memnuat SPT MUC</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>305.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>11:30:00</td>
+			<td>13:30:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>istirahat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>306.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>15:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>ke bank</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>307.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>sholat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>308.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>17:22:00</td>
+			<td>01:52</td>
+			<td>1.87</td>
+			<td>membuat SPT MUC & RTS</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>309.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>08:13:00</td>
+			<td>12:00:00</td>
+			<td>03:47</td>
+			<td>3.78</td>
+			<td>efilling, cetak SPT</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>310.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>istirahat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>311.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>cetak SPT </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>312.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>17:22:00</td>
+			<td>02:22</td>
+			<td>2.37</td>
+			<td>input zahir gpi</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>313.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>07:56:00</td>
+			<td>12:00:00</td>
+			<td>04:04</td>
+			<td>4.07</td>
+			<td>input bukpot 23</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>314.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>istirahat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>315.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>17:32:00</td>
+			<td>04:32</td>
+			<td>4.53</td>
+			<td>merapihkan bukti kas GPi</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>316.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>08:09:00</td>
+			<td>12:00:00</td>
+			<td>03:51</td>
+			<td>3.85</td>
+			<td>input zahir</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>317.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>istirahat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>318.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>18:23:00</td>
+			<td>05:23</td>
+			<td>5.38</td>
+			<td>input zahir</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>319.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>08:00:00</td>
+			<td>12:00:00</td>
+			<td>04:00</td>
+			<td>4.00</td>
+			<td>input zahir</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>320.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>istirahat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>321.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>18:45:00</td>
+			<td>05:45</td>
+			<td>5.75</td>
+			<td>input zahir</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>322.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>08:29:00</td>
+			<td>11:30:00</td>
+			<td>03:01</td>
+			<td>3.02</td>
+			<td>input zahir, ke bank</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>323.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>11:30:00</td>
+			<td>13:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>ke bank</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>324.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>17:30:00</td>
+			<td>04:30</td>
+			<td>4.50</td>
+			<td>input petty cash, membuat file excel zahir</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>325.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>08:18:00</td>
+			<td>12:00:00</td>
+			<td>03:42</td>
+			<td>3.70</td>
+			<td>telp client minta bukpot 23</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>326.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>sitirahat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>327.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>17:25:00</td>
+			<td>04:25</td>
+			<td>4.42</td>
+			<td>input bukpot 23</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>328.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>08:31:00</td>
+			<td>12:00:00</td>
+			<td>03:29</td>
+			<td>3.48</td>
+			<td>telp client minta bukpot 23</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>329.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>sholat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>330.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>17:33:00</td>
+			<td>04:33</td>
+			<td>4.55</td>
+			<td>ke kppp depok , telp client minta bukpot 23</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>331.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>08:12:00</td>
+			<td>11:00:00</td>
+			<td>02:48</td>
+			<td>2.80</td>
+			<td>input petty cash</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>332.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>11:00:00</td>
+			<td>14:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>cormet</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>333.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>17:28:00</td>
+			<td>03:28</td>
+			<td>3.47</td>
+			<td>input bukpot 23</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>334.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>08:16:00</td>
+			<td>12:00:00</td>
+			<td>03:44</td>
+			<td>3.73</td>
+			<td>ke bank,telp client minta bukpot 23</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>335.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>istirahat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>336.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>17:26:00</td>
+			<td>04:26</td>
+			<td>4.43</td>
+			<td>input bukpot 23</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>337.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>08:15:00</td>
+			<td>12:00:00</td>
+			<td>03:45</td>
+			<td>3.75</td>
+			<td>telp clien minta bukti potong pph23</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>338.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>istirahat</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>339.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>16:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>ke bank</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>340.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>16:00:00</td>
+			<td>16:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>sholat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>341.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>16:30:00</td>
+			<td>17:27:00</td>
+			<td>00:57</td>
+			<td>0.95</td>
+			<td>input bukpot 23</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>342.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>08:09:00</td>
+			<td>12:00:00</td>
+			<td>03:51</td>
+			<td>3.85</td>
+			<td>telp client minta bukpt 23, ke bank</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>343.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>istirahat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>344.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:15:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>telp client minta bukpot 23</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>345.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>15:45:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>sholat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>346.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>15:45:00</td>
+			<td>17:26:00</td>
+			<td>01:41</td>
+			<td>1.68</td>
+			<td>telp cleint minta bukpot 23</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>347.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>08:03:00</td>
+			<td>12:00:00</td>
+			<td>03:57</td>
+			<td>3.95</td>
+			<td>telp client minta bukpot 23</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>348.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>istirahat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>349.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:19:00</td>
+			<td>02:19</td>
+			<td>2.32</td>
+			<td>debt collector</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>350.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>15:19:00</td>
+			<td>15:45:00</td>
+			<td>00:26</td>
+			<td>0.43</td>
+			<td>sholat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>351.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>15:45:00</td>
+			<td>17:19:00</td>
+			<td>01:34</td>
+			<td>1.57</td>
+			<td>debt collector</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>352.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>07:59:00</td>
+			<td>12:00:00</td>
+			<td>04:01</td>
+			<td>4.02</td>
+			<td>vouching</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>353.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>istirahat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>354.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>17:20:00</td>
+			<td>04:20</td>
+			<td>4.33</td>
+			<td>menghitung Pajak MUC & RTS</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>355.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>07:56:00</td>
+			<td>11:00:00</td>
+			<td>03:04</td>
+			<td>3.07</td>
+			<td>input bukpt 23, ke BNI</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>356.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>11:00:00</td>
+			<td>11:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>input bukpot 23</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>357.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>11:30:00</td>
+			<td>13:30:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>istirahat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>358.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>13:30:00</td>
+			<td>15:15:00</td>
+			<td>01:45</td>
+			<td>1.75</td>
+			<td>debt collector</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>359.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>15:45:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>sholat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>360.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>15:45:00</td>
+			<td>17:24:00</td>
+			<td>01:39</td>
+			<td>1.65</td>
+			<td>telp clieny minta bukpot 23</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>361.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>09:22:00</td>
+			<td>12:00:00</td>
+			<td>02:38</td>
+			<td>2.63</td>
+			<td>telp klien minta bukpot 23</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>362.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>istirahat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>363.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>17:00:00</td>
+			<td>04:00</td>
+			<td>4.00</td>
+			<td>debt collector</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>364.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>17:00:00</td>
+			<td>18:36:00</td>
+			<td>01:36</td>
+			<td>1.60</td>
+			<td>kirim email reminder letter</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>365.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>08:25:00</td>
+			<td>12:00:00</td>
+			<td>03:35</td>
+			<td>3.58</td>
+			<td>telp client minta bukpot 23</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>366.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>istirahat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>367.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>17:00:00</td>
+			<td>04:00</td>
+			<td>4.00</td>
+			<td>debt collector</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>368.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>17:00:00</td>
+			<td>18:41:00</td>
+			<td>01:41</td>
+			<td>1.68</td>
+			<td>input bukpot 23</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>369.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>12:50:00</td>
+			<td>17:23:00</td>
+			<td>04:33</td>
+			<td>4.55</td>
+			<td>debt collector</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>370.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>08:09:00</td>
+			<td>12:00:00</td>
+			<td>03:51</td>
+			<td>3.85</td>
+			<td>debt collector, ke bank</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>371.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>istirahat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>372.</td>
+			<td>Finance</td>
+			<td>Septianingsih</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>17:12:00</td>
+			<td>04:12</td>
+			<td>4.20</td>
+			<td>debt collectot</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>373.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>08:46:00</td>
+			<td>12:00:00</td>
+			<td>03:14</td>
+			<td>3.23</td>
+			<td>- cek billing Tugu Reasuransi
+- konfirmasi angka tagihan inhouse training ITM
+- pembatalan invoice ATI
+- cek data piutang ABP
+- koreksi jurnal
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>374.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>375.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>18:13:00</td>
+			<td>05:13</td>
+			<td>5.22</td>
+			<td>- input billing MUC SBY (request by email)
+- create invoice MUC Jakarta & Surabaya
+- reprint invoice Star Asia Venture (SBY)
+- update data KWT
+- print dan pemateraian kuitansi
+- input efaktur
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>376.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>08:30:00</td>
+			<td>12:00:00</td>
+			<td>03:30</td>
+			<td>3.50</td>
+			<td>- menyiapkan invoice untuk dikirim
+- membuat delivery receipt pengiriman invoice
+- update daftar pengiriman invoice
+- input data delivery receipt yg sudah diterima
+- mengarsipkan delivery receipt
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>377.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>378.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>17:34:00</td>
+			<td>04:04</td>
+			<td>4.07</td>
+			<td>- filling dokumen
+- trasking invoice NSS
+- reprint invoice NSS
+- cek outstanding invoice Nusa Selaras
+- pembatalan invoice Pertamina Hulu
+- reprint invoice, kuitansi dan FP Pertamina Hulu
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>379.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>08:09:00</td>
+			<td>12:00:00</td>
+			<td>03:51</td>
+			<td>3.85</td>
+			<td>- summary service (all service) Mahadasha Group 2014-2017
+- tracking tanda terima invoice TTME
+- konfirm invoice Revoc NSSBI
+- sent invoice via email
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>380.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>381.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>17:07:00</td>
+			<td>04:07</td>
+			<td>4.12</td>
+			<td>- request data NPWP klien baru MUC
+- input data klien baru ke sistem mucnet
+- draftinig invoice dari billing yg baru diinput
+- cek invoice Bintang Perkasa  Indah Motor thn 2014
+- isi PA
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>382.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>08:09:00</td>
+			<td>12:00:00</td>
+			<td>03:51</td>
+			<td>3.85</td>
+			<td>- create invoice
+- update data KWT
+- print dan pemateraian kuitansi
+- input efaktur
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>383.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>384.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>17:07:00</td>
+			<td>04:07</td>
+			<td>4.12</td>
+			<td>- request input billing ITM (inhouse training)
+- request report TP Doc TIMWI
+- konfirmasi perubahan alamat Fuji Furukawa
+- konfirmasi pembayaran invoice Nusa Selaras terkait addendum agreement
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>385.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>08:27:00</td>
+			<td>12:00:00</td>
+			<td>03:33</td>
+			<td>3.55</td>
+			<td>- menyiapkan invoice untuk dikirim
+- membuat delivery receipt pengiriman invoice
+- update daftar pengiriman invoice
+- request data NPWP klien baru MUC
+- rekap rental revenue 2011 - 2017
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>386.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>387.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>17:30:00</td>
+			<td>04:30</td>
+			<td>4.50</td>
+			<td>- create invoice
+- update data KWT
+- print dan pemateraian kuitansi
+- input efaktur
+- konfirmasi pengiriman invoice Mahadya
+- rekap invoice PRIS (yayasan sekolah internasional)
+- sent invoice ILC via email
+- konfirmasi outstanding payment invoice ILC
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>388.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>08:19:00</td>
+			<td>12:00:00</td>
+			<td>03:41</td>
+			<td>3.68</td>
+			<td>- menyiapkan invoice untuk dikirim
+- membuat delivery receipt pengiriman invoice
+- update daftar pengiriman invoice
+- input data DR yg sudah diterima
+- mengarsipkan delivery receipt
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>389.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>390.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>17:05:00</td>
+			<td>04:05</td>
+			<td>4.08</td>
+			<td>- membuat FP Pengganti TTME
+- request billing Dongfang
+- create invoice, kuitansi dan FP ILC (urgent)
+- sent invoice via email
+- konfirmasi amount billing EITR Halliburton
+- menyiapkan data untuk auditor
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>391.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>08:11:00</td>
+			<td>12:00:00</td>
+			<td>03:49</td>
+			<td>3.82</td>
+			<td>- menyiapkan data untuk auditor
+- reprint invoice, kuitansi dan FP Global Fleet dan Morpho
+- cek deposit sewa ruang BSP
+- konfirm billing EITR 2018 Timken
+- drafting invoice
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>392.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>393.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>17:15:00</td>
+			<td>03:45</td>
+			<td>3.75</td>
+			<td>- konfirmasi email terkait ketidaklengkapan invoice MDU dan TMT
+- create invoice
+- update data KWT
+- print dan pemateraian kuitansi
+- input efaktur
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>394.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>08:38:00</td>
+			<td>17:38:00</td>
+			<td>09:00</td>
+			<td>9.00</td>
+			<td>- menyiapkan SPT untuk dikirim
+- prepare invoice
+- input zahir
+- cek bukti pengeluaran-penerimaan kas</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>395.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>08:36:00</td>
+			<td>17:43:00</td>
+			<td>09:07</td>
+			<td>9.12</td>
+			<td>- mengarsipkan SPT PPN
+- prepare invoice
+- input zahir
+- cek bukti pengeluaran/penerimaan kas</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>396.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>08:20:00</td>
+			<td>12:00:00</td>
+			<td>03:40</td>
+			<td>3.67</td>
+			<td>- konfirmasi pembayaran invoice Bintuni
+- cek billing OPE Bank Aceh
+- cek data OPE IITR Indojapan
+- rekap accounting service 2017
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>397.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>398.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>16:30:00</td>
+			<td>03:30</td>
+			<td>3.50</td>
+			<td>meeting billing compliance w/ manager & partner (mas lucky, mas sigit, mba wila, ,mba winni & mba meyda)</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>399.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>16:30:00</td>
+			<td>17:26:00</td>
+			<td>00:56</td>
+			<td>0.93</td>
+			<td>- input delivery rececipt pengiriman invoice
+- mengarsipkan ndelivery receipt</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>400.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>08:30:00</td>
+			<td>12:00:00</td>
+			<td>03:30</td>
+			<td>3.50</td>
+			<td>- review hasil meeting billing kamis 29 Nov 2017
+- input CPD
+- drafting invoice
+- create invoice dari billing yg baru diinput berdasarkan meeting billing
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>401.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>402.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>17:30:00</td>
+			<td>04:00</td>
+			<td>4.00</td>
+			<td>- update data KWT
+- print dan pemateraian kuitansi
+- input efaktur
+- upload efaktur
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>403.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>08:48:00</td>
+			<td>12:00:00</td>
+			<td>03:12</td>
+			<td>3.20</td>
+			<td>- input billing request MUC Surabaya & MUC Balikpapan
+- create invoice MUC Surabaya & MUC Balikpapan
+- update data KWT
+- print dan pemateraian kuitan
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>404.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>405.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>18:20:00</td>
+			<td>05:20</td>
+			<td>5.33</td>
+			<td>- input efaktur
+- edit data NPWP PKF di sistem invoice
+- cek billing
+- drafting billing monnthly Jakarta Desember 2017
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>406.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>08:34:00</td>
+			<td>12:00:00</td>
+			<td>03:26</td>
+			<td>3.43</td>
+			<td>- sent invoice via email
+- konfirmasi pembayaran invoice Peteka Karya Gapura
+- konfirmasi pembayaran invoice Pertamina Trans Kontinental
+- konfirmasi pembayaran invoice Mr. Oshima (Rajamandala)
+- Konfirmasi pembayaran invoice Mr. Tsukuda
+- tracking tanda terima invoice Pertamina Retail
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>407.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>408.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>19:00:00</td>
+			<td>06:00</td>
+			<td>6.00</td>
+			<td>- membuat tagihan pajak 5 ekspat Daifuku
+- olah data OPE tim Cahya
+- input data NPWP klien baru MUC di sistem invoice
+- drafting billing termin Desember 2017
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>409.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>08:34:00</td>
+			<td>12:00:00</td>
+			<td>03:26</td>
+			<td>3.43</td>
+			<td>- upload efaktur
+- penstempelan invoice dan kuitansi
+- menyiapkan invoice untuk dikirim
+- membuat delivey receipt pengiriman invoice
+- update daftar pengiriman invoice
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>410.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>411.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>18:47:00</td>
+			<td>05:47</td>
+			<td>5.78</td>
+			<td>- pembatalan invoice audit revoc Mr. Keiichi Oshima
+- cek double billing Willis
+- sent invoice via email
+- sent data SPT PPN Patra Badak Arun Solusi
+- pembahasan outstanding invoice dan pengembalian invoice BSP
+- create invoice
+- update data KWT
+- print dan pemateraian kuitansi
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>412.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>08:38:00</td>
+			<td>12:00:00</td>
+			<td>03:22</td>
+			<td>3.37</td>
+			<td>- input efaktur
+- upload efaktur
+- menyiapkan invoice untuk dikirim
+- menyiapkan lampiran dokumen kelengkapan invoice
+- membuat alamat
+- membuat delivery receipt pengiriman invoice
+- update daftar pengiriman invoice
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>413.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>414.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>17:36:00</td>
+			<td>04:36</td>
+			<td>4.60</td>
+			<td>- tracking invoice IAF
+- cek pembayaran invoice VFS
+- rekap sewa ruangan November 2017 utk perhitungan PPh 4(2)
+- input petty cash November 2017
+- cek bukti pengeluaran/penerimaan kas
+- create invoice
+- update data KWT
+- prrint dan pemateraian kuitansi
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>415.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>08:27:00</td>
+			<td>12:00:00</td>
+			<td>03:33</td>
+			<td>3.55</td>
+			<td>- menyiapkan invoice untuk dikirim
+- membuat delivery receipt pengiriman invoice
+- update daftar pengiriman invoice
+- konfirmasi pembayaran invoice IAF
+- rekap total pendapatan MUC tahun 2017 utk perhitungan annual turnover
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>416.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>417.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>13:30:00</td>
+			<td>17:31:00</td>
+			<td>04:01</td>
+			<td>4.02</td>
+			<td>- sent invoice via email
+- membuat Statement of Account Receivable ILC Logistics
+- input data NPWP klien baru MUC
+- create invoice
+- update data KWT
+- print dan pemateraian kuitansi
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>418.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>08:53:00</td>
+			<td>12:00:00</td>
+			<td>03:07</td>
+			<td>3.12</td>
+			<td>- input efaktur
+- upload efaktur
+- menyiapkan invoice untuk dikirim
+- prepare data OPE untuk lampiran invoice
+- print alamat
+- proses pengamplopan dan pengecekan invoice
+- membuat delivery receipt pengiriman invoice
+- update daftar pengiriman invoice
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>419.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>420.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>17:53:00</td>
+			<td>04:53</td>
+			<td>4.88</td>
+			<td>- re-sent invoice Pertamina Retail
+- membuat billing request MUC Surabaya (request by email)
+- input billing request MUC Surabaya di sistem invoice
+- drafting invoice
+- create invoice
+- update data KWT
+- print dan pemateraian kuitansi
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>421.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>07:56:00</td>
+			<td>12:00:00</td>
+			<td>04:04</td>
+			<td>4.07</td>
+			<td>- sent enofa utk klien
+- sent data pelaporan SPT PPN PT Patra Badak Arun Solusi
+- sent invoice via email
+- pembatalan invoice Yamazaki (master file)
+- input zahir November 2017
+- cek bukti pengeluaran/penerimaan kas
+- cek FP masukan
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>422.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>423.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>17:28:00</td>
+			<td>04:28</td>
+			<td>4.47</td>
+			<td>- input efaktur
+- prepare invoice, ,kuitansi dan FP BAS (urgent)
+- tracking invoice MKM dan DMS
+- input zahir November 2017
+- cek bukti pengeluaran/penerimaan kas
+- cek FP masukan
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>424.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>08:54:00</td>
+			<td>12:00:00</td>
+			<td>03:06</td>
+			<td>3.10</td>
+			<td>- print efaktur
+- menyiapkan invoice utk dikirim
+- print alamat
+- proses pengamplopan dan pengecekan invoice
+- membuat delivery receipt pengiriman invoice
+- update daftar pengiriman invoice
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>425.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>426.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>18:18:00</td>
+			<td>05:18</td>
+			<td>5.30</td>
+			<td>- drafting billing
+- cek billing CITR 2016 term 2 klien yg terlewat
+- cek billing revoc petnesia
+- resent invoice KJPP Bendictus
+- complete form data vendor utk klien
+- create invoice
+- update data KWT
+- print dan pemateraian kuitansi
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>427.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>08:24:00</td>
+			<td>12:00:00</td>
+			<td>03:36</td>
+			<td>3.60</td>
+			<td>- input efaktur
+- upload efaktur
+- cek dana masuk utk pembayaran tagihan pajak ekspat Daifuku
+- membuat summary rincian pembatalan dan pembetulan invoice (utk meeting pak agus)
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>428.</td>
+			<td>Finance</td>
+			<td>Suci Rahmayani</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>17:26:00</td>
+			<td>05:26</td>
+			<td>5.43</td>
+			<td>- input zahir November 2017
+- cek bukti pengeluaran/penerimaan kas
+- cek fp masukan
+- browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+		</tbody>
+</table>
+

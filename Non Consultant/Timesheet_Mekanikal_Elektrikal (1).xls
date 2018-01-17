@@ -1,0 +1,4055 @@
+
+
+
+<table cellpadding="0" cellspacing="0" width="100%">
+	<thead>
+		<tr>
+			<th>No</th>
+			<th>Departement</th>
+			<th>Fullname</th>
+			<th>Date</th>
+			<th>Month</th>
+			<th>Timestart</th>
+			<th>Timefinish</th>
+			<th>Timeduration</th>
+			<th>Timeduration Decimal</th>
+			<th>Description</th>
+			<th>Category</th>
+			<th>No Proposal</th>
+			<th>No Agreement</th>
+			<th>Companies</th>
+			<th>Services</th>
+		</tr>
+	<thead>
+	<tbody>
+			<tr>
+			<td>1.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Sholeh Udin Wibowo</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>13:07:00</td>
+			<td>15:57:00</td>
+			<td>02:50</td>
+			<td>2.83</td>
+			<td>perbaikan lampu di lantai 3 bekas marketing
+perbaikan lampu taman
+stanbay
+</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>2.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Sholeh Udin Wibowo</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>15:57:00</td>
+			<td>18:00:00</td>
+			<td>02:03</td>
+			<td>2.05</td>
+			<td>kontrol gedung
+of ac
+on penerangan gedung
+stanbay
+</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>3.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Sholeh Udin Wibowo</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>18:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>4.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Sholeh Udin Wibowo</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>18:15:00</td>
+			<td>20:15:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>kontrol panel/lantai
+of penerangan yang tidak perlu
+stanbay
+</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>5.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Sholeh Udin Wibowo</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>20:15:00</td>
+			<td>22:57:00</td>
+			<td>02:42</td>
+			<td>2.70</td>
+			<td>kontrol gedung
+of penerangan gedung
+stanbay
+</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>6.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Sholeh Udin Wibowo</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>06:44:00</td>
+			<td>12:00:00</td>
+			<td>05:16</td>
+			<td>5.27</td>
+			<td>pemasangan stop kontak di ruang endang besment</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>7.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Sholeh Udin Wibowo</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>8.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Sholeh Udin Wibowo</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:19:00</td>
+			<td>02:19</td>
+			<td>2.32</td>
+			<td>kontrol gedung
+perbaikan lampu taman....
+stanbay
+</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>9.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>07:30:00</td>
+			<td>12:00:00</td>
+			<td>04:30</td>
+			<td>4.50</td>
+			<td>Cek peralatan sarana & prasarana gedung. kontrol keliling areal gedung. monitoring semua aktifitas peralatan sarana & prasaran gedung. stand by. </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>10.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>11.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>17:10:00</td>
+			<td>04:10</td>
+			<td>4.17</td>
+			<td>kontrol keliling areal gedung. monitoring semua aktifitas peralatan sarana & prasarana gedung.dis kusi crew Me/ satnd by. menyalakan lampu penerangan dalam </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>12.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>06:00:00</td>
+			<td>11:30:00</td>
+			<td>05:30</td>
+			<td>5.50</td>
+			<td>Menghidupkan AC semua unit. cek peralatan sarana & prasarana gedung. kontrol keliling areal dalama & luar gedung. monitoring semua aktifitas peralatan sarana & prasarana gedung. menyiapkan sarana sholat jumat. </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>13.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>11:30:00</td>
+			<td>12:30:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>14.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>12:30:00</td>
+			<td>15:34:00</td>
+			<td>03:04</td>
+			<td>3.07</td>
+			<td>Diskusi crew ME. kontrol keliling areal egdung. monitoring semua aktifitas peralatan sarana & prasarana gedung. stand by</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>15.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-18</td>
+			<td>November</td>
+			<td>09:30:00</td>
+			<td>12:00:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>Pengerjaan pencarian kosleting lampu taman/ pagar luar gedung.</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>16.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-18</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>17.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-18</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:40:00</td>
+			<td>02:40</td>
+			<td>2.67</td>
+			<td>belanja matrial , pasir gibsum dll. pengawasan pekerja tukang</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>18.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>13:54:00</td>
+			<td>17:30:00</td>
+			<td>03:36</td>
+			<td>3.60</td>
+			<td>Cek peralatan sarana & prasarana geduung. kontrol keliling areal gedung. monitoring semua aktifitas peralatan sarana & prasaran gedung. diskusi crew ME. stand by</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>19.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>17:30:00</td>
+			<td>19:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>Menyalakan lampu penerangan malam. mematikan AC semua unit. ontrol penerangan malam .</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>20.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>19:00:00</td>
+			<td>20:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>21.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>20:00:00</td>
+			<td>22:14:00</td>
+			<td>02:14</td>
+			<td>2.23</td>
+			<td>Mengurangi penerangan dalam gedung semua lantai. kontrol keliling areal fgedung. cek kembali peralatan sarana & prasasrana gedung. stand by.MENGURANGI PENERANGAN LUAR . PULANG</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>22.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>12:08:00</td>
+			<td>17:08:00</td>
+			<td>05:00</td>
+			<td>5.00</td>
+			<td>cEK PERALATAN SARANA & PRASARANA GEDUNG. KONTROL KELILING AREAL DALAM & LUAR GEDUNG. MONITORING SEMUA AKTIFITAS PERALATAN SARANA & PRASARANA GEDUNG.DISKUSI CREW me. STAN DBY</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>23.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>17:08:00</td>
+			<td>18:00:00</td>
+			<td>00:52</td>
+			<td>0.87</td>
+			<td>Menyalakan lampu penerangan malam.Mematikan AC semua unit. kontrol penerasnganmalam .</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>24.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>19:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>25.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>19:00:00</td>
+			<td>21:17:00</td>
+			<td>02:17</td>
+			<td>2.28</td>
+			<td>Mengurangi penerangan dalam semua lantai. kontrol keliling areal gedung. cek kembali peralatan sarana & prasarana gedung. stand by. mengurangi penerangan malam. pulang</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>26.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>12:58:00</td>
+			<td>17:30:00</td>
+			<td>04:32</td>
+			<td>4.53</td>
+			<td>Cek peralatan sarana sarana & prasarana gedung. kontrol keliling areal gedung. monitoring semua aktifitas peralatan sarana & prasarana gedung. diskusi crew ME. stand by. </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>27.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>17:30:00</td>
+			<td>19:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>Menyalakan lampu penerangan malam. mematikan AC semua unit. kontrol penerangan malam. </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>28.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>19:00:00</td>
+			<td>20:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>29.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>20:00:00</td>
+			<td>22:01:00</td>
+			<td>02:01</td>
+			<td>2.02</td>
+			<td>Mengurangi penerangan dalam gedung semua lantai. kontrol keliling areal gedung. monitoring semua aktifitas peralatan sarana & prasarana gedung. mengurangi penerangan malam. stand by. pulang</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>30.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>12:30:00</td>
+			<td>17:08:00</td>
+			<td>04:38</td>
+			<td>4.63</td>
+			<td>Cek peralatan sarana & prasarana gedung. kontrol keliling areal gedung. monitoring semua aktifitas peralatan sarana & prasarana gedung. diskusi crew ME. stand by.</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>31.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>17:08:00</td>
+			<td>18:08:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Menyalakan lampu penerangan malam. mematikan Ac semua unit.kontrol penerangan malam.</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>32.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>18:08:00</td>
+			<td>19:08:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>33.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>19:08:00</td>
+			<td>22:08:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>Mengurangi penerangan dalam semua lantai. kontrol keliling areal gedung. cek kembali peralatan sarana & prasarana gedung. stand by. pulang</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>34.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>11:21:00</td>
+			<td>17:00:00</td>
+			<td>05:39</td>
+			<td>5.65</td>
+			<td>Menyiapkan sarana sholat jumatan. sholat jumat. kontrol keliling areal gedung. cek sarana & prasaran gedung. monitoring semua aktifitas peralatan sarana & prasarana gedung. diskusi crew ME. stand by</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>35.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>17:00:00</td>
+			<td>18:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Menyalakan lampu penerangan malam. Mematikan AC semua unit. kontrol penerangan malam.</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>36.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>19:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>37.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>19:00:00</td>
+			<td>21:21:00</td>
+			<td>02:21</td>
+			<td>2.35</td>
+			<td>Mengurangi penerangan dalam semua lanti. kontrol keliling areal gedung. mengurangi malam . cek kembali peralatan sarana & prasarana gedung. stand by .pulang</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>38.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-25</td>
+			<td>November</td>
+			<td>08:44:00</td>
+			<td>12:00:00</td>
+			<td>03:16</td>
+			<td>3.27</td>
+			<td>menyiapkan sarana & prasarana Ruang meating lt 1. bongkar muat barang gudang lt besmet ke gudang ME baru</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>39.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-25</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>40.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-25</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>16:10:00</td>
+			<td>03:10</td>
+			<td>3.17</td>
+			<td>Melanjutkan perapihan barang di gudang ME</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>41.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>06:18:00</td>
+			<td>12:00:00</td>
+			<td>05:42</td>
+			<td>5.70</td>
+			<td>Menghidupkan AC semua unit. cek peralatan sarana & prasarana gedung. kontro keliling areal dalam & luar gedung. monitoring semua aktifitas peralatan sarana & prasarana gedung. stand by. </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>42.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>43.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:18:00</td>
+			<td>02:18</td>
+			<td>2.30</td>
+			<td>Diskusi crew ME. kontrol keliling areal gedung. monitoring semua aktifiitas peraltan sarana & prasarana gedung . stand by</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>44.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>15:18:00</td>
+			<td>17:54:00</td>
+			<td>02:36</td>
+			<td>2.60</td>
+			<td>buka cctv permintaan HRD & P Lucky</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>45.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>05:57:00</td>
+			<td>11:30:00</td>
+			<td>05:33</td>
+			<td>5.55</td>
+			<td>Start AC semua unit. cek peralatan sarana & prasarana gedung. kontrol keliling areal dalam & luar geduung. monitoring semua aktiftas peralatan sarana & prasarana gedung. menganti lampu TL yg mati di lt 3. stand by</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>46.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>11:30:00</td>
+			<td>12:30:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>47.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>12:30:00</td>
+			<td>15:13:00</td>
+			<td>02:43</td>
+			<td>2.72</td>
+			<td>Diskusi crew ME. kontrol keliling areal gedung. monitoring semua aktifitas peralatan sarana & prasarana gedung. stand by</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>48.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>06:00:00</td>
+			<td>11:00:00</td>
+			<td>05:00</td>
+			<td>5.00</td>
+			<td>Start AC semua unit. Cek peralatan sarana & prasarana gedung. Kontrol keliling areal gedung. monitoring semua aktifitas peralatan sarana & prasarana gedung. buka cctv. stand by</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>49.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>11:00:00</td>
+			<td>12:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>50.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>15:57:00</td>
+			<td>03:57</td>
+			<td>3.95</td>
+			<td>kontrol keliling areal gedung. monitoring semua aktifitas peralatan sarana & prasarana gedung. menganti lampu TL RTS lt 6. diskusi crew Bulding. stand by. pulang</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>51.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>07:34:00</td>
+			<td>12:00:00</td>
+			<td>04:26</td>
+			<td>4.43</td>
+			<td>Menghidupkan AC semua unit. cek peralatan sarana & prasaarana gedung. kontrol keliling arealdalam & luar gduung. monitoring semua  aktifitas peralatan sarana & prasrana geduung. stand by . </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>52.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>53.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>17:24:00</td>
+			<td>04:24</td>
+			<td>4.40</td>
+			<td>Diskusi crew ME. kontrol keliling areal gedung. monitoring semua aktifitas peralatan sarana & prasarana gedung. stand by. pulang</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>54.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>08:43:00</td>
+			<td>12:00:00</td>
+			<td>03:17</td>
+			<td>3.28</td>
+			<td>Cek peralan sarana & prasarana gedung. monitoring semua aktifitas peralatan sarana & prasarana gedung. menganti isi farfum toilet. semua lantai. stand by</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>55.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>56.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>17:45:00</td>
+			<td>04:45</td>
+			<td>4.75</td>
+			<td>Diskusi crew ME. kontrol keliling areal; gedung. monitoring semua aktifitas peralatan sarana & prasarana gedung. stand by</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>57.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>09:53:00</td>
+			<td>12:00:00</td>
+			<td>02:07</td>
+			<td>2.12</td>
+			<td>Cek peralatan sarana & prasarana gedung. kontrol keliling areal dalam & luar gedung. monitoring semua akltifitas peralatan sarana & prasarana geduung. menganti lampu TL lt besment & 3 yang amati . stand by</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>58.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>59.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:15:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>Kontrol keliling areal gedung. monitoring semua aktifitas peralatan sarana & prasarana gedung. meating tim building</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>60.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>18:35:00</td>
+			<td>03:20</td>
+			<td>3.33</td>
+			<td>dis kusi crew ME. stand by. menyalakan lampu penerangan malam.</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>61.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>09:04:00</td>
+			<td>12:00:00</td>
+			<td>02:56</td>
+			<td>2.93</td>
+			<td>Cek peralan sarana & prasarana gedung. kontrol keliling areal gedung. monitoring semua aktifitas peralatan sarana & prasarana gedung. merapihkan lane telpon & lampu Ruang fieling . stan dby</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>62.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>63.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>18:21:00</td>
+			<td>05:21</td>
+			<td>5.35</td>
+			<td>Diskusi crew ME. kontrol keliling areal gedung. monitoring semua aktifitas peralatan sarana & prasarana gedung. stand by. menyalakan lampu penerangan malam.</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>64.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>07:29:00</td>
+			<td>12:00:00</td>
+			<td>04:31</td>
+			<td>4.52</td>
+			<td>Cek peralatan sarana & prasarana gedung. kontrol keliling areal dalam & luar geudng. monitirng semua aktifitas peralatan sarana & prasarana gedung. menganti isi farfu masjid & lamppu. stand by</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>65.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>66.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>17:28:00</td>
+			<td>04:28</td>
+			<td>4.47</td>
+			<td>Diskusi crew ME. kontrol keliling areal gedung. gedung. monitoring semua aktifitas peralatan sarana & prasarana gedung. stand by</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>67.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>09:19:00</td>
+			<td>11:30:00</td>
+			<td>02:11</td>
+			<td>2.18</td>
+			<td>cek peralatan sarana & prasarana gedung. kontrol keliling areal dalam & luar gedung. monitoring semua aktifitas peralatan sarana & prasarana gedung. menyiapkan sarana Sholat jumatan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>68.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>11:30:00</td>
+			<td>12:30:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>69.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>12:30:00</td>
+			<td>18:29:00</td>
+			<td>05:59</td>
+			<td>5.98</td>
+			<td>Diskusi crew ME. kontrol  keliling areal gedung. monitoring semua aktifitas peralatan saranaa & prasarana gedung. stand by. menyalakan lkampu penerangan malam.</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>70.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-09</td>
+			<td>December</td>
+			<td>10:10:00</td>
+			<td>12:30:00</td>
+			<td>02:20</td>
+			<td>2.33</td>
+			<td>tebang pohon pohon depan .pasang seteger ganti lampu kanopi</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>71.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-09</td>
+			<td>December</td>
+			<td>12:30:00</td>
+			<td>13:30:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>72.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-09</td>
+			<td>December</td>
+			<td>13:30:00</td>
+			<td>15:10:00</td>
+			<td>01:40</td>
+			<td>1.67</td>
+			<td>cuci AC gudang. rapihkan seteger</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>73.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>17:30:00</td>
+			<td>04:30</td>
+			<td>4.50</td>
+			<td> cek peralatan sarana & prasarana gedung. kontrol keliling areal dalam & luar  gedung.monitoring semua aktifitas peralatan sarana & prasarana gedung. meating tim building. stand by</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>74.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>17:30:00</td>
+			<td>19:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>Menyalakan lampu penerangan malam. kontrol penerangan malam. mematikan AC semua unit. </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>75.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>19:00:00</td>
+			<td>20:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>76.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>20:00:00</td>
+			<td>22:13:00</td>
+			<td>02:13</td>
+			<td>2.22</td>
+			<td>Mengurangi penerangan dalam semua lantai. kontrol keliling areal gedung. cek kembalai peralatan sarana & prasarana gedung. mengurangi poenranga luar. stand by. pulang</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>77.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>13:04:00</td>
+			<td>17:30:00</td>
+			<td>04:26</td>
+			<td>4.43</td>
+			<td>Cek peralatan sarana & prasarana gedung. kontrol keliling areal dalam & luar gedung. monitoring semua
+aktifitas peralatan sarana & prasarana gedung. diskusi crew ME. stans by</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>78.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>17:30:00</td>
+			<td>19:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>Menyalakan lampu penerangan malam. mematikan AC semua unit. kontrol penerangan malam. </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>79.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>19:00:00</td>
+			<td>20:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>80.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>20:00:00</td>
+			<td>22:09:00</td>
+			<td>02:09</td>
+			<td>2.15</td>
+			<td>Mengurangi penerangan dalam Semua lanti . kontrol keliling areal gedung. cek kembali peralatan sarana & prasarana gedung. stand by. pulang</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>81.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>17:30:00</td>
+			<td>04:30</td>
+			<td>4.50</td>
+			<td>Cek peralatan sarana & prasarana gedung. kontrol keliling areal dalam & luar gedung. monitoring semua aktifitas peralatan sarana & prasarana gedung. diskusi crew ME. stand by. </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>82.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>17:30:00</td>
+			<td>19:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>Menyalakan lampu penerangan malam . Mematikan AC semua unit. kontrol penerangan luar.</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>83.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>19:00:00</td>
+			<td>20:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>84.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>20:00:00</td>
+			<td>22:12:00</td>
+			<td>02:12</td>
+			<td>2.20</td>
+			<td>Mengurangi penererangn dalam semua lantai. kontrol keliling areal dalam & luar  geduung. cek kembali peralatan sarana & prasarana gedung. stand by</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>85.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>17:00:00</td>
+			<td>05:00</td>
+			<td>5.00</td>
+			<td>Cek peralatan sarana & prasarana gedung. kontrol keliling areal dalam & luar gedung. monitoring semua aktifitas peralatan sarana & prasarana gedung. diskusi crew ME. stand by</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>86.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>17:00:00</td>
+			<td>18:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Menyalakan lampu penerangan malam . mematikan AC semua UNit. kontrol penerangan malam luar dalam.</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>87.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>18:00:00</td>
+			<td>19:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>88.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Teguh Sungkowo</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>19:00:00</td>
+			<td>21:08:00</td>
+			<td>02:08</td>
+			<td>2.13</td>
+			<td>Mengurangii penerang dalam semua lantai . kontrol keliling areal dalam & luar gedung. cek kembali peralatan sarana & prasarana gedung. mengurangi penerang luar. stand by. pulang</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>89.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>07:49:00</td>
+			<td>10:00:00</td>
+			<td>02:11</td>
+			<td>2.18</td>
+			<td>-check beban dan panel listrik
+-check outdoor ac dan tangki air atas</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>90.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>-mengarahkan tukang dalampengerjaan kanopi selter ruang tunggu driver</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>91.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>92.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>-check pompa air dan grondtank
+-check ATS dan genset</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>93.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>94.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>17:18:00</td>
+			<td>02:03</td>
+			<td>2.05</td>
+			<td>pasang monitor cctv pos security</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>95.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>08:00:00</td>
+			<td>17:00:00</td>
+			<td>09:00</td>
+			<td>9.00</td>
+			<td>Annual Leave : ada kepentingan keluarga</td>
+			<td>Personal Leave</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>96.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>08:00:00</td>
+			<td>17:00:00</td>
+			<td>09:00</td>
+			<td>9.00</td>
+			<td>Annual Leave : ada kepentingan keluarga</td>
+			<td>Personal Leave</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>97.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>07:58:00</td>
+			<td>10:00:00</td>
+			<td>02:02</td>
+			<td>2.03</td>
+			<td>-check beban dan breker2 listrik
+-check outdoor ac dan tangki air atas
+-belanja material pembuatan toilet ruang arsip</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>98.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>-mengarahkan tukang untuk pembuatan saluran pipa</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>99.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>100.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>-check panel ac dan mesin lift</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>101.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>102.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>17:43:00</td>
+			<td>02:28</td>
+			<td>2.47</td>
+			<td>-check pompa air dan membersihkan ruang pompa hidrant</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>103.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>08:01:00</td>
+			<td>10:00:00</td>
+			<td>01:59</td>
+			<td>1.98</td>
+			<td>-check beban dan panel listrik
+-perbaikan urinoir toilet lt.5</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>104.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>evaluasi pekerjaan building tahun 2017</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>105.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>106.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>-melanjutkan evaluasi pekerjaan building th 2017</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>107.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>108.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>17:13:00</td>
+			<td>01:58</td>
+			<td>1.97</td>
+			<td>kontrol tukang pekerjaan toilet ruang arsip</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>109.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>07:55:00</td>
+			<td>10:00:00</td>
+			<td>02:05</td>
+			<td>2.08</td>
+			<td>-check beban dan breker2 listrik
+-ganti lampu toilet dan koridor lt4</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>110.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>-menyusun rencana pekerjaan untuk tahun 2018</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>111.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>112.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>-pembuatan stop kontak untuk infocus ruang meeting</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>113.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>114.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>17:11:00</td>
+			<td>01:56</td>
+			<td>1.93</td>
+			<td>-perbaikan line kabel lampu pagar dan taman</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>115.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>08:06:00</td>
+			<td>10:00:00</td>
+			<td>01:54</td>
+			<td>1.90</td>
+			<td>-check beban dan panel listrik
+-check outdoor ac dan exsos fan gedung</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>116.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>-check ac masjid
+-check panel ac dan mesin lift</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>117.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>118.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>15:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>-check pompa air dan grondtank
+-check pompa air dan sumur resapan basement</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>119.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>120.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>17:20:00</td>
+			<td>02:05</td>
+			<td>2.08</td>
+			<td>-pasang instalasi air bersih untuk toilet ruang arsip</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>121.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-25</td>
+			<td>November</td>
+			<td>08:58:00</td>
+			<td>10:13:00</td>
+			<td>01:15</td>
+			<td>1.25</td>
+			<td>-belanja material pengecatan gedung
+-mengarahkan service lift rutin bulanan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>122.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>12:51:00</td>
+			<td>15:00:00</td>
+			<td>02:09</td>
+			<td>2.15</td>
+			<td>-belanja keramik dan closet toilet ruang arsip
+-check beban dan panel listrik
+-memindahkan kubikel dari basement ke gudang</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>123.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>124.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>16:30:00</td>
+			<td>01:15</td>
+			<td>1.25</td>
+			<td>-mengarahkan tukang pemasangan keramik toilet</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>125.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>16:30:00</td>
+			<td>18:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>-check toilet di semua lantai
+-on off ac dan lampu di semua area dalam dan luar gedung</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>126.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>18:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>127.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>18:30:00</td>
+			<td>20:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>-check semua ruangan di area dalam gedung
+-mematikan lampu di lt.4, 5 dan masjid</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>128.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>20:00:00</td>
+			<td>22:03:00</td>
+			<td>02:03</td>
+			<td>2.05</td>
+			<td>-standby
+-check semua ruangan di area dalam gedung
+-mematikan semua lampu di area dalam gedung setelah semua aktifitas selesai</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>129.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>12:59:00</td>
+			<td>15:15:00</td>
+			<td>02:16</td>
+			<td>2.27</td>
+			<td>-mengarahkan tukang dalam pekerjaan perapihan plafond di lt4&5</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>130.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>15:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>131.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>18:00:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>-check beban dan panel listrik
+-check toilet di semua lantai
+-on off ac dan lampu di semua area dalam dan luar gedung</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>132.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>18:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>133.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>18:30:00</td>
+			<td>20:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>-check semua ruangan di area dalam gedung
+-mematikan lampu di lt.4, 5 dan masjid
+-standby</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>134.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>20:00:00</td>
+			<td>22:19:00</td>
+			<td>02:19</td>
+			<td>2.32</td>
+			<td>-check panel listrik semua lantai
+-mematikan semua lampu di area dalam gedung setelah semua aktifitas selesai</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>135.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>13:02:00</td>
+			<td>15:00:00</td>
+			<td>01:58</td>
+			<td>1.97</td>
+			<td>-belanja material untuk pembuatan toilet ruang arsip
+-check pompa air dan grondtank</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>136.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:20:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>137.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>15:20:00</td>
+			<td>18:00:00</td>
+			<td>02:40</td>
+			<td>2.67</td>
+			<td>-check outdoor ac dan tangki air atas
+-check beban dan breker2 listrik
+-on off ac dan lampu di semua area dalam dan luar gedung</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>138.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>18:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>139.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>18:30:00</td>
+			<td>20:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>-check semua ruangan di area dalam gedung
+-mematikan lampu di lt.4, 5 dan masjid
+-check toilet di semua lantai</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>140.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>20:00:00</td>
+			<td>21:55:00</td>
+			<td>01:55</td>
+			<td>1.92</td>
+			<td>-check pompa air dan grondtank
+-check semua ruangan di area dalam gedung
+-mematikan semua lampu di area dalam gedung setelah semua aktifitas selesai</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>141.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>13:46:00</td>
+			<td>15:00:00</td>
+			<td>01:14</td>
+			<td>1.23</td>
+			<td>-check beban dan breker2 listrik
+-ganti lampu koridor lt.5</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>142.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:20:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>143.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>15:20:00</td>
+			<td>18:00:00</td>
+			<td>02:40</td>
+			<td>2.67</td>
+			<td>-mengarahkan tukang dalam pengecatan dinding area tangga darurat
+-check panel ac dan mesin lift
+-on off ac dan lampu di semua area dalam dan luar gedung</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>144.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>18:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>145.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>18:30:00</td>
+			<td>20:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>-check semua ruangan di area dalam gedung
+-mematikan lampu di lt.4, 5 dan masjid</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>146.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>20:00:00</td>
+			<td>22:31:00</td>
+			<td>02:31</td>
+			<td>2.52</td>
+			<td>-standby
+-ganti lampu toilet lt.2
+-check beban dan panel listrik
+-mematikan semua lampu di area dalam gedung setelah semua aktifitas selesai</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>147.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-01</td>
+			<td>December</td>
+			<td>09:09:00</td>
+			<td>10:37:00</td>
+			<td>01:28</td>
+			<td>1.47</td>
+			<td>-belanja material untuk pengecatan gedung</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>148.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-03</td>
+			<td>December</td>
+			<td>09:28:00</td>
+			<td>12:00:00</td>
+			<td>02:32</td>
+			<td>2.53</td>
+			<td>-bongkar kusen pantry basement untuk dipasang di toilet ruang arsip</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>149.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-03</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>150.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-03</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>17:03:00</td>
+			<td>04:03</td>
+			<td>4.05</td>
+			<td>melanjutkan pemasangan kusen pintu</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>151.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>06:26:00</td>
+			<td>09:00:00</td>
+			<td>02:34</td>
+			<td>2.57</td>
+			<td>-hidupkan ac dan lampu koridor di semua lantai
+-check beban dan breker2 listrik
+</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>152.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>09:00:00</td>
+			<td>12:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>-ganti lampu tl box koridor basement
+-merapikan kabel2 dan pasang protektor ruang HRD</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>153.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>154.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>-Merakit rak untuk HRD
+-check pompa air dan grondtank</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>155.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>15:00:00</td>
+			<td>15:20:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>SHALAT</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>156.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>15:20:00</td>
+			<td>17:20:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>-Pasang ac gudang ME
+-Mengarahkan tukang dalam pemasangan closed</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>157.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>06:32:00</td>
+			<td>09:00:00</td>
+			<td>02:28</td>
+			<td>2.47</td>
+			<td>-hidupkan ac dan lampu koridor di semua lantai
+-check pompa air dan grondtank
+-check beban dan panel listrik</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>158.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>09:00:00</td>
+			<td>12:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>-check outdoor ac dan exsos fan gedung
+-perbaikan lampu koridor basement</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>159.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>160.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>14:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>-perbaikan washtafel toilet pria lt.5</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>161.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>14:00:00</td>
+			<td>15:10:00</td>
+			<td>01:10</td>
+			<td>1.17</td>
+			<td>-meeting tim support ME, Cleaning service dan security dengan pak Ika</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>162.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>15:10:00</td>
+			<td>15:30:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>163.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>17:26:00</td>
+			<td>01:56</td>
+			<td>1.93</td>
+			<td>-mengarahkan tukang dan pasang pintu toilet ruang arsip</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>164.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>06:33:00</td>
+			<td>09:00:00</td>
+			<td>02:27</td>
+			<td>2.45</td>
+			<td>-hidupkan ac dan lampu koridor di semua lantai
+-check beban dan panel listrik
+-belanja material</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>165.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>09:00:00</td>
+			<td>12:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>-mengarahkan tukang dalam pembuatan ruang server di gudang arsip
+-check pompa air dan grondtank</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>166.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>167.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:10:00</td>
+			<td>02:10</td>
+			<td>2.17</td>
+			<td>-ganti lampu ruang finance
+-perbaikan lampu ruang doc center dan merapikan kabel telpon</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>168.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>15:10:00</td>
+			<td>15:30:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>169.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>17:16:00</td>
+			<td>01:46</td>
+			<td>1.77</td>
+			<td>-check dan membantu pembuatan ruang server di gudang arsip</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>170.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>06:41:00</td>
+			<td>09:00:00</td>
+			<td>02:19</td>
+			<td>2.32</td>
+			<td>-hidupkan ac dan lampu koridor di semua lantai
+-check panel ac dan mesin lift</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>171.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>09:00:00</td>
+			<td>12:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>-membantu tukang bikin pintu ruang server</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>172.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>173.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:10:00</td>
+			<td>02:10</td>
+			<td>2.17</td>
+			<td>-melanjutkan membuat pintu server gudang arsip</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>174.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>15:10:00</td>
+			<td>15:30:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>175.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>17:11:00</td>
+			<td>01:41</td>
+			<td>1.68</td>
+			<td>-check toilet di semua lantai
+-check beban dan panel listrik</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>176.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>06:33:00</td>
+			<td>09:00:00</td>
+			<td>02:27</td>
+			<td>2.45</td>
+			<td>-hidupkan ac dan lampu koridor di semua lantai
+-perbaikan kran tempat wudhu pria masjid</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>177.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>09:00:00</td>
+			<td>12:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>-check ac masjid dan panel lift</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>178.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>179.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>13:30:00</td>
+			<td>15:10:00</td>
+			<td>01:40</td>
+			<td>1.67</td>
+			<td>-mengarahkan tukang dalam pembuatan kanopi</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>180.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>15:10:00</td>
+			<td>15:30:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>181.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>17:19:00</td>
+			<td>01:49</td>
+			<td>1.82</td>
+			<td>-check beban dan breker2 listrik
+-perbaikan conektor CCTV</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>182.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-09</td>
+			<td>December</td>
+			<td>07:11:00</td>
+			<td>09:35:00</td>
+			<td>02:24</td>
+			<td>2.40</td>
+			<td>-Belanja material proyek
+-mengarahkan tukang pembuatan kanopi
+-mengarahkan cleaning service dalam penebangan pohon</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>183.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>07:55:00</td>
+			<td>12:00:00</td>
+			<td>04:05</td>
+			<td>4.08</td>
+			<td>-pasang indoor ac ruang ME yg baru
+-mengarahkan tukang dalam pembuatan kanopi</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>184.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>185.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:10:00</td>
+			<td>02:10</td>
+			<td>2.17</td>
+			<td>-membantu tukang dalam pembuatan rak helm</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>186.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>15:10:00</td>
+			<td>15:30:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>187.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>17:24:00</td>
+			<td>01:54</td>
+			<td>1.90</td>
+			<td>melanjutkan membuat rak</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>188.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>07:36:00</td>
+			<td>10:00:00</td>
+			<td>02:24</td>
+			<td>2.40</td>
+			<td>-check panel ac dan mesin lift
+-check beban dan panel listrik</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>189.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>-bongkar pasang outdoor ac ruang tunggu driver</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>190.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>191.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:15:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>-melanjutkan pasang ac</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>192.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>15:35:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>193.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>15:35:00</td>
+			<td>17:14:00</td>
+			<td>01:39</td>
+			<td>1.65</td>
+			<td>ganti lampu2 koridor yg mati</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>194.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>07:51:00</td>
+			<td>10:00:00</td>
+			<td>02:09</td>
+			<td>2.15</td>
+			<td>-check beban dan breker2 listrik
+-belanja material</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>195.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>-pasang indoor ac dan tarik kabel stop kontak gudang ME</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>196.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>197.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:15:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>melanjutkan pasang ac</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>198.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>15:35:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>199.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>15:35:00</td>
+			<td>17:00:00</td>
+			<td>01:25</td>
+			<td>1.42</td>
+			<td>-mengarahkan tukang dan bantu buat tangga lt.7 ruang outdoor ac</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>200.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>17:00:00</td>
+			<td>18:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>-mengarahkan tukang dan pengawasan pekerjaan pembongkaran property tenant di lt.4 (PT BSP)</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>201.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>18:00:00</td>
+			<td>18:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>202.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>18:30:00</td>
+			<td>22:12:00</td>
+			<td>03:42</td>
+			<td>3.70</td>
+			<td>Melanjutkan pengwasan pembongkaran properti di lt.4</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>203.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>07:38:00</td>
+			<td>10:00:00</td>
+			<td>02:22</td>
+			<td>2.37</td>
+			<td>-check pompa air dan grondtank
+-check beban dan panel listrik</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>204.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>-melanjutkan pasang tangga lt.7</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>205.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>206.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:15:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>-check outdoor ac dan exsos fan gedung
+-check beban dan breker2 listrik</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>207.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>15:35:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>208.</td>
+			<td>Mekanikal Elektrikal</td>
+			<td>Wardi</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>15:35:00</td>
+			<td>17:07:00</td>
+			<td>01:32</td>
+			<td>1.53</td>
+			<td>-check ATS dan genset
+-check panel hidrant</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+		</tbody>
+</table>
+

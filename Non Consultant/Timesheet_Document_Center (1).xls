@@ -1,0 +1,8266 @@
+
+
+
+<table cellpadding="0" cellspacing="0" width="100%">
+	<thead>
+		<tr>
+			<th>No</th>
+			<th>Departement</th>
+			<th>Fullname</th>
+			<th>Date</th>
+			<th>Month</th>
+			<th>Timestart</th>
+			<th>Timefinish</th>
+			<th>Timeduration</th>
+			<th>Timeduration Decimal</th>
+			<th>Description</th>
+			<th>Category</th>
+			<th>No Proposal</th>
+			<th>No Agreement</th>
+			<th>Companies</th>
+			<th>Services</th>
+		</tr>
+	<thead>
+	<tbody>
+			<tr>
+			<td>1.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>07:50:00</td>
+			<td>12:00:00</td>
+			<td>04:10</td>
+			<td>4.17</td>
+			<td>-check data softcpy konsultan
+-check ruang arsip
+-menyusun dan merapikan dokumen musnah</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>2.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>3.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>input data legal</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>4.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>5.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>17:19:00</td>
+			<td>02:04</td>
+			<td>2.07</td>
+			<td>-melanjutkan input data legal
+-browsing vendor kardus</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>6.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>07:55:00</td>
+			<td>11:50:00</td>
+			<td>03:55</td>
+			<td>3.92</td>
+			<td>-mengambil dokumen di ruang arsip
+-check data softcopy konsultan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>7.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>11:50:00</td>
+			<td>13:15:00</td>
+			<td>01:25</td>
+			<td>1.42</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>8.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>13:15:00</td>
+			<td>14:40:00</td>
+			<td>01:25</td>
+			<td>1.42</td>
+			<td>-merapikan ruangan doc center untuk persiapan ganti meja kerja</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>9.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>14:40:00</td>
+			<td>15:15:00</td>
+			<td>00:35</td>
+			<td>0.58</td>
+			<td>-izin keluar kantor
+-ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>10.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>17:31:00</td>
+			<td>02:16</td>
+			<td>2.27</td>
+			<td>-check data softcopy konsultan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>11.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-19</td>
+			<td>November</td>
+			<td>08:00:00</td>
+			<td>11:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>-memindahkan meja kerja lama
+-pemasangan meja kerja baru</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>12.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-19</td>
+			<td>November</td>
+			<td>11:00:00</td>
+			<td>12:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>-membantu ME check tukang
+-membeli cat untuk pengerjaan ruang RTS</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>13.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-19</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>12:20:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>14.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-19</td>
+			<td>November</td>
+			<td>12:20:00</td>
+			<td>13:58:00</td>
+			<td>01:38</td>
+			<td>1.63</td>
+			<td>-pemasangan meja kerja baru
+-merapikan dan menata meja kerja</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>15.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>07:24:00</td>
+			<td>12:00:00</td>
+			<td>04:36</td>
+			<td>4.60</td>
+			<td>-pindhan ruang kerja
+-stock opname barang di ruang arsip</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>16.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>17.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>14:40:00</td>
+			<td>01:40</td>
+			<td>1.67</td>
+			<td>-melanjutkan stock opname</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>18.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>14:40:00</td>
+			<td>15:15:00</td>
+			<td>00:35</td>
+			<td>0.58</td>
+			<td>izin keluar kantor & shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>19.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>17:33:00</td>
+			<td>02:18</td>
+			<td>2.30</td>
+			<td>pengecekan standar folder</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>20.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>07:59:00</td>
+			<td>12:00:00</td>
+			<td>04:01</td>
+			<td>4.02</td>
+			<td>-pengolahan data stock opname
+-melayani peminjaman buku
+-koordinasi dengan ME terkait pengerjaan ruang server</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>21.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>22.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>-pengeditan data arsip compliance (pemindahan lokasi)</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>23.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>24.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>17:43:00</td>
+			<td>02:28</td>
+			<td>2.47</td>
+			<td>-pengecekan standar folder</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>25.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>08:01:00</td>
+			<td>12:00:00</td>
+			<td>03:59</td>
+			<td>3.98</td>
+			<td>-pengolahan data stock opname
+-melayani peminjaman buku (yan)
+-pengecekan standar folder</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>26.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>27.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>13:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>pengolahan data stock opname</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>28.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>16:30:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>survey etalase di depok</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>29.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>16:30:00</td>
+			<td>17:12:00</td>
+			<td>00:42</td>
+			<td>0.70</td>
+			<td>melanjutkan pengolahan data stock opname</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>30.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>07:56:00</td>
+			<td>12:00:00</td>
+			<td>04:04</td>
+			<td>4.07</td>
+			<td>-melanjutkan pengolahan data stock opname
+-pengeditan data arsip compliance (pemindahan lokasi)</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>31.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>32.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>-Pengeditan data arsip compliance (pemindahan lokasi)
+-pengecekan standar folder</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>33.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>34.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>17:11:00</td>
+			<td>01:56</td>
+			<td>1.93</td>
+			<td>-pelabelan arsip di ruang arsip
+-memindahkan arsip ke lokasi yang baru</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>35.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>08:07:00</td>
+			<td>12:00:00</td>
+			<td>03:53</td>
+			<td>3.88</td>
+			<td>-pengeditan data arsip compliance (pemindahan lokasi)
+-melayani peminjaman buku (suci)</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>36.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>37.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>16:00:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>-pengecekan standar folder
+-backup data zikra</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>38.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>16:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>39.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>16:15:00</td>
+			<td>17:20:00</td>
+			<td>01:05</td>
+			<td>1.08</td>
+			<td>pengeditan data arsip compliance</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>40.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>07:27:00</td>
+			<td>08:00:00</td>
+			<td>00:33</td>
+			<td>0.55</td>
+			<td>makan</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>41.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>08:00:00</td>
+			<td>12:00:00</td>
+			<td>04:00</td>
+			<td>4.00</td>
+			<td>-menyimpan dokumen di ruang arsip
+-pelabelan dan memindahkan lokasi dokumen
+-melayani pengembalian buku (yan)</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>42.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>43.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:05:00</td>
+			<td>02:05</td>
+			<td>2.08</td>
+			<td>-pengeditan data arsip compliance (pemindahan lokasi)
+-melayani peminjaman buku (mba' nila & deo)</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>44.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>15:05:00</td>
+			<td>17:00:00</td>
+			<td>01:55</td>
+			<td>1.92</td>
+			<td>-check email runni
+-melanjutkan pengeditan data arsip compliance</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>45.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>08:01:00</td>
+			<td>12:00:00</td>
+			<td>03:59</td>
+			<td>3.98</td>
+			<td>-pengeditan arsip compliance (pemindahan lokasi)
+-check email runni</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>46.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>47.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>-Pengeditan data arsip compliance (pemindahan lokasi)</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>48.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>49.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>17:12:00</td>
+			<td>01:57</td>
+			<td>1.95</td>
+			<td>-backup data softcopy pandu
+-check email pandu</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>50.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>07:55:00</td>
+			<td>12:00:00</td>
+			<td>04:05</td>
+			<td>4.08</td>
+			<td>-Pengeditan data arsip compliance (pemindahan lokasi)
+-pengecekan standar folder accounting</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>51.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>52.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>pelabelan arsip compliance dan memindahkan lokasi</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>53.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>54.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>17:07:00</td>
+			<td>01:52</td>
+			<td>1.87</td>
+			<td>-check standar folder di laptop galih</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>55.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>07:33:00</td>
+			<td>12:00:00</td>
+			<td>04:27</td>
+			<td>4.45</td>
+			<td>-jilid dokumen TP (Lulu)
+-pengecekan standar folder tim accounting
+-melayani peminjaman buku (mauidhoh Marketing)</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>56.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>57.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>-pelabelan arsip compliance
+-pengecekan standar folder tim accounting
+-melayani peminjaman buku (mba' nila)</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>58.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>59.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>17:03:00</td>
+			<td>01:48</td>
+			<td>1.80</td>
+			<td>-check standar folder tim custom dan nourma</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>60.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>07:33:00</td>
+			<td>12:00:00</td>
+			<td>04:27</td>
+			<td>4.45</td>
+			<td>-memindahkan meja bekas ke gudang ME
+-menyusun dan memindahkan arsip compliance
+-melayani peminjaman buku (mba' Shinta)</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>61.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>62.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>-Pengeditan data arsip compliance (pemindahan lokasi)</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>63.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>15:00:00</td>
+			<td>15:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>64.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>17:17:00</td>
+			<td>02:02</td>
+			<td>2.03</td>
+			<td>-Pengeditan data arsip compliance (pemindahan lokasi)</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>65.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>07:20:00</td>
+			<td>09:00:00</td>
+			<td>01:40</td>
+			<td>1.67</td>
+			<td>-membuat invoice
+-menyiapkan ATK untuk MUC</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>66.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>09:00:00</td>
+			<td>12:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>-Pengeditan data arsip compliance (pemindahan lokasi)</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>67.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>68.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:10:00</td>
+			<td>02:10</td>
+			<td>2.17</td>
+			<td>-sharing dengan cak malkan untuk renovasi koperasi
+-melanjutkan Pengeditan data arsip compliance (pemindahan lokasi)
+</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>69.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>15:10:00</td>
+			<td>15:30:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>70.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>17:05:00</td>
+			<td>01:35</td>
+			<td>1.58</td>
+			<td>-pelabelan arsip compliance</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>71.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>07:40:00</td>
+			<td>12:00:00</td>
+			<td>04:20</td>
+			<td>4.33</td>
+			<td>-membuat dan mengganti label arsip compliance
+-memindahkan lokasi arsip compliance</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>72.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>73.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:10:00</td>
+			<td>02:10</td>
+			<td>2.17</td>
+			<td>-melayani peminjaman buku (mba' mellyfa)
+-pengecekan standar folder</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>74.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>15:10:00</td>
+			<td>15:30:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>75.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>17:08:00</td>
+			<td>01:38</td>
+			<td>1.63</td>
+			<td>-pengecekan standar folder
+-edit data arsip compliance di aplikasi SIAP</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>76.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>07:36:00</td>
+			<td>12:00:00</td>
+			<td>04:24</td>
+			<td>4.40</td>
+			<td>-edit data arsip compliance di SIAP
+-menyusun dan menyimpan kertas musnah di ruang arsip
+-merapikan kardus dokumen di ruang arsip
+-melayani pengembalian buku (ikhwan)</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>77.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>78.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:10:00</td>
+			<td>02:10</td>
+			<td>2.17</td>
+			<td>-edit data arsip compliance di SIAP
+</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>79.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>15:10:00</td>
+			<td>15:30:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>80.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>17:06:00</td>
+			<td>01:36</td>
+			<td>1.60</td>
+			<td>-pengecekan standar folder</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>81.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>07:37:00</td>
+			<td>12:00:00</td>
+			<td>04:23</td>
+			<td>4.38</td>
+			<td>-Pengeditan data arsip compliance di SIAP</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>82.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>83.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>13:30:00</td>
+			<td>15:10:00</td>
+			<td>01:40</td>
+			<td>1.67</td>
+			<td>-melayani pengembalian buku (sari)
+-pengecekan standar folder</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>84.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>15:10:00</td>
+			<td>15:30:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>85.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>17:02:00</td>
+			<td>01:32</td>
+			<td>1.53</td>
+			<td>-pengecekan standar folder</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>86.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>07:56:00</td>
+			<td>12:00:00</td>
+			<td>04:04</td>
+			<td>4.07</td>
+			<td>-Pengeditan data arsip compliance (pemindahan lokasi)
+</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>87.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>88.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>-membuat desain promosi buku
+</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>89.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>15:00:00</td>
+			<td>15:20:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>90.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>15:20:00</td>
+			<td>17:24:00</td>
+			<td>02:04</td>
+			<td>2.07</td>
+			<td>-pengecekan standar folder</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>91.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>07:37:00</td>
+			<td>12:00:00</td>
+			<td>04:23</td>
+			<td>4.38</td>
+			<td>-Pengolahan arsip TP
+-Check standar folder Cindy</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>92.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>93.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:15:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>-pengolahan arsip TP</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>94.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>15:35:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>SHALAT</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>95.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>15:35:00</td>
+			<td>17:03:00</td>
+			<td>01:28</td>
+			<td>1.47</td>
+			<td>Pengolahan arsip TP</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>96.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>07:51:00</td>
+			<td>12:00:00</td>
+			<td>04:09</td>
+			<td>4.15</td>
+			<td>-Pengolahan arsip TP
+-Melayani permintaan kardus (mas Iksan)</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>97.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>98.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:15:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>-pengecekan standar folder</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>99.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>15:35:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>100.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>15:35:00</td>
+			<td>17:08:00</td>
+			<td>01:33</td>
+			<td>1.55</td>
+			<td>melanjutkan pengolahan arsip</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>101.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>07:39:00</td>
+			<td>12:00:00</td>
+			<td>04:21</td>
+			<td>4.35</td>
+			<td>-pengolahan arsip compliance
+-melayani karyawan dalam permintaan ordner
+</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>102.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ishoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>103.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:15:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>-backup data vania
+-pengecekan standar folder (yuni, ridho & mba' Winni)</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>104.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>15:35:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>shalat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>105.</td>
+			<td>Document Center</td>
+			<td>Dannu Wartono</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>15:35:00</td>
+			<td>17:08:00</td>
+			<td>01:33</td>
+			<td>1.55</td>
+			<td>-melayani peminjaman buku (asep,mba' Nila, Galih TP dan Raysa)</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>106.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>09:05:00</td>
+			<td>12:00:00</td>
+			<td>02:55</td>
+			<td>2.92</td>
+			<td>-penyekenan
+-sirkulasi arsip
+-memeriksa standar folder laptop arsip konsultan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>107.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>108.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:15:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>-scanning arsip marketing</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>109.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>15:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>110.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>18:10:00</td>
+			<td>02:40</td>
+			<td>2.67</td>
+			<td>-scanning arsip marketing</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>111.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>18:10:00</td>
+			<td>18:25:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>112.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>18:25:00</td>
+			<td>19:10:00</td>
+			<td>00:45</td>
+			<td>0.75</td>
+			<td>-scanning arsip marketing</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>113.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>19:10:00</td>
+			<td>19:25:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>114.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>19:25:00</td>
+			<td>21:11:00</td>
+			<td>01:46</td>
+			<td>1.77</td>
+			<td>-scanning arsip marketing</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>115.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>09:17:00</td>
+			<td>11:30:00</td>
+			<td>02:13</td>
+			<td>2.22</td>
+			<td>-penyekenan
+-sirkulasi arsip
+-memeriksa standar folder laptop arsip konsultan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>116.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>11:30:00</td>
+			<td>13:30:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>117.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>15:15:00</td>
+			<td>01:45</td>
+			<td>1.75</td>
+			<td>-merapikan meja kerja
+-packing persiapan pergantian meja baru</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>118.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>15:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>119.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>18:17:00</td>
+			<td>02:47</td>
+			<td>2.78</td>
+			<td>-penyekenan
+-packing persiapan pergantian meja baru</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>120.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>18:17:00</td>
+			<td>18:27:00</td>
+			<td>00:10</td>
+			<td>0.17</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>121.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-19</td>
+			<td>November</td>
+			<td>08:44:00</td>
+			<td>14:00:00</td>
+			<td>05:16</td>
+			<td>5.27</td>
+			<td>-pemasangan meja kerja baru </td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>122.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-19</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>14:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>123.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-19</td>
+			<td>November</td>
+			<td>14:30:00</td>
+			<td>15:15:00</td>
+			<td>00:45</td>
+			<td>0.75</td>
+			<td>-Penjilidan: MUC utk TP klien Azbil Berca Indonesia 4 bundle bahasa version</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>124.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-19</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>15:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>125.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-19</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>16:49:00</td>
+			<td>01:19</td>
+			<td>1.32</td>
+			<td>-penjilidan: MUC utk TP klien Azbil Berca Indonesia 4 bundle english version</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>126.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>08:10:00</td>
+			<td>12:00:00</td>
+			<td>03:50</td>
+			<td>3.83</td>
+			<td>-penyekenan
+-sirkulasi arsip
+-stock opname perlengkapan barang di gudang</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>127.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>128.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>13:40:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>-penjilidan: MUC utk TP klien CSUL 4 bundle</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>129.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>13:40:00</td>
+			<td>14:20:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>-penjilidan: MUC utk TP klien Centex 4 bundle</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>130.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>14:20:00</td>
+			<td>14:30:00</td>
+			<td>00:10</td>
+			<td>0.17</td>
+			<td>-penjilidan: MUC utk TP klien Pertamina International Eksplorasi 1 bundle arsip</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>131.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>14:30:00</td>
+			<td>14:40:00</td>
+			<td>00:10</td>
+			<td>0.17</td>
+			<td>-penjilidan: MUC utk TP klien Pertamina International Eksplorasi Malaysia 1 bundle</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>132.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>14:40:00</td>
+			<td>14:50:00</td>
+			<td>00:10</td>
+			<td>0.17</td>
+			<td>-penjilidan: MUC utk TP klien Pertamina International Eksplorasi Irak 1 bundle arsip</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>133.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>14:50:00</td>
+			<td>15:00:00</td>
+			<td>00:10</td>
+			<td>0.17</td>
+			<td>-penjilidan: MUC utk TP klien Pertamina International Eksplorasi Algeria 1 bundle arsip</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>134.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:20:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>-penjilidan: MUC utk Tax Compliance klien RRD dan  Dwi Makmur Sedaya 4 bundle asli dan arsip</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>135.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>15:20:00</td>
+			<td>15:35:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>136.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>15:35:00</td>
+			<td>16:05:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>-penjilidan: MUC utk TP klien Sekisui Plastics  3 bundle bahasa version asli</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>137.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>16:05:00</td>
+			<td>16:35:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>-penjilidan: MUC utk TP klien Sekisui Plastic 3 bundle english version asli</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>138.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>16:35:00</td>
+			<td>17:05:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>-penjilidan: MUC utk TP klien Sekisui Plastics 3 bundle bahasa version asli revisi</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>139.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>17:05:00</td>
+			<td>17:35:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>-penjilidan: MUC utk TP klien Sekisui Plastic 3 bundle english version asli revisi</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>140.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>17:35:00</td>
+			<td>18:15:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>-penjilidan: MUC utk TP klien Centex 4 bundle revisi</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>141.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>18:15:00</td>
+			<td>18:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>142.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>18:30:00</td>
+			<td>19:10:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>-penjilidan: MUC utk TP klien Pertamina International Eksplorasi 4 bundle Local File</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>143.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>19:10:00</td>
+			<td>19:50:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>-penjilidan: MUC utk TP klien Pertamina International Eksplorasi Malaysia 4 bundle Local File</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>144.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>08:43:00</td>
+			<td>09:23:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>-penjilidan: MUC utk TP klien Pertamina International Eksplorasi Irak 4 bundle Local File</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>145.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>09:23:00</td>
+			<td>10:03:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>-penjilidan: MUC utk TP klien Pertamina International Eksplorasi Algeria 4 bundle Local File</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>146.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>10:03:00</td>
+			<td>12:00:00</td>
+			<td>01:57</td>
+			<td>1.95</td>
+			<td>-penyekenan
+-sirkulasi arsip
+-stock opname perlengkapan barang di gudang</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>147.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>148.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>13:40:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>-penjilidan: MUC utk TP klien CSUL 4 bundle Revisi</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>149.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>13:40:00</td>
+			<td>14:20:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>-penjilidan: MUC utk TP klien MCCI 4 bundle Bahasa version</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>150.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>14:20:00</td>
+			<td>15:00:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>-penjilidan: MUC utk TP klien MCCI 4 bundle English version</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>151.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>152.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>15:25:00</td>
+			<td>00:10</td>
+			<td>0.17</td>
+			<td>-penjilidan: MUC utk Tax Compliance klien Bintang Sinar Perkasa 1 bundle asli</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>153.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>15:25:00</td>
+			<td>17:43:00</td>
+			<td>02:18</td>
+			<td>2.30</td>
+			<td>-penyekenan
+-rekap peminjaman arsip tahun 2016</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>154.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>08:49:00</td>
+			<td>12:00:00</td>
+			<td>03:11</td>
+			<td>3.18</td>
+			<td>-penyekenan
+-melanjutkan rekap peminjaman arsip tahun 2016</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>155.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>156.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>13:10:00</td>
+			<td>00:10</td>
+			<td>0.17</td>
+			<td>-penjilidan: MUC utk Tax Compliance klien Dongfang Electric 1 bundle asli</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>157.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>13:10:00</td>
+			<td>15:15:00</td>
+			<td>02:05</td>
+			<td>2.08</td>
+			<td>-penyekenan
+-sirkulasi arsip
+-melanjutkan rekap peminjaman arsip tahun 2016</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>158.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>15:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>159.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>17:49:00</td>
+			<td>02:19</td>
+			<td>2.32</td>
+			<td>-penyekenan
+-sirkulasi arsip
+-rekap peminjaman arsip tahun 2017</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>160.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>08:32:00</td>
+			<td>08:42:00</td>
+			<td>00:10</td>
+			<td>0.17</td>
+			<td>-penjilidan: MUC utk Tax Dispute klien Daijo Industrial 1 bundle arsip</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>161.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>08:42:00</td>
+			<td>12:00:00</td>
+			<td>03:18</td>
+			<td>3.30</td>
+			<td>-penyekenan
+-sirkulasi arsip
+-melanjutkan rekap peminjaman arsip tahun 2017</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>162.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>163.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:15:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>-penyekenan
+-sirkulasi arsip
+-melakukan rekap penyerahan arsip tahun 2017</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>164.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>15:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>165.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>18:00:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>-melanjutkan rekap penyerahan arsip tahun 2017</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>166.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>18:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>167.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>18:15:00</td>
+			<td>19:15:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>-melanjutkan rekap penyerahan arsip tahun 2017</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>168.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>19:15:00</td>
+			<td>19:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>169.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>19:30:00</td>
+			<td>22:20:00</td>
+			<td>02:50</td>
+			<td>2.83</td>
+			<td>-melanjutkan rekap penyerahan arsip tahun 2017</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>170.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>08:37:00</td>
+			<td>09:30:00</td>
+			<td>00:53</td>
+			<td>0.88</td>
+			<td>-melanjutkan rekap penyerahan arsip tahun 2017</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>171.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>09:30:00</td>
+			<td>11:30:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>-penyekenan
+-sirkulasi arsip
+</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>172.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>11:30:00</td>
+			<td>13:30:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>173.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>13:40:00</td>
+			<td>00:10</td>
+			<td>0.17</td>
+			<td>-penjilidan: MUC utk Tax Compliance klien Yu Sato 1 bundle arsip</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>174.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>13:40:00</td>
+			<td>13:50:00</td>
+			<td>00:10</td>
+			<td>0.17</td>
+			<td>-penjilidan: MUC utk Tax Compliance klien Toyokazu Urano 1 bundle arsip</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>175.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>13:50:00</td>
+			<td>14:00:00</td>
+			<td>00:10</td>
+			<td>0.17</td>
+			<td>-penjilidan: MUC utk Tax Compliance klien Tomohiro Suzumura 2016  1 bundle arsip</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>176.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>14:10:00</td>
+			<td>00:10</td>
+			<td>0.17</td>
+			<td>-penjilidan: MUc utk Tax Compliance klien Tomohiro Suzumura 2014 1 bundle arsip</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>177.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>14:10:00</td>
+			<td>14:20:00</td>
+			<td>00:10</td>
+			<td>0.17</td>
+			<td>-penjilidan: MUC utk Tax Compliance klien Tomohiro Suzumura 2015 1 bundle arsip</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>178.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>14:20:00</td>
+			<td>15:15:00</td>
+			<td>00:55</td>
+			<td>0.92</td>
+			<td>-penyekenan
+-sirkulasi arsip
+</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>179.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>15:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>180.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>16:20:00</td>
+			<td>00:50</td>
+			<td>0.83</td>
+			<td>-penjilidan: MUC utk TP klien China Glaze Indonesia 4 bundle</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>181.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>16:20:00</td>
+			<td>17:37:00</td>
+			<td>01:17</td>
+			<td>1.28</td>
+			<td>-penyekenan
+-sirkulasi arsip
+</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>182.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>08:00:00</td>
+			<td>12:00:00</td>
+			<td>04:00</td>
+			<td>4.00</td>
+			<td>-penyekenan
+-sirkulasi arsip
+-memeriksa standar folder laptop arsip konsultan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>183.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>184.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>13:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>-penjilidan: MUC utk TP klien Berlian Abadua Satu 3 bundle bahasa version asli klien</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>185.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>14:00:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>-penjilidan: MUC utk TP klien Berlian Abadua Satu 3 bundle english version asli klien</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>186.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>14:40:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>-penjilidan: MUC utk TP klien Autotech Indonesia 4 bundle Master File Bahasa Version</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>187.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>14:40:00</td>
+			<td>15:20:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>-penjilidan: MUC utk TP klien Autotech Indonesia 4 bundle Master File English Version</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>188.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>15:20:00</td>
+			<td>15:35:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>189.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>15:35:00</td>
+			<td>17:00:00</td>
+			<td>01:25</td>
+			<td>1.42</td>
+			<td>-penyekenan
+-sirkulasi arsip
+-memeriksa standar folder laptop arsip konsultan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>190.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>17:00:00</td>
+			<td>18:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>-menunggu jilidan TP Bank Hana</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>191.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>18:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>192.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>18:15:00</td>
+			<td>19:00:00</td>
+			<td>00:45</td>
+			<td>0.75</td>
+			<td>-menunggu jilidan TP Bank Hana</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>193.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>19:00:00</td>
+			<td>19:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>194.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>19:15:00</td>
+			<td>20:42:00</td>
+			<td>01:27</td>
+			<td>1.45</td>
+			<td>-penjilidan: MUC utk TP klien Bank Hana 4 bundle bahasa version dan 4 bundle english version</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>195.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>09:49:00</td>
+			<td>10:30:00</td>
+			<td>00:41</td>
+			<td>0.68</td>
+			<td>-penjilidan: MUC utk TP klien Autotech Indonesia 4 bundle Local File bahasa version</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>196.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>10:30:00</td>
+			<td>11:10:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>-penjilidan: MUC utk TP klien Autotech Indonesia 4 bundle Local File English Version</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>197.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>11:10:00</td>
+			<td>12:00:00</td>
+			<td>00:50</td>
+			<td>0.83</td>
+			<td>-penyekenan
+-sirkulasi arsip
+</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>198.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>199.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:15:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>-penyekenan
+-sirkulasi arsip
+-memeriksa standar folder laptop arsip konsultan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>200.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>15:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>201.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>16:10:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>-penjilidan: MUC utk TP klien China Glaze 4 bundle</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>202.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>16:10:00</td>
+			<td>16:30:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>-penjilidan: MUC utk TP klien Berlian abadua satu 2 bundle arsip</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>203.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>16:30:00</td>
+			<td>16:40:00</td>
+			<td>00:10</td>
+			<td>0.17</td>
+			<td>-penjilidan: MUC utk Tax Compliance klien Willis Indonesia 1 bundle asli</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>204.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>16:40:00</td>
+			<td>18:15:00</td>
+			<td>01:35</td>
+			<td>1.58</td>
+			<td>-penyekenan
+-sirkulasi arsip
+</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>205.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>18:15:00</td>
+			<td>18:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>206.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>18:30:00</td>
+			<td>18:40:00</td>
+			<td>00:10</td>
+			<td>0.17</td>
+			<td>-penjilidan: MUC utk Tax Dispute klien Exspan Petrogas 1 bundle arsip</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>207.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>18:40:00</td>
+			<td>18:50:00</td>
+			<td>00:10</td>
+			<td>0.17</td>
+			<td>-merapikan meja kerja</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>208.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>08:00:00</td>
+			<td>12:00:00</td>
+			<td>04:00</td>
+			<td>4.00</td>
+			<td>-penyekenan
+-sirkulasi arsip
+-memeriksa standar folder laptop arsip konsultan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>209.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>210.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:15:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>-labeling arsip</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>211.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>15:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>212.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>17:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>-labeling arsip</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>213.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>09:18:00</td>
+			<td>12:00:00</td>
+			<td>02:42</td>
+			<td>2.70</td>
+			<td>-penyekenan
+-sirkulasi arsip
+-memeriksa standar folder laptop arsip konsultan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>214.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>215.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:15:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>-penyekenan
+-sirkulasi arsip
+-labeling arsip</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>216.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>15:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>217.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>17:03:00</td>
+			<td>01:33</td>
+			<td>1.55</td>
+			<td>-penyekenan
+-sirkulasi arsip
+-membantu memindahkan kardus LAT tax compliance</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>218.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>08:32:00</td>
+			<td>09:12:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>-penjilidan: MUC utk TP klien China Glaze 4 bundle</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>219.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>09:12:00</td>
+			<td>09:17:00</td>
+			<td>00:05</td>
+			<td>0.08</td>
+			<td>-penjilidan: MUC utk Materi TP OECD 1 bundle copy</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>220.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>09:17:00</td>
+			<td>09:37:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>-penjilidan: MUC utk Accounting Klien Taihei Dengyo 2 bundle</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>221.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>09:37:00</td>
+			<td>10:07:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>-penjilidan: MUC utk Accounting klien Hajime Indonesiaoken 3 bundle</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>222.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>10:07:00</td>
+			<td>12:00:00</td>
+			<td>01:53</td>
+			<td>1.88</td>
+			<td>-mengambil dokumen marketing yg ingin di scan
+-Scanning arsip marketing</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>223.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>224.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:15:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>-Scanning arsip marketing</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>225.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>15:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>226.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>17:32:00</td>
+			<td>02:02</td>
+			<td>2.03</td>
+			<td>-Scanning arsip marketing</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>227.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>08:18:00</td>
+			<td>08:30:00</td>
+			<td>00:12</td>
+			<td>0.20</td>
+			<td>-upload ke owncloud
+-sirkulasi arsip
+</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>228.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>08:30:00</td>
+			<td>08:50:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>-penjilidan: MUC utk Tax Compliance klien Berlian Abadua Satu 2 bundle</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>229.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>08:50:00</td>
+			<td>12:00:00</td>
+			<td>03:10</td>
+			<td>3.17</td>
+			<td>-Scanning arsip marketing</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>230.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>231.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:15:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>-Scanning arsip marketing</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>232.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>15:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>233.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>17:18:00</td>
+			<td>01:48</td>
+			<td>1.80</td>
+			<td>-Scanning arsip marketing</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>234.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>08:29:00</td>
+			<td>09:10:00</td>
+			<td>00:41</td>
+			<td>0.68</td>
+			<td>-penjilidan: MUC utk TP klien MML Ceramic Local File English Version 4 bundle</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>235.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>09:10:00</td>
+			<td>09:50:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>-penjilidan: MUC utk TP klien MML Ceramic Lokal File Bahasa Version 4 bundle</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>236.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>09:50:00</td>
+			<td>10:30:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>-penjilidan: MUC utk TP klien MML Ceramic Master File English Version 4 bundle</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>237.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>10:30:00</td>
+			<td>11:10:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>-penjilidan: MUC utk TP klien MML Ceramic Dokumen Induk 4 bundle</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>238.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>11:10:00</td>
+			<td>12:00:00</td>
+			<td>00:50</td>
+			<td>0.83</td>
+			<td>-Scanning arsip marketing
+-Rename file scan</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>239.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>240.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:15:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>-Scanning arsip marketing
+-Rename file scan</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>241.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>15:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>242.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>18:00:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>-Scanning arsip marketing
+-Rename file scan</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>243.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>18:00:00</td>
+			<td>18:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>244.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>18:15:00</td>
+			<td>19:11:00</td>
+			<td>00:56</td>
+			<td>0.93</td>
+			<td>-Scanning arsip marketing
+-Rename file scan</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>245.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>19:11:00</td>
+			<td>19:26:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>246.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>19:26:00</td>
+			<td>20:11:00</td>
+			<td>00:45</td>
+			<td>0.75</td>
+			<td>-Scanning arsip marketing
+-Rename file scan
+-upload file ke owncloud</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>247.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>08:24:00</td>
+			<td>08:44:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>-penjilidan: MUC utk TP klien MML Ceramic Bahasa Version 2 bundle</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>248.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>08:44:00</td>
+			<td>08:50:00</td>
+			<td>00:06</td>
+			<td>0.10</td>
+			<td>-Sirkulasi arsip</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>249.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>08:50:00</td>
+			<td>09:00:00</td>
+			<td>00:10</td>
+			<td>0.17</td>
+			<td>-penjilidan: MUC utk Tax Compliance klien Hirose Shinsuke 1 bundle asli</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>250.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>09:00:00</td>
+			<td>09:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>-penjilidan: MUC utk Tax Compliance klien PNE Indonesia 3 bundle</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>251.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>09:30:00</td>
+			<td>12:00:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>-Scanning arsip marketing
+-Rename file scan</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>252.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>253.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>13:40:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>-penjilidan: MUC utk TP klien Marubeni Itochu Steel Indonesia 4 bundle</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>254.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>13:40:00</td>
+			<td>14:40:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>-penjilidan: MUC utk TP klien MML Ceramic Bahasa version Lokal File 3 bundle dan English version 3 bundle </td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>255.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>14:40:00</td>
+			<td>14:50:00</td>
+			<td>00:10</td>
+			<td>0.17</td>
+			<td>-penjilidan: MUC utk TP klien Fuji SMBE 1 bundle asli</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>256.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>14:50:00</td>
+			<td>15:15:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td>-Rename file scan
+-Scanning arsip marketing</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>257.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>15:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>258.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>18:00:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>-Scanning arsip marketing</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>259.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>18:00:00</td>
+			<td>18:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>260.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>18:15:00</td>
+			<td>19:10:00</td>
+			<td>00:55</td>
+			<td>0.92</td>
+			<td>-Scanning arsip marketing</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>261.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>19:10:00</td>
+			<td>19:25:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>262.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>19:25:00</td>
+			<td>20:42:00</td>
+			<td>01:17</td>
+			<td>1.28</td>
+			<td>-Scanning arsip marketing
+-Rename file scan
+-upload file ke owncloud</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>263.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>08:00:00</td>
+			<td>11:30:00</td>
+			<td>03:30</td>
+			<td>3.50</td>
+			<td>-Scanning arsip marketing</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>264.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>11:30:00</td>
+			<td>13:30:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>265.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>13:30:00</td>
+			<td>15:15:00</td>
+			<td>01:45</td>
+			<td>1.75</td>
+			<td>-Penyekenan
+-Sirkulasi arsip
+-Rekap Peminjaman Dokumen</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>266.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>15:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>267.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>17:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>-Scanning arsip marketing</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>268.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>08:37:00</td>
+			<td>12:00:00</td>
+			<td>03:23</td>
+			<td>3.38</td>
+			<td>-mengambil dokumen marketing yg ingin di scan
+-Scanning arsip marketing</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>269.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>270.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:15:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>-Scanning arsip marketing</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>271.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>15:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>272.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>17:37:00</td>
+			<td>02:07</td>
+			<td>2.12</td>
+			<td>-Scanning arsip marketing</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>273.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>08:12:00</td>
+			<td>08:32:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>-penjilidan: MUC utk Tax Compliance klien Novus International Indonesia 2 bundle</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>274.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>08:32:00</td>
+			<td>12:00:00</td>
+			<td>03:28</td>
+			<td>3.47</td>
+			<td>-Scanning arsip marketing</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>275.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>276.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:15:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>-Scanning arsip marketing
+-Rename file scan</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>277.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>15:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>278.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>17:12:00</td>
+			<td>01:42</td>
+			<td>1.70</td>
+			<td>-Scanning arsip marketing
+-Rename file scan</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>279.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>08:43:00</td>
+			<td>12:00:00</td>
+			<td>03:17</td>
+			<td>3.28</td>
+			<td>-Rename file scan
+-Scanning arsip marketing</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>280.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>281.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:15:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>-Upload file ke owncloud
+-Scanning arsip marketing</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>282.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>15:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>283.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>17:43:00</td>
+			<td>02:13</td>
+			<td>2.22</td>
+			<td>-Scanning arsip marketing</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>284.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>08:56:00</td>
+			<td>09:36:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>-penjilidan: MUC utk TP klien Century Textile Local File English version 4 bundle</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>285.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>09:36:00</td>
+			<td>10:16:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>-penjilidan: MUC utk TP klien Century Textile Lokal file bahasa version 4 bundle</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>286.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>10:16:00</td>
+			<td>12:00:00</td>
+			<td>01:44</td>
+			<td>1.73</td>
+			<td>-Rename file scan
+-Scanning arsip marketing</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>287.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>288.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:15:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>-Rename file scan
+-Scanning arsip marketing</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>289.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>15:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>290.</td>
+			<td>Document Center</td>
+			<td>Dian Rahmawan</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>17:56:00</td>
+			<td>02:26</td>
+			<td>2.43</td>
+			<td>-Rename file scan
+-Scanning arsip marketing
+-Upload file ke owncloud</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>291.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>07:36:00</td>
+			<td>11:15:00</td>
+			<td>03:39</td>
+			<td>3.65</td>
+			<td>
+administrasi dan pengolahan arsip: Parker engineering, nusantara regas, 
+fuji electric indonesia, mandom indonesia</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>292.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>11:15:00</td>
+			<td>12:00:00</td>
+			<td>00:45</td>
+			<td>0.75</td>
+			<td>revisi laporan tahunan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>293.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>294.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>14:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>membuat standar folder</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>295.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>16:30:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>revisi laporan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>296.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>16:30:00</td>
+			<td>16:45:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>297.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>16:45:00</td>
+			<td>17:15:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>diskusi ttg cloud </td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>298.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>07:37:00</td>
+			<td>10:00:00</td>
+			<td>02:23</td>
+			<td>2.38</td>
+			<td>revisi laporan tahunan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>299.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>10:00:00</td>
+			<td>11:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>membuat standar folder</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>300.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>11:30:00</td>
+			<td>13:30:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>301.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>14:00:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>302.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>15:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>meeting manajemen</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>303.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>15:45:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>304.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>15:45:00</td>
+			<td>17:51:00</td>
+			<td>02:06</td>
+			<td>2.10</td>
+			<td>meeting manajemen</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>305.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>07:32:00</td>
+			<td>10:30:00</td>
+			<td>02:58</td>
+			<td>2.97</td>
+			<td>merapihkan ruang kerja karena ada perpindahan posisi </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>306.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>10:30:00</td>
+			<td>11:00:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>membuat standar folder cloud</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>307.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>11:00:00</td>
+			<td>12:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>administrasi dan pengolahan arsip: azbil berca indonesia, marubeni indonesia,
+kyoraku blowmolding indonesia
+</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>308.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>309.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>14:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>diskusi ttg koperasi dengan mb erry</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>310.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>14:30:00</td>
+			<td>15:00:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>diskusi dengan evy terkait penyimpanan arsip berbasis cloud</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>311.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>16:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>korespondensi dengan beberapan karyawan terkait standar folder penyimpanan arsip cloud</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>312.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>16:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>membuat surat penyelesaian adm karyawan resign: </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>313.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>16:30:00</td>
+			<td>16:45:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>314.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>16:45:00</td>
+			<td>17:00:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>browsing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>315.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>07:34:00</td>
+			<td>10:00:00</td>
+			<td>02:26</td>
+			<td>2.43</td>
+			<td>membuat standar folder cloud</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>316.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>diskusi dengan tim HRD terkait JRA</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>317.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>318.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>14:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>membuat revisi JRA</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>319.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>15:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>diskusi dengan tim HRD</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>320.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>16:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>membuat revisi JRA</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>321.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>17:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>revisi laporan kinerja
+</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>322.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>07:35:00</td>
+			<td>09:30:00</td>
+			<td>01:55</td>
+			<td>1.92</td>
+			<td>membuat standar folder cloud
+</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>323.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>09:30:00</td>
+			<td>11:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>membuat laporan tahunan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>324.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>11:00:00</td>
+			<td>12:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>koordinasi dengan pak agust terkait management meeting</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>325.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>326.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>13:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>koordinasi dengan pak ade terkait survei peralatan koperasi (etalase kaca)</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>327.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>16:00:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>membuat laporan tahunan 
+</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>328.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>16:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>329.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>16:15:00</td>
+			<td>17:20:00</td>
+			<td>01:05</td>
+			<td>1.08</td>
+			<td>membuat laporan tahunan 
+</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>330.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>07:41:00</td>
+			<td>09:30:00</td>
+			<td>01:49</td>
+			<td>1.82</td>
+			<td>membuat standar folder</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>331.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>09:30:00</td>
+			<td>12:00:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>membuat standar folder</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>332.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>333.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>17:00:00</td>
+			<td>04:00</td>
+			<td>4.00</td>
+			<td>survei etalase kaca</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>334.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>17:00:00</td>
+			<td>17:23:00</td>
+			<td>00:23</td>
+			<td>0.38</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>335.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>07:46:00</td>
+			<td>09:00:00</td>
+			<td>01:14</td>
+			<td>1.23</td>
+			<td>persiapan laporan tahunan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>336.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>09:00:00</td>
+			<td>11:30:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>meeting management</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>337.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>11:30:00</td>
+			<td>13:30:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>338.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>15:30:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>meeting management</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>339.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>15:45:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>340.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>15:45:00</td>
+			<td>17:46:00</td>
+			<td>02:01</td>
+			<td>2.02</td>
+			<td>meeting management</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>341.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>07:34:00</td>
+			<td>09:30:00</td>
+			<td>01:56</td>
+			<td>1.93</td>
+			<td>membuat standar folder cloud</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>342.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>09:30:00</td>
+			<td>10:00:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>mencetak indeks arsip</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>343.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>10:00:00</td>
+			<td>11:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>merapihkan file pemusnahan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>344.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>11:00:00</td>
+			<td>12:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>revisi rencana kerja tahun 2018</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>345.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>346.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>14:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>browsing barang koperasi</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>347.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>15:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>browsing barang display acryli untuk project 2018</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>348.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>16:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>browsing ttg RFID untuk sistem self service perpustakaan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>349.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>16:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>350.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>16:15:00</td>
+			<td>17:16:00</td>
+			<td>01:01</td>
+			<td>1.02</td>
+			<td>merangkum buku CPD</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>351.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>08:27:00</td>
+			<td>09:30:00</td>
+			<td>01:03</td>
+			<td>1.05</td>
+			<td>pengecekan sistem CPD tim</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>352.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>09:30:00</td>
+			<td>10:30:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>membuat standar folder cloud
+</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>353.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>10:30:00</td>
+			<td>12:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>mencari perbandingan ttg RFID dan barcode untuk project tahun depan</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>354.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>355.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>16:30:00</td>
+			<td>03:30</td>
+			<td>3.50</td>
+			<td>mencari perbandingan ttg RFID dan barcode untuk project tahun depan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>356.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>16:30:00</td>
+			<td>16:45:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>357.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>16:45:00</td>
+			<td>17:28:00</td>
+			<td>00:43</td>
+			<td>0.72</td>
+			<td>mencari perbandingan ttg RFID dan barcode untuk project tahun depan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>358.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>08:15:00</td>
+			<td>10:00:00</td>
+			<td>01:45</td>
+			<td>1.75</td>
+			<td>membuat standar folder cloud</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>359.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>mmebuat perbandingan rfid dan barcode untuk project tahun depan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>360.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>361.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>16:30:00</td>
+			<td>03:30</td>
+			<td>3.50</td>
+			<td>mmebuat perbandingan rfid dan barcode untuk project tahun depan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>362.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>16:30:00</td>
+			<td>16:45:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>363.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>16:45:00</td>
+			<td>17:18:00</td>
+			<td>00:33</td>
+			<td>0.55</td>
+			<td>membuat perbandingan rfid dan barcode untuk project tahun depan </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>364.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>07:43:00</td>
+			<td>09:30:00</td>
+			<td>01:47</td>
+			<td>1.78</td>
+			<td>membuat standar folder cloud</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>365.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>09:30:00</td>
+			<td>12:00:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>membuat perbandingan rfid dan barcode untuk project tahun depan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>366.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>367.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>16:30:00</td>
+			<td>03:30</td>
+			<td>3.50</td>
+			<td>membuat perbandingan rfid dan barcode untuk project tahun depan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>368.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>16:30:00</td>
+			<td>16:45:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>369.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>16:45:00</td>
+			<td>17:45:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>membuat perbandingan rfid dan barcode untuk project tahun depan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>370.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>07:40:00</td>
+			<td>08:30:00</td>
+			<td>00:50</td>
+			<td>0.83</td>
+			<td>korespondensi dengan vendor terkait RFID dan Barcode</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>371.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>08:30:00</td>
+			<td>08:45:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>sirkulasi: TRD marini</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>372.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>08:45:00</td>
+			<td>09:30:00</td>
+			<td>00:45</td>
+			<td>0.75</td>
+			<td>membuat laporan pengeluaran project ruang kerja</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>373.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>09:30:00</td>
+			<td>12:00:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>revisi evaluasi kinerja 2017 dan rencana kerja 2018</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>374.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>375.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>16:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>membuat perbandingan rfida dan barcode untuk project tahun depan </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>376.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>16:00:00</td>
+			<td>16:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>diskusi dengan pak imam terkait perubahan jabatan dannu</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>377.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>16:30:00</td>
+			<td>16:45:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>378.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>16:45:00</td>
+			<td>17:23:00</td>
+			<td>00:38</td>
+			<td>0.63</td>
+			<td>membuat perbandingan rfid dan barcode untuk projetct tahun depan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>379.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>08:05:00</td>
+			<td>09:30:00</td>
+			<td>01:25</td>
+			<td>1.42</td>
+			<td>membuat standar folder cloud</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>380.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>09:30:00</td>
+			<td>11:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>membuat perbandingan RFID dan barcode</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>381.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>11:00:00</td>
+			<td>12:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>uji coba aplikasi open source perpustakaan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>382.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>383.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>diskusi dengan vendor terkait pembangunan koperasi</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>384.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>15:00:00</td>
+			<td>16:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>uji coba aplikasi open source perpustakaan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>385.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>16:00:00</td>
+			<td>16:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>386.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>16:15:00</td>
+			<td>17:23:00</td>
+			<td>01:08</td>
+			<td>1.13</td>
+			<td>uji coba aplikasi open source perpustakaan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>387.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>08:18:00</td>
+			<td>10:00:00</td>
+			<td>01:42</td>
+			<td>1.70</td>
+			<td>diskusi dengan mas agus IT terkait aplikasi arsip Arteri</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>388.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>10:00:00</td>
+			<td>10:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>pengurusan anggaran koperasi</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>389.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>10:30:00</td>
+			<td>12:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>membuat standar folder cloud</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>390.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>391.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>16:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>uji coba open source arsip</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>392.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>16:00:00</td>
+			<td>16:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>393.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>16:15:00</td>
+			<td>17:19:00</td>
+			<td>01:04</td>
+			<td>1.07</td>
+			<td>uji coba open source arsip</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>394.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>07:30:00</td>
+			<td>09:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>membuat standar folder cloud</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>395.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>09:00:00</td>
+			<td>12:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>uji coba open source arsip </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>396.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>397.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>16:30:00</td>
+			<td>03:30</td>
+			<td>3.50</td>
+			<td>uji coba open source arsip</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>398.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>16:30:00</td>
+			<td>16:45:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>399.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>16:45:00</td>
+			<td>17:19:00</td>
+			<td>00:34</td>
+			<td>0.57</td>
+			<td>uji coba open source arsip</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>400.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>07:32:00</td>
+			<td>09:00:00</td>
+			<td>01:28</td>
+			<td>1.47</td>
+			<td>membuat standar folder cloud</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>401.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>09:00:00</td>
+			<td>11:30:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>meeting management</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>402.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>11:30:00</td>
+			<td>13:30:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>403.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>13:30:00</td>
+			<td>15:30:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>meeting management</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>404.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>15:45:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>405.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>15:45:00</td>
+			<td>17:45:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>meeting management</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>406.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>17:45:00</td>
+			<td>18:00:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>407.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>18:00:00</td>
+			<td>18:34:00</td>
+			<td>00:34</td>
+			<td>0.57</td>
+			<td>meeting management</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>408.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>07:36:00</td>
+			<td>09:00:00</td>
+			<td>01:24</td>
+			<td>1.40</td>
+			<td>membuat standar folder cloud</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>409.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>09:00:00</td>
+			<td>12:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>membuat revisi SOP penyimpanan arsip elektronik dan digital </td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>410.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>411.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>16:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>membuat revisi SOP penyimpanan arsip elektronik dan digital</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>412.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>16:00:00</td>
+			<td>16:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>413.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>16:15:00</td>
+			<td>17:19:00</td>
+			<td>01:04</td>
+			<td>1.07</td>
+			<td>membuat revisi SOP penyimpanna arsip elektronik dan digital </td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>414.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>08:00:00</td>
+			<td>17:00:00</td>
+			<td>09:00</td>
+			<td>9.00</td>
+			<td>Sick Leave (Family) : Demam</td>
+			<td>Personal Leave</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>415.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>07:31:00</td>
+			<td>09:00:00</td>
+			<td>01:29</td>
+			<td>1.48</td>
+			<td>membuat standar folder cloud</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>416.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>09:00:00</td>
+			<td>12:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>merancang SOP perubahan penyimpanna arsip tercetak menjadi digital</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>417.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>418.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>16:30:00</td>
+			<td>03:30</td>
+			<td>3.50</td>
+			<td>merancang SOP perubahan penyimpanna arsip tercetak menjadi digital</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>419.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>16:30:00</td>
+			<td>16:45:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>420.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>16:45:00</td>
+			<td>17:21:00</td>
+			<td>00:36</td>
+			<td>0.60</td>
+			<td>merancang SOP perubahan penyimpanna arsip tercetak menjadi digital</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>421.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>07:35:00</td>
+			<td>09:00:00</td>
+			<td>01:25</td>
+			<td>1.42</td>
+			<td>membuat standar folder cloud</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>422.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>09:00:00</td>
+			<td>12:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>merancang SOP perubahan penyimpanna arsip tercetak menjadi digital</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>423.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>424.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>14:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>diskusi dng Willa terkait SOP</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>425.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>14:00:00</td>
+			<td>16:30:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>merancang penilaian untuk lomba jumat besih</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>426.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>16:30:00</td>
+			<td>16:45:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>ISHOMA</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>427.</td>
+			<td>Document Center</td>
+			<td>Endang Suryaningsih</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>16:45:00</td>
+			<td>17:13:00</td>
+			<td>00:28</td>
+			<td>0.47</td>
+			<td>merancang penilaian untuk lomba jumat besih</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+		</tbody>
+</table>
+

@@ -1,0 +1,6501 @@
+
+
+
+<table cellpadding="0" cellspacing="0" width="100%">
+	<thead>
+		<tr>
+			<th>No</th>
+			<th>Departement</th>
+			<th>Fullname</th>
+			<th>Date</th>
+			<th>Month</th>
+			<th>Timestart</th>
+			<th>Timefinish</th>
+			<th>Timeduration</th>
+			<th>Timeduration Decimal</th>
+			<th>Description</th>
+			<th>Category</th>
+			<th>No Proposal</th>
+			<th>No Agreement</th>
+			<th>Companies</th>
+			<th>Services</th>
+		</tr>
+	<thead>
+	<tbody>
+			<tr>
+			<td>1.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>09:20:00</td>
+			<td>12:11:00</td>
+			<td>02:51</td>
+			<td>2.85</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>2.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>12:11:00</td>
+			<td>13:11:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>3.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>13:11:00</td>
+			<td>15:11:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>4.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>08:38:00</td>
+			<td>12:00:00</td>
+			<td>03:22</td>
+			<td>3.37</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>5.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>6.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>17:00:00</td>
+			<td>04:00</td>
+			<td>4.00</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>7.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>08:40:00</td>
+			<td>10:00:00</td>
+			<td>01:20</td>
+			<td>1.33</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>8.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>recruitment tax consultant junior</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>9.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>recruitment tax consultant junior</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>10.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>11.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>12.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>13.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>16:10:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>feedback psikotest</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>14.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>09:21:00</td>
+			<td>12:00:00</td>
+			<td>02:39</td>
+			<td>2.65</td>
+			<td>menyiapkan data laporan dan strategi laporan tahunan</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>15.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>16.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>14:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>17.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>15:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>18.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>16:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>19.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>19:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>mengerjakan OT, gaji dan DL</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>20.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>08:51:00</td>
+			<td>12:00:00</td>
+			<td>03:09</td>
+			<td>3.15</td>
+			<td>menghitung gaji</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>21.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>22.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>14:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>23.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>15:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>24.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>16:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>25.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>17:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>Training</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>26.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>08:42:00</td>
+			<td>10:00:00</td>
+			<td>01:18</td>
+			<td>1.30</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>27.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>28.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>29.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>18:29:00</td>
+			<td>05:29</td>
+			<td>5.48</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>30.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>08:12:00</td>
+			<td>17:29:00</td>
+			<td>09:17</td>
+			<td>9.28</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>31.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>08:48:00</td>
+			<td>12:00:00</td>
+			<td>03:12</td>
+			<td>3.20</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>32.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>33.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>14:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>34.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>16:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>35.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>16:00:00</td>
+			<td>00:00</td>
+			<td>0.00</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>36.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>16:00:00</td>
+			<td>00:00</td>
+			<td>0.00</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>37.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>16:00:00</td>
+			<td>00:00</td>
+			<td>0.00</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>38.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>16:00:00</td>
+			<td>00:00</td>
+			<td>0.00</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>39.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>16:00:00</td>
+			<td>00:00</td>
+			<td>0.00</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>40.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>16:00:00</td>
+			<td>00:00</td>
+			<td>0.00</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>41.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>17:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>42.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>17:00:00</td>
+			<td>17:00:00</td>
+			<td>00:00</td>
+			<td>0.00</td>
+			<td></td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>43.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>17:00:00</td>
+			<td>17:00:00</td>
+			<td>00:00</td>
+			<td>0.00</td>
+			<td></td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>44.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>17:00:00</td>
+			<td>17:20:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>45.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>17:20:00</td>
+			<td>17:20:00</td>
+			<td>00:00</td>
+			<td>0.00</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>46.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>09:22:00</td>
+			<td>11:00:00</td>
+			<td>01:38</td>
+			<td>1.63</td>
+			<td>rapat koordinasi divisi ttg persiapan penyusunan </td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>47.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>11:00:00</td>
+			<td>12:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>diskusi ttg pemugaran koperasi dng tukang</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>48.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>49.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>14:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>50.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>16:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>51.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>17:16:00</td>
+			<td>01:16</td>
+			<td>1.27</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>52.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>08:59:00</td>
+			<td>12:00:00</td>
+			<td>03:01</td>
+			<td>3.02</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>53.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>54.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>14:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>55.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>17:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>membuat materi core competence</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>56.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>17:00:00</td>
+			<td>18:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>menulis artikel ibu menyususi</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>57.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>18:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>58.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>18:30:00</td>
+			<td>20:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>59.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>08:38:00</td>
+			<td>11:00:00</td>
+			<td>02:22</td>
+			<td>2.37</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>60.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>11:00:00</td>
+			<td>12:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>61.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>perjalanan ke UI</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>62.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>13:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>63.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>17:00:00</td>
+			<td>03:30</td>
+			<td>3.50</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>64.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>17:00:00</td>
+			<td>18:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>65.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>09:23:00</td>
+			<td>10:30:00</td>
+			<td>01:07</td>
+			<td>1.12</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>66.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>10:30:00</td>
+			<td>12:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>67.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>68.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>69.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>15:00:00</td>
+			<td>15:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>70.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>17:30:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td></td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>71.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>17:30:00</td>
+			<td>18:40:00</td>
+			<td>01:10</td>
+			<td>1.17</td>
+			<td></td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>72.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>08:55:00</td>
+			<td>12:00:00</td>
+			<td>03:05</td>
+			<td>3.08</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>73.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>74.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>75.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>15:00:00</td>
+			<td>15:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>76.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>20:30:00</td>
+			<td>05:00</td>
+			<td>5.00</td>
+			<td>meeting hrd dan BOD</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>77.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>08:31:00</td>
+			<td>12:00:00</td>
+			<td>03:29</td>
+			<td>3.48</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>78.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>79.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>80.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>15:00:00</td>
+			<td>17:35:00</td>
+			<td>02:35</td>
+			<td>2.58</td>
+			<td>meeting training programe 2018 dng nurdin, dila, sigit</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>81.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>17:00:00</td>
+			<td>17:00:00</td>
+			<td>00:00</td>
+			<td>0.00</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>82.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>09:28:00</td>
+			<td>12:07:00</td>
+			<td>02:39</td>
+			<td>2.65</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>83.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>12:07:00</td>
+			<td>13:10:00</td>
+			<td>01:03</td>
+			<td>1.05</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>84.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>13:10:00</td>
+			<td>15:00:00</td>
+			<td>01:50</td>
+			<td>1.83</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>85.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>15:00:00</td>
+			<td>19:00:00</td>
+			<td>04:00</td>
+			<td>4.00</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>86.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>08:57:00</td>
+			<td>12:39:00</td>
+			<td>03:42</td>
+			<td>3.70</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>87.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>12:39:00</td>
+			<td>13:39:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>88.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>13:39:00</td>
+			<td>18:00:00</td>
+			<td>04:21</td>
+			<td>4.35</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>89.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>09:38:00</td>
+			<td>12:00:00</td>
+			<td>02:22</td>
+			<td>2.37</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>90.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>91.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>92.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>15:00:00</td>
+			<td>16:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>mengenai karier yg sedang digeluti apakah passion atau tidak</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>93.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>16:30:00</td>
+			<td>17:30:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>exit interview</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>94.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>17:30:00</td>
+			<td>18:57:00</td>
+			<td>01:27</td>
+			<td>1.45</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>95.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>08:00:00</td>
+			<td>10:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Two Hours Leave : suntik meningitis</td>
+			<td>Personal Leave</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>96.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>10:01:00</td>
+			<td>11:00:00</td>
+			<td>00:59</td>
+			<td>0.98</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>97.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>11:00:00</td>
+			<td>12:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>98.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>99.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>14:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>100.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>14:00:00</td>
+			<td>15:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>101.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>15:00:00</td>
+			<td>15:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>102.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>16:30:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>103.</td>
+			<td>HRD</td>
+			<td>Erry Tri Merryta</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>16:30:00</td>
+			<td>17:10:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td></td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>104.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>08:05:00</td>
+			<td>12:00:00</td>
+			<td>03:55</td>
+			<td>3.92</td>
+			<td>adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>105.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>isoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>106.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>15:10:00</td>
+			<td>01:40</td>
+			<td>1.67</td>
+			<td>adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>107.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>15:10:00</td>
+			<td>15:40:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>sholat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>108.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>15:40:00</td>
+			<td>17:03:00</td>
+			<td>01:23</td>
+			<td>1.38</td>
+			<td>adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>109.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>07:29:00</td>
+			<td>08:00:00</td>
+			<td>00:31</td>
+			<td>0.52</td>
+			<td>makan</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>110.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>08:00:00</td>
+			<td>09:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>update draft mapping karyawan
+adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>111.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>09:30:00</td>
+			<td>12:00:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>follow up kandidat ke user, follow up kandidat , kirim email undangan</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>112.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>14:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>isoma + tahsin</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>113.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>15:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>mapping lagi</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>114.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>sholat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>115.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>17:45:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>lanjut mapping
+adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>116.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>07:29:00</td>
+			<td>08:00:00</td>
+			<td>00:31</td>
+			<td>0.52</td>
+			<td>sarapan</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>117.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>08:00:00</td>
+			<td>09:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>118.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>09:00:00</td>
+			<td>09:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>recruitment sesi I junior tax compliance</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>119.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>09:30:00</td>
+			<td>10:00:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>120.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>121.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:15:00</td>
+			<td>01:15</td>
+			<td>1.25</td>
+			<td>isoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>122.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>13:15:00</td>
+			<td>15:00:00</td>
+			<td>01:45</td>
+			<td>1.75</td>
+			<td>mapping 
+adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>123.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>sholat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>124.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>18:00:00</td>
+			<td>02:45</td>
+			<td>2.75</td>
+			<td>ot nov 17</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>125.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>18:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>sholat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>126.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>18:15:00</td>
+			<td>19:15:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>ot nov 17</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>127.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>19:15:00</td>
+			<td>19:40:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td>makan</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>128.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>19:40:00</td>
+			<td>20:41:00</td>
+			<td>01:01</td>
+			<td>1.02</td>
+			<td>ot nov 17</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>129.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>07:45:00</td>
+			<td>10:30:00</td>
+			<td>02:45</td>
+			<td>2.75</td>
+			<td>finishing ot nov 2017
+adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>130.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>10:30:00</td>
+			<td>12:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>cormet dgn HRD team & endang terkait penataan arsip HRD</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>131.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>12:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>diskusi denga team HRD</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>132.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>12:30:00</td>
+			<td>13:30:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>isoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>133.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>15:15:00</td>
+			<td>01:45</td>
+			<td>1.75</td>
+			<td>adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>134.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>15:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>sholat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>135.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>17:38:00</td>
+			<td>02:08</td>
+			<td>2.13</td>
+			<td>adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>136.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>07:41:00</td>
+			<td>08:00:00</td>
+			<td>00:19</td>
+			<td>0.32</td>
+			<td>sarapan</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>137.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>08:00:00</td>
+			<td>12:00:00</td>
+			<td>04:00</td>
+			<td>4.00</td>
+			<td>adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>138.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>isoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>139.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:30:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>140.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>15:45:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>sholat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>141.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>15:45:00</td>
+			<td>17:26:00</td>
+			<td>01:41</td>
+			<td>1.68</td>
+			<td>adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>142.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>07:33:00</td>
+			<td>08:00:00</td>
+			<td>00:27</td>
+			<td>0.45</td>
+			<td>persiapan</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>143.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>08:00:00</td>
+			<td>12:00:00</td>
+			<td>04:00</td>
+			<td>4.00</td>
+			<td>adm hrd
+update cuti karyawan 2017</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>144.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>isoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>145.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>14:15:00</td>
+			<td>01:15</td>
+			<td>1.25</td>
+			<td>update cuti karyawan 2017</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>146.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>14:15:00</td>
+			<td>16:50:00</td>
+			<td>02:35</td>
+			<td>2.58</td>
+			<td>cormet dengan IT & HRD bahas ttg system HRD</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>147.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>16:50:00</td>
+			<td>17:17:00</td>
+			<td>00:27</td>
+			<td>0.45</td>
+			<td>adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>148.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>08:00:00</td>
+			<td>17:00:00</td>
+			<td>09:00</td>
+			<td>9.00</td>
+			<td>Sick Leave (Family) : Bapil & Alergi</td>
+			<td>Personal Leave</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>149.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>07:51:00</td>
+			<td>08:25:00</td>
+			<td>00:34</td>
+			<td>0.57</td>
+			<td>sarapan</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>150.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>08:25:00</td>
+			<td>11:00:00</td>
+			<td>02:35</td>
+			<td>2.58</td>
+			<td>update cuti karyawan 2017
+adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>151.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>11:00:00</td>
+			<td>13:20:00</td>
+			<td>02:20</td>
+			<td>2.33</td>
+			<td>update ikatan dinas & pembiayaan karyawan
+
+update rekap biaya scholaship, training, sertifikasi 2017</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>152.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>13:20:00</td>
+			<td>14:00:00</td>
+			<td>00:40</td>
+			<td>0.67</td>
+			<td>isoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>153.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>15:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>konfirmasi ke rumah sakit ttg perkiraan harga jasa</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>154.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>16:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>155.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>16:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>seleksi data kandidat junior tax buat team sigit lagi</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>156.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>16:30:00</td>
+			<td>16:45:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>sholat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>157.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>16:45:00</td>
+			<td>17:18:00</td>
+			<td>00:33</td>
+			<td>0.55</td>
+			<td>sholat</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>158.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>07:42:00</td>
+			<td>08:30:00</td>
+			<td>00:48</td>
+			<td>0.80</td>
+			<td>isoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>159.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>08:30:00</td>
+			<td>09:50:00</td>
+			<td>01:20</td>
+			<td>1.33</td>
+			<td>adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>160.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>09:50:00</td>
+			<td>10:35:00</td>
+			<td>00:45</td>
+			<td>0.75</td>
+			<td>kormet HRD</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>161.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>10:35:00</td>
+			<td>12:10:00</td>
+			<td>01:35</td>
+			<td>1.58</td>
+			<td>menyerahkan surah peryataan hutan & ikatan dinas , konfirmasi ttg CPD SKPL IKPI 2017 ke Erry</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>162.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>12:10:00</td>
+			<td>13:00:00</td>
+			<td>00:50</td>
+			<td>0.83</td>
+			<td>isoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>163.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>14:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>164.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>15:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>follow up kandidat junior tax & kirim emailnya</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>165.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>15:45:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>sholat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>166.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>15:45:00</td>
+			<td>17:43:00</td>
+			<td>01:58</td>
+			<td>1.97</td>
+			<td>olah data kepersertaan training 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>167.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>07:37:00</td>
+			<td>08:00:00</td>
+			<td>00:23</td>
+			<td>0.38</td>
+			<td>sarapan</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>168.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>08:00:00</td>
+			<td>10:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>proses pembuatan id card, minta foto ke karyawan juga.
+
+adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>169.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>10:00:00</td>
+			<td>11:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>proses uang makan lembur 1 tahun, gabungin data</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>170.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>11:00:00</td>
+			<td>12:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>tarik data PA Nov 2017 dari MUCnet</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>171.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>isoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>172.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>15:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>follow up kandidat junior yg sdh dipanggil. infokan buat cek email di spam.
+
+Follow up kandidat baru & kirim email undangan
+
+adm hrd</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>173.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>174.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>15:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>sholat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>175.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>16:00:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>kirim email erry by gmail untuk vokasi
+adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>176.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>18:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>proses pengolahan data uang makan lembur 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>177.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>18:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>sholat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>178.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>18:15:00</td>
+			<td>19:00:00</td>
+			<td>00:45</td>
+			<td>0.75</td>
+			<td>olah data uang makan lembur 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>179.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>19:00:00</td>
+			<td>20:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>makan</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>180.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>20:00:00</td>
+			<td>21:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>olah uang makan lembur 2017
+adm hrd</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>181.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>07:32:00</td>
+			<td>08:10:00</td>
+			<td>00:38</td>
+			<td>0.63</td>
+			<td>persiapan</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>182.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>08:10:00</td>
+			<td>12:00:00</td>
+			<td>03:50</td>
+			<td>3.83</td>
+			<td>uang makan november 2017</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>183.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>isoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>184.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>15:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>follow up rs. buat perbandingan harga rumah sakit 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>185.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>istirahat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>186.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>18:00:00</td>
+			<td>02:45</td>
+			<td>2.75</td>
+			<td>lanjut buat resume data perbandingan rs.
+
+lanjut buat resume ikatan dinas per divisi, rekap per karyawan SKPPL IKPI 2017 </td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>187.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>18:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>istirahat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>188.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>18:15:00</td>
+			<td>19:09:00</td>
+			<td>00:54</td>
+			<td>0.90</td>
+			<td>menyiapkan materi recruitment buat senin, 4 des 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>189.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>07:22:00</td>
+			<td>07:45:00</td>
+			<td>00:23</td>
+			<td>0.38</td>
+			<td>persiapan</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>190.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>07:45:00</td>
+			<td>08:30:00</td>
+			<td>00:45</td>
+			<td>0.75</td>
+			<td>lanjut resume uang makanlembur 2017 gabungan</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>191.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>08:30:00</td>
+			<td>09:30:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>recruitment sesi I 6 orng kandidat junior tax</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>192.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>09:30:00</td>
+			<td>12:00:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>adm hrd
+rapiin meja kerja</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>193.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>makan</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>194.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:30:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>sesi II recuitment junior tax 6 org
+
+interview user sigit, lucky, winni, wila, erry, dila</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>195.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>15:45:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>istirahat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>196.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>15:45:00</td>
+			<td>17:00:00</td>
+			<td>01:15</td>
+			<td>1.25</td>
+			<td>adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>197.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>17:00:00</td>
+			<td>17:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>recruitment sesi II selesai</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>198.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>17:15:00</td>
+			<td>18:09:00</td>
+			<td>00:54</td>
+			<td>0.90</td>
+			<td>update delete id karyawan resign
+
+adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>199.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>07:21:00</td>
+			<td>12:00:00</td>
+			<td>04:39</td>
+			<td>4.65</td>
+			<td>finishing data akhir tahun 2017
+adm hrd</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>200.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>makan</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>201.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>16:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>finishing data akhir tahun 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>202.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>16:00:00</td>
+			<td>18:15:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>meeting HRD diajak erry  dgn pak Sugi ttg laporan akhir tahun</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>203.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>18:15:00</td>
+			<td>18:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>istirahat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>204.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>18:30:00</td>
+			<td>20:15:00</td>
+			<td>01:45</td>
+			<td>1.75</td>
+			<td>lanjut meeting</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>205.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>07:35:00</td>
+			<td>08:00:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td>isoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>206.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>08:00:00</td>
+			<td>12:00:00</td>
+			<td>04:00</td>
+			<td>4.00</td>
+			<td>update data laporan akhir tahun</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>207.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>isoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>208.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>16:15:00</td>
+			<td>03:15</td>
+			<td>3.25</td>
+			<td>isoma</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>209.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>16:15:00</td>
+			<td>17:16:00</td>
+			<td>01:01</td>
+			<td>1.02</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>210.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>08:14:00</td>
+			<td>08:30:00</td>
+			<td>00:16</td>
+			<td>0.27</td>
+			<td>makan</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>211.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>08:30:00</td>
+			<td>10:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>212.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>koordinasi dgn user & follow up magang jan-aprl 18</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>213.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>makan</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>214.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>13:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>belanja persiapan meeting manajemen </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>215.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>13:30:00</td>
+			<td>14:00:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>follow up kandidat magang, koordiansi dgn user ttg magang</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>216.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>14:00:00</td>
+			<td>17:17:00</td>
+			<td>03:17</td>
+			<td>3.28</td>
+			<td>olah data karyawan tidak masuk 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>217.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>08:00:00</td>
+			<td>11:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>proses penyatuan data hari tidak masuk kerja dari data ade
+adm hrd</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>218.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>11:00:00</td>
+			<td>12:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>menyiapkan lunch meeting manajemen</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>219.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>12:30:00</td>
+			<td>13:30:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>makan</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>220.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>13:30:00</td>
+			<td>14:00:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>menyiapkan lunch manajemen</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>221.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>14:00:00</td>
+			<td>16:30:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>membandingkan data tidak masuk kerja karyawan 2017  dgn data balancing cuti 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>222.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>16:30:00</td>
+			<td>17:25:00</td>
+			<td>00:55</td>
+			<td>0.92</td>
+			<td>update data draft mapping karyawan november 2017</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>223.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>17:25:00</td>
+			<td>17:54:00</td>
+			<td>00:29</td>
+			<td>0.48</td>
+			<td>persiapan karaywan baru masuk</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>224.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>07:31:00</td>
+			<td>07:40:00</td>
+			<td>00:09</td>
+			<td>0.15</td>
+			<td>persiapan</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>225.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>07:40:00</td>
+			<td>08:00:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>balancing jamkes</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>226.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>08:00:00</td>
+			<td>11:30:00</td>
+			<td>03:30</td>
+			<td>3.50</td>
+			<td>sign kontrak & penjelasan administratif karyawan baru (2 orng)</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>227.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>11:30:00</td>
+			<td>12:00:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>228.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>isoma</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>229.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>proses recutiment kandidat buat lucky + magang jan 2017</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>230.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>15:00:00</td>
+			<td>15:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>istirahat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>231.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>16:30:00</td>
+			<td>01:15</td>
+			<td>1.25</td>
+			<td>update budgeting 2018 </td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>232.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>16:30:00</td>
+			<td>17:19:00</td>
+			<td>00:49</td>
+			<td>0.82</td>
+			<td>adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>233.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>07:37:00</td>
+			<td>08:00:00</td>
+			<td>00:23</td>
+			<td>0.38</td>
+			<td>persiapan</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>234.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>08:00:00</td>
+			<td>12:00:00</td>
+			<td>04:00</td>
+			<td>4.00</td>
+			<td>olah data budgeting 2018 rina</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>235.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>isoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>236.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>14:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>-cari data zero medical 2017 di data balancing jamkes
+-data orang paling sedikit tidak masuk 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>237.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>14:00:00</td>
+			<td>16:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>-persiapan magang januari 2018, follow up kandidat, follow up user , kirim email
+-pengajuan kenaikan honor magang 2018, cari data lalu</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>238.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>16:00:00</td>
+			<td>16:10:00</td>
+			<td>00:10</td>
+			<td>0.17</td>
+			<td>sholat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>239.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>16:10:00</td>
+			<td>16:40:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>follow up ikatan dinas karyawan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>240.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>16:40:00</td>
+			<td>17:07:00</td>
+			<td>00:27</td>
+			<td>0.45</td>
+			<td>adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>241.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>07:51:00</td>
+			<td>08:10:00</td>
+			<td>00:19</td>
+			<td>0.32</td>
+			<td>sarapan</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>242.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>08:10:00</td>
+			<td>12:10:00</td>
+			<td>04:00</td>
+			<td>4.00</td>
+			<td>adm hrd
+balancing jamkes</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>243.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>12:10:00</td>
+			<td>13:15:00</td>
+			<td>01:05</td>
+			<td>1.08</td>
+			<td>isoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>244.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>13:15:00</td>
+			<td>16:40:00</td>
+			<td>03:25</td>
+			<td>3.42</td>
+			<td>balancing jamkes
+adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>245.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>16:40:00</td>
+			<td>16:55:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>sholat</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>246.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>16:55:00</td>
+			<td>17:27:00</td>
+			<td>00:32</td>
+			<td>0.53</td>
+			<td>balancing jamkes</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>247.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>07:51:00</td>
+			<td>08:10:00</td>
+			<td>00:19</td>
+			<td>0.32</td>
+			<td>sarapam</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>248.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>08:10:00</td>
+			<td>08:45:00</td>
+			<td>00:35</td>
+			<td>0.58</td>
+			<td>cek ikatan dinas, amplopin & data yg blum ada ikatan dinasnya
+adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>249.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>08:45:00</td>
+			<td>09:15:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>recruitment junior tax buat lucky 2 or</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>250.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>09:15:00</td>
+			<td>10:15:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>cek ikatan dinas, amplopin & data yg blum ada ikatan dinasnya
+adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>251.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>10:15:00</td>
+			<td>12:00:00</td>
+			<td>01:45</td>
+			<td>1.75</td>
+			<td>interview user, hrd, qa</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>252.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>12:35:00</td>
+			<td>00:35</td>
+			<td>0.58</td>
+			<td>cek ikatan dinas, amplopin & data yg blum ada ikatan dinasnya
+adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>253.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>12:35:00</td>
+			<td>13:17:00</td>
+			<td>00:42</td>
+			<td>0.70</td>
+			<td>isoma</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>254.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>13:17:00</td>
+			<td>13:30:00</td>
+			<td>00:13</td>
+			<td>0.22</td>
+			<td>sesi II</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>255.</td>
+			<td>HRD</td>
+			<td>Rina Khaerani</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>13:30:00</td>
+			<td>15:27:00</td>
+			<td>01:57</td>
+			<td>1.95</td>
+			<td>cek ikatan dinas, amplopin & data yg blum ada ikatan dinasnya
+adm hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>256.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>08:42:00</td>
+			<td>10:00:00</td>
+			<td>01:18</td>
+			<td>1.30</td>
+			<td>sharing case with mas sigit dan team</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>257.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>administrasi hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>258.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>259.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>14:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>administrasi hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>260.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>15:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>reminder karywan end kontrak</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>261.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:20:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>262.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>15:20:00</td>
+			<td>16:50:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>menjelaskan benefit kelahiran ke pak galih, raimbuse pak warjo ,lulu deo</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>263.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>16:50:00</td>
+			<td>17:14:00</td>
+			<td>00:24</td>
+			<td>0.40</td>
+			<td>administrasi hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>264.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>08:30:00</td>
+			<td>12:00:00</td>
+			<td>03:30</td>
+			<td>3.50</td>
+			<td>persiapan meeting, tlp bpjs ketenagakerjaan tentang sertifikat, penjelasan ke suciaty tentang klaim bpjs kesetenagakerjaan untuk klien</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>265.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>266.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>14:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>persiapan meeting</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>267.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>18:40:00</td>
+			<td>04:40</td>
+			<td>4.67</td>
+			<td>expenses</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>268.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>08:25:00</td>
+			<td>10:10:00</td>
+			<td>01:45</td>
+			<td>1.75</td>
+			<td>data koordinasi meeting semua tim, data hotel, pesawat DL,reimburse kesehatan ikhwan,novi</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>269.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>10:10:00</td>
+			<td>12:00:00</td>
+			<td>01:50</td>
+			<td>1.83</td>
+			<td>kormet smeua tim</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>270.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>271.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>tlp 21 , bpjs keetenagkerjaan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>272.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:20:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>273.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>15:20:00</td>
+			<td>17:00:00</td>
+			<td>01:40</td>
+			<td>1.67</td>
+			<td>balancing, rekonsiliasi bpjs ketenagkaerjaan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>274.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>17:00:00</td>
+			<td>18:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>expenses hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>275.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>18:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>ishoma dan makan</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>276.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>18:30:00</td>
+			<td>21:00:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>expenses hrd sd oktober</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>277.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>08:37:00</td>
+			<td>12:00:00</td>
+			<td>03:23</td>
+			<td>3.38</td>
+			<td>nik baru, pendaftran muamalat, meeting JRA dengan endang</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>278.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>279.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>rekonsiliasi bpjs ketenagkerjaan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>280.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>281.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>17:38:00</td>
+			<td>02:08</td>
+			<td>2.13</td>
+			<td>data perjalanan dinas november dan kormet tim sutiah</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>282.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>08:41:00</td>
+			<td>11:50:00</td>
+			<td>03:09</td>
+			<td>3.15</td>
+			<td>empty timesheet november</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>283.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>11:50:00</td>
+			<td>13:50:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>284.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>13:50:00</td>
+			<td>18:06:00</td>
+			<td>04:16</td>
+			<td>4.27</td>
+			<td>empty timesheet dan perjalanan dinas</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>285.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>08:46:00</td>
+			<td>12:00:00</td>
+			<td>03:14</td>
+			<td>3.23</td>
+			<td>bpjs kesehatan pka sugianto dan kelaurga, e payment bpjs ketenagakerjaan,nomor rekening karyawan baru ke pak agus salim, empty time sheet , memesan makan sncack box dan man siang</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>286.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>287.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>14:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>empty timesheet final</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>288.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>14:15:00</td>
+			<td>15:00:00</td>
+			<td>00:45</td>
+			<td>0.75</td>
+			<td>meeting dengan mahrizal dan agus tentang sistem hrd yg akan di perbaharui</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>289.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:20:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>290.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>15:20:00</td>
+			<td>17:00:00</td>
+			<td>01:40</td>
+			<td>1.67</td>
+			<td>meeting dengan mahrizal dan agus tentang sistem hrd yang akan diperbaharui</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>291.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>17:00:00</td>
+			<td>18:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>data training update dan data karywan untuk fadil</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>292.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>08:13:00</td>
+			<td>12:00:00</td>
+			<td>03:47</td>
+			<td>3.78</td>
+			<td>mengkoordinir meeting dan membuat balancing jankes periode sampai oktober</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>293.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>294.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>16:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>cpd system dan training system input absen ibu cynthia</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>295.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>08:45:00</td>
+			<td>11:00:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>surat referensi vania,membereskan meja kerja sehabis di finishing</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>296.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>11:00:00</td>
+			<td>12:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>taziah ke rumah ica</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>297.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>298.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>14:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>taziah</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>299.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>18:24:00</td>
+			<td>04:24</td>
+			<td>4.40</td>
+			<td>pkwt anri,pkwt galuh,pkwt alvatika, koordinasi dengan mba mellyfa tentang status probation galuh menjadi 3 bulan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>300.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>08:26:00</td>
+			<td>09:40:00</td>
+			<td>01:14</td>
+			<td>1.23</td>
+			<td>pengajuan reimburse bunga papan kedukaan dan lpj management meeting , revisi kontrak galuh</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>301.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>09:40:00</td>
+			<td>10:35:00</td>
+			<td>00:55</td>
+			<td>0.92</td>
+			<td>kormet diruangan mba erry</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>302.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>10:35:00</td>
+			<td>12:00:00</td>
+			<td>01:25</td>
+			<td>1.42</td>
+			<td>data bppjs kesehatan 1 tahun, data kormeet 1 tahun</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>303.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>304.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>18:25:00</td>
+			<td>05:25</td>
+			<td>5.42</td>
+			<td>administrasi hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>305.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>08:29:00</td>
+			<td>12:00:00</td>
+			<td>03:31</td>
+			<td>3.52</td>
+			<td>jamkes oktober akhir dan rawat inap</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>306.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>307.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>13:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>browsing2</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>308.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>15:30:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>jamkes november</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>309.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>17:50:00</td>
+			<td>02:20</td>
+			<td>2.33</td>
+			<td>update career path di mucnet dan revisi jamkes november</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>310.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>17:50:00</td>
+			<td>21:04:00</td>
+			<td>03:14</td>
+			<td>3.23</td>
+			<td>report medical &report bpjs kesehatan dan ketenagkaerjaan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>311.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>08:42:00</td>
+			<td>12:00:00</td>
+			<td>03:18</td>
+			<td>3.30</td>
+			<td>report tahunan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>312.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>313.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>17:27:00</td>
+			<td>04:27</td>
+			<td>4.45</td>
+			<td>report tahunan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>314.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>08:20:00</td>
+			<td>10:50:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>membereskan ruangan hrd</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>315.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>10:50:00</td>
+			<td>12:00:00</td>
+			<td>01:10</td>
+			<td>1.17</td>
+			<td>annual report</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>316.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>317.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>17:46:00</td>
+			<td>04:46</td>
+			<td>4.77</td>
+			<td>annual report</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>318.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>08:36:00</td>
+			<td>13:00:00</td>
+			<td>04:24</td>
+			<td>4.40</td>
+			<td>annual report</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>319.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:30:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>annual report</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>320.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>20:30:00</td>
+			<td>05:00</td>
+			<td>5.00</td>
+			<td></td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>321.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>08:43:00</td>
+			<td>12:00:00</td>
+			<td>03:17</td>
+			<td>3.28</td>
+			<td>annual report</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>322.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>323.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>18:00:00</td>
+			<td>05:00</td>
+			<td>5.00</td>
+			<td>annual report ,meeting dengan nurdin,mas sigit, dan dilla tentang training</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>324.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>08:27:00</td>
+			<td>12:00:00</td>
+			<td>03:33</td>
+			<td>3.55</td>
+			<td>annual report</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>325.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>326.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>17:17:00</td>
+			<td>04:17</td>
+			<td>4.28</td>
+			<td>annual report</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>327.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>08:07:00</td>
+			<td>12:00:00</td>
+			<td>03:53</td>
+			<td>3.88</td>
+			<td>annual report</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>328.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>329.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>13:30:00</td>
+			<td>18:42:00</td>
+			<td>05:12</td>
+			<td>5.20</td>
+			<td>annual report</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>330.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>08:53:00</td>
+			<td>12:00:00</td>
+			<td>03:07</td>
+			<td>3.12</td>
+			<td>budgeting</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>331.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>332.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>17:00:00</td>
+			<td>04:00</td>
+			<td>4.00</td>
+			<td>budgeting</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>333.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>17:00:00</td>
+			<td>19:17:00</td>
+			<td>02:17</td>
+			<td>2.28</td>
+			<td>budgeting</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>334.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>08:46:00</td>
+			<td>12:00:00</td>
+			<td>03:14</td>
+			<td>3.23</td>
+			<td>budgeting ade rina</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>335.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>336.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>18:40:00</td>
+			<td>05:40</td>
+			<td>5.67</td>
+			<td>budgeting,perjalanan dinas andre dan tim</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>337.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>09:46:00</td>
+			<td>12:00:00</td>
+			<td>02:14</td>
+			<td>2.23</td>
+			<td>annual report</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>338.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>339.</td>
+			<td>HRD</td>
+			<td>Siti Makbulah</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>16:32:00</td>
+			<td>03:32</td>
+			<td>3.53</td>
+			<td>annual report</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+		</tbody>
+</table>
+

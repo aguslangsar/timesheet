@@ -1,0 +1,4513 @@
+
+
+
+<table cellpadding="0" cellspacing="0" width="100%">
+	<thead>
+		<tr>
+			<th>No</th>
+			<th>Departement</th>
+			<th>Fullname</th>
+			<th>Date</th>
+			<th>Month</th>
+			<th>Timestart</th>
+			<th>Timefinish</th>
+			<th>Timeduration</th>
+			<th>Timeduration Decimal</th>
+			<th>Description</th>
+			<th>Category</th>
+			<th>No Proposal</th>
+			<th>No Agreement</th>
+			<th>Companies</th>
+			<th>Services</th>
+		</tr>
+	<thead>
+	<tbody>
+			<tr>
+			<td>1.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>08:30:00</td>
+			<td>12:00:00</td>
+			<td>03:30</td>
+			<td>3.50</td>
+			<td>Summary prosedur permohonan Surat Keterangan Bebas (SKB) PPh atas pengalihan tanah dan bangunan </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>2.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>3.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>16:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>Persiapkan PPT FGD tentang Financial Planning </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>4.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>17:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>baca buku Untuk Indonesia yang kuat: 100 Langkah Untuk Tidak Miskin</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>5.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>09:00:00</td>
+			<td>10:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>editing ulang naskah Tax Guide November (review Pak Karsino)</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>6.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>10:00:00</td>
+			<td>11:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>melanjutkan PPT FGD Financial planning</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>7.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>11:30:00</td>
+			<td>13:30:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>8.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>17:30:00</td>
+			<td>03:30</td>
+			<td>3.50</td>
+			<td>management meeting</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>9.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>09:00:00</td>
+			<td>12:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>editing naskah Tax Guide November (masukan Pak Karsino dan pak Wahyu)</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>10.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>11.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>17:30:00</td>
+			<td>04:30</td>
+			<td>4.50</td>
+			<td>Infografis prosedur Balik Nama Tanah dan Bangunan Peserta TA</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>12.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>09:00:00</td>
+			<td>12:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>infografis Balik Nama aset TA (SKB) </td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>13.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>14.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>review naskah2 Tax Guide untuk ditranslate QA</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>15.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>17:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Editing resensi buku "Menggali Potensi Penerimaan Negara, Ditengah Lesunya Ekonomi Global" (Asep MUnazat)</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>16.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>09:00:00</td>
+			<td>11:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Summary PMK 118/2017</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>17.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>11:00:00</td>
+			<td>12:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>meeting Document Center</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>18.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>19.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>16:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>revisi infografis fasilitas bebas PPh Balik Nama</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>20.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>17:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>FGD tentang personality (four temperaments) </td>
+			<td>Training</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>21.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>09:00:00</td>
+			<td>12:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>evaluasi kinerja publikasi 2017</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>22.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>23.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>16:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>menyiapkan bahan annual meeting</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>24.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>17:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>meeting perencanaan kerja Publikasi 2018 </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>25.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>08:09:00</td>
+			<td>09:00:00</td>
+			<td>00:51</td>
+			<td>0.85</td>
+			<td>Menyiapkan materi rapat evaluasi & rencana kerja tim Publikasi & Riset</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>26.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>09:00:00</td>
+			<td>11:30:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>Rapat evaluasi dan rencna akerja Div MarTi, Publikasi, dan Doc Center</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>27.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>11:30:00</td>
+			<td>13:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>28.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>17:30:00</td>
+			<td>04:30</td>
+			<td>4.50</td>
+			<td>melanjutkan Rapat evaluasi dan rencna akerja Div MarTi, Publikasi, dan Doc Center</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>29.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>08:40:00</td>
+			<td>10:00:00</td>
+			<td>01:20</td>
+			<td>1.33</td>
+			<td>editing naskah Tax Blitz 14- Balik nama dan deklarasi harta bersih</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>30.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>editing naskah Tax Guide - Penangguhan kenaikan upah & Doing Business (masukan QA)</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>31.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>32.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>16:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>menyiapkan materi presentasi Pajak Ekonomi Digital, dalam rangka pertemuan pak Wahyu Nuryanto dengan Staf Khusus Wapres (29 Nov 2017)</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>33.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>17:15:00</td>
+			<td>01:15</td>
+			<td>1.25</td>
+			<td>editing infografis PMK 165 (review QA)</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>34.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>09:11:00</td>
+			<td>12:00:00</td>
+			<td>02:49</td>
+			<td>2.82</td>
+			<td>editing naskah Pajak Gross Split dan PMK 165 (untuk translate)</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>35.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>36.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>summary buku finance; 100 langkah untuk tidak miskin (Ligwina Hananto)</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>37.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>18:30:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>riset dan supply materi pajak digital ekonomi untuk pak Wahyu Nuryanto</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>38.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>09:00:00</td>
+			<td>10:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>review naskah tax guide untuk di layout</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>39.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>revisi evaluasi kinerja 2017 dan planning 2018</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>40.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>41.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>16:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>menyiapkan PPT IGD financial planning</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>42.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>16:00:00</td>
+			<td>18:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>diskusi soal pajak e-commerce untuk meeting dengan Tim Wapres</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>43.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>08:28:00</td>
+			<td>10:00:00</td>
+			<td>01:32</td>
+			<td>1.53</td>
+			<td>editing naskah tax guide (review pak wahyu)</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>44.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>menyiapkan PPT IGD financial planning</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>45.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>46.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>editing naskah Tax Blitz 15: PMK 171 soal Fasilitas Kawasan Berikat</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>47.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>15:00:00</td>
+			<td>18:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>merumuskan kebijakan Pajak E-Commerce untuk bahan masukan ke Wapres</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>48.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>08:37:00</td>
+			<td>10:00:00</td>
+			<td>01:23</td>
+			<td>1.38</td>
+			<td>summary analisis skema pemajakan bisnis online </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>49.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>diskusi perumusan kebijakan pajak e-commerce RI (tim Wapres)</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>50.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>51.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>16:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>riset dan menulis evaluasi kinerja pajak 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>52.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>16:00:00</td>
+			<td>17:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>meeting lanjutan dengan Tim TA dan Pak Wahyu terkait rekomendasi kebijakan pajak e-commerce</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>53.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>17:00:00</td>
+			<td>20:30:00</td>
+			<td>03:30</td>
+			<td>3.50</td>
+			<td>riset komparasi kebijakan perpajakan e-commerce di Korea dan Thailand</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>54.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>08:21:00</td>
+			<td>10:00:00</td>
+			<td>01:39</td>
+			<td>1.65</td>
+			<td>anilisis dan summary jurnal “A taxation model: the Korean Value Added Tax on electronic commerce”
+(Choi, Yeong C, 2004, St. John's University, College of Business Administration,)
+</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>55.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>editing naskah Tax Blitz 15 soal Kawasan Berikat</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>56.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>57.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>meeting perencanaan kerja 2018 dengan Pak Wahyu </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>58.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>15:00:00</td>
+			<td>17:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Menyiapkan bahan manajerial meeting Jumat</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>59.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>09:00:00</td>
+			<td>11:30:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>managerial meeting</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>60.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>11:30:00</td>
+			<td>13:30:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>61.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>13:30:00</td>
+			<td>18:24:00</td>
+			<td>04:54</td>
+			<td>4.90</td>
+			<td>managerial meeting</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>62.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>09:00:00</td>
+			<td>10:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>review naskah2 E-Car </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>63.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>riset dan analisis Hybrid Mismatch (BEPS Action)</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>64.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>65.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>review naskah Tax Blitz 15 hasil translate QA</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>66.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>15:00:00</td>
+			<td>17:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Summary buku Ligwina Hananto: Untuk Indonesia yang kuat: 100 langkah untuk tidak miskin</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>67.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>09:00:00</td>
+			<td>12:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>review naskah E-Car</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>68.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>69.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>resume jurnal Hybrid Mismacth </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>70.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>15:00:00</td>
+			<td>16:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>diskusi dgn Pak Wahyu soal Pajak e-Commerce</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>71.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>16:00:00</td>
+			<td>18:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>review fokus kerja 2018</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>72.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>08:37:00</td>
+			<td>10:00:00</td>
+			<td>01:23</td>
+			<td>1.38</td>
+			<td>revisi editor notes (edisi Tax Guide akhir tahun)</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>73.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>editing kaleidoskop pajak 2017 </td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>74.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>75.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>review naskah2 E-Car</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>76.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>15:00:00</td>
+			<td>16:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>riset hybrid mismatch</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>77.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>16:00:00</td>
+			<td>17:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>Rapat koordinasi tim publikasi dan riset (rencana kerja 2018)</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>78.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>08:10:00</td>
+			<td>12:00:00</td>
+			<td>03:50</td>
+			<td>3.83</td>
+			<td>infografis Kaleidoskop pajak 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>79.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td></td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>80.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>review naskah E-Car</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>81.</td>
+			<td>Research & Publication </td>
+			<td>Agust Supriadi</td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>15:00:00</td>
+			<td>17:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>review kajian ekonomi World Bank</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>82.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>08:28:00</td>
+			<td>10:00:00</td>
+			<td>01:32</td>
+			<td>1.53</td>
+			<td>Review berita pajak dan menyuusn rekapitulasi berita pajak</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>83.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Menyusun infografis tentang revisi aturan balik nama tanah/bangunan tax amnesty</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>84.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Sholat Dzuhur dan makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>85.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Menyusun infografis tentang refisi aturan balik nama harta berupa tanah/bangunan tax amnesty</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>86.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>Sholat Ashar</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>87.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>17:30:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Menyusun infografis tentang refisi aturan balik nama harta berupa tanah/bangunan tax amnesty</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>88.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-16</td>
+			<td>November</td>
+			<td>17:30:00</td>
+			<td>18:00:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>Mengisi CPD</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>89.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>08:31:00</td>
+			<td>09:30:00</td>
+			<td>00:59</td>
+			<td>0.98</td>
+			<td>Review berita pajak dan menyusun rekapitulasi berita</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>90.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>09:30:00</td>
+			<td>11:45:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>Menghadiri konferensi pers di Kementerian Keuangan terkait revisi PMK 118/2017</td>
+			<td>Business Travel/Tax Office / Others Government Office</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>91.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>11:45:00</td>
+			<td>13:30:00</td>
+			<td>01:45</td>
+			<td>1.75</td>
+			<td>SHolat Jumat dan makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>92.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>15:30:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Perjalanan dari gedung Kementerian Keuangan ke MUC Building</td>
+			<td>Business Travel/Tax Office / Others Government Office</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>93.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>18:00:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>Menyusun Weekly Update Vol. 3 November 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>94.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-17</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>18:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>Sholat Magrib</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>95.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>08:41:00</td>
+			<td>10:00:00</td>
+			<td>01:19</td>
+			<td>1.32</td>
+			<td>Distribusi Weekly Update, dan rekapitulasi berita pajak.</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>96.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Menyusun rekapitulasi penerbitan publikasi di MUC dari awal tahun 2017.</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>97.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Sholat Dzuhur dan makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>98.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Menyusun rekapitulasi penerbitan publikasi MUC sejak awal tahun 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>99.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>Sholat AShar</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>100.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>17:30:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Menyusun rekapitulasi penerbitan MUC sejak awal tahun 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>101.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>17:30:00</td>
+			<td>18:00:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>Review berita pajak</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>102.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-20</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>18:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>Sholat Magrib</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>103.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>08:30:00</td>
+			<td>09:30:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Review berita pajak dan menyusun rekapitulasi berita pajak</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>104.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>09:30:00</td>
+			<td>12:00:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>Menyusun rekapitulasi pemberitaan media publikasi MUC Consulting sejak Januari 2017</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>105.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Sholat Dzuhur dan makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>106.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>14:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Melanjutkan penyusunan rekapitulasi pemberitaan media publikasi MUC Consulting sejak Januari 2017</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>107.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>15:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>Mereview naskah Resensi buku untuk Tax Guide November 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>108.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>16:00:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>SHolat Ashar</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>109.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>17:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Melakukan riset untuk menyusun infografis: Kaleidoskop, bahan Tax Guide edisi Desember 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>110.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-21</td>
+			<td>November</td>
+			<td>17:00:00</td>
+			<td>18:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Review berita pajak dan menyusun rekapitulasi berita pajak</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>111.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>08:37:00</td>
+			<td>09:30:00</td>
+			<td>00:53</td>
+			<td>0.88</td>
+			<td>Review berita dan menyusun rekapitulasi berita pajak</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>112.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>09:30:00</td>
+			<td>12:00:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>Menyusun matriks perbandingan PMK 118 tahun 2017 tentang tindak lanjut UU nomor 11 Tahun 2016 tentang pengampunan pajak dengan aturan terbaru </td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>113.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Sholat Dzuhur dan makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>114.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Menyusun resensi buku berjudul: SInergi SUkses Pengusaha dan Bankir</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>115.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>Sholat AShar</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>116.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>17:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>Mereview Tax Guide edisi Oktoberyang telah selesai di layout</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>117.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-22</td>
+			<td>November</td>
+			<td>17:00:00</td>
+			<td>18:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Review berita pajak</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>118.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>07:47:00</td>
+			<td>09:00:00</td>
+			<td>01:13</td>
+			<td>1.22</td>
+			<td>Review berita pajak dan menyusun rekapitulasi berita pajak</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>119.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>09:00:00</td>
+			<td>12:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>Menyusun naskah Tax Blitz tentang Peraturan Menteri Keuangan (PMK) nomro 165/2017, tentang pelaksanaan UU Tax Amnesti</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>120.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Sholat Dzuhur dan makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>121.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Melakukan riset tentang ekonomi digital dan pajak ecomers, sebagai bahan pendukung Pak Wahyu Nuryanto.</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>122.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>Sholat Ashar</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>123.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>16:00:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>Review berita pajak</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>124.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-23</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>17:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>Rapat internal, membahas program kerja divisi publikasi 2018</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>125.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>08:14:00</td>
+			<td>09:30:00</td>
+			<td>01:16</td>
+			<td>1.27</td>
+			<td>Review berita pajak dan menyusun rekapitulasi berita pajak</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>126.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>09:30:00</td>
+			<td>11:45:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>Mengikuti Manajer Meeting, terkait pemaparan evaluasi dan rencana kerja divisi tahun 2018</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>127.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>11:45:00</td>
+			<td>13:15:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>Sholat Jumat dan makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>128.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>13:15:00</td>
+			<td>14:00:00</td>
+			<td>00:45</td>
+			<td>0.75</td>
+			<td>Menyusun Weekly Update Vol. 4 November 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>129.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>16:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Melanjutkan manager meeting, terkait pembahasan evaluasi kinerja dan menyiapkan program kerja tahun 2018</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>130.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>16:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>Sholat Ashar</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>131.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>16:15:00</td>
+			<td>17:30:00</td>
+			<td>01:15</td>
+			<td>1.25</td>
+			<td>Melanjutkan manager meeting</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>132.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>17:30:00</td>
+			<td>18:00:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>Menyusun Weekly Update Vol. 4 November 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>133.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>18:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>Sholat Isya</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>134.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-24</td>
+			<td>November</td>
+			<td>18:15:00</td>
+			<td>20:15:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Melanjutkan penyusunan Weekly Update Vol. 4 November 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>135.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>08:26:00</td>
+			<td>09:30:00</td>
+			<td>01:04</td>
+			<td>1.07</td>
+			<td>Review berita pajak dan menyusun rekapitulasi berita pajak</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>136.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>09:30:00</td>
+			<td>11:30:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Menyiapkan materi yang diperlukan pak Wahyu Nuryanto, tentang Perkembangan Ekonomi Digital dan pajak e-commerce</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>137.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>11:30:00</td>
+			<td>13:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>Perjalanan ke Kantor DJP, gedung Marie Muhammad, untuk mengikuti press conference</td>
+			<td>Business Travel/Tax Office / Others Government Office</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>138.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>14:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Sholat Dzuhur dan makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>139.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>14:00:00</td>
+			<td>15:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Mengikuti press conferece di Kantor DJP, Gedung Marie Muhammad, Jakarta</td>
+			<td>Business Travel/Tax Office / Others Government Office</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>140.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>16:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Perjalanan dari Gedung DJP ke Kantor, MUC Building</td>
+			<td>Business Travel/Tax Office / Others Government Office</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>141.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>16:00:00</td>
+			<td>17:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Review berita pajak</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>142.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-27</td>
+			<td>November</td>
+			<td>17:00:00</td>
+			<td>18:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Menyiapkan materi tulisan untuk diikut sertakan dalam Writing Contest</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>143.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>09:18:00</td>
+			<td>10:30:00</td>
+			<td>01:12</td>
+			<td>1.20</td>
+			<td>Review berita pajak dan menyusun rekapitulasi berita pajak</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>144.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>10:30:00</td>
+			<td>12:30:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Mengakses, mempelajari dan memposting artikel melalui website mucglobal.com</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>145.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>12:30:00</td>
+			<td>13:30:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>SHolat Dzuhur dan makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>146.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>13:30:00</td>
+			<td>15:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>Menyiapkan bahan terkait perkembangan ekonomi digital dan pajak e-commerce, untuk mendukung Pak Wahyu Nuryanto</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>147.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>Sholat AShar</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>148.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>15:30:00</td>
+			<td>17:30:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Menyiapkan bahan terkait perkembangan ekonomi digital dan pajak untuk e-commerce.</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>149.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>17:30:00</td>
+			<td>18:00:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>Review berita pajak</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>150.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-28</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>18:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>Sholat Magrib</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>151.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>09:21:00</td>
+			<td>10:30:00</td>
+			<td>01:09</td>
+			<td>1.15</td>
+			<td>Review berita pajak dan menyusun rekapitulasi berita pajak</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>152.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>10:30:00</td>
+			<td>12:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>Review Tax Guide edisi Oktober, ada beberapa artikel yang harus direvisi setelah di riviwew oleh QA.</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>153.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Sholat Dzuhur dan istirahat makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>154.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Revisi artikel Tax Guide edkisi Oktober 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>155.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>Sholat Ashar</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>156.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>16:30:00</td>
+			<td>01:15</td>
+			<td>1.25</td>
+			<td>Mereview dan menyiapkan bahan tentang kebhijakan pajak untuk ecommerce</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>157.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>16:30:00</td>
+			<td>17:30:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Review berita perpajakan dan menyusun rekapitulasi berita</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>158.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>17:30:00</td>
+			<td>18:00:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>mereview buku Menggali Potensi Penerimaan Negara</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>159.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-29</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>18:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>Sholat Magrib</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>160.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>08:30:00</td>
+			<td>10:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>Review berita pajak dan menyusun rekapitulasi berita pajak</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>161.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Mereview dan merevisi naskah Tax Guide </td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>162.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Sholat Dzuhur dan makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>163.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Menulis artikel untuk kegiatan Writing Competition</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>164.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>15:00:00</td>
+			<td>15:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>Sholat Ashar</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>165.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>15:15:00</td>
+			<td>18:00:00</td>
+			<td>02:45</td>
+			<td>2.75</td>
+			<td>Menulis artikel untuk kegiatan Writing Competition </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>166.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-11-30</td>
+			<td>November</td>
+			<td>18:00:00</td>
+			<td>18:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>sholat magrib</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>167.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>08:19:00</td>
+			<td>09:30:00</td>
+			<td>01:11</td>
+			<td>1.18</td>
+			<td>Review berita pajak dan menyusun rekapitulasi berita perpajakan serta mendistribusikan rekapitulasi berita pajak pekan ke-3 November 2017.</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>168.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>09:30:00</td>
+			<td>12:00:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>Menyusun Tax Blitz 15, tentang PMK 171/2017.</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>169.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Sholat Dzuhur dan makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>170.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Menyusun Tax Blitz 15, tentang PMK 171/2017.</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>171.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>15:00:00</td>
+			<td>15:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>SHolat Ashar</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>172.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>17:30:00</td>
+			<td>02:15</td>
+			<td>2.25</td>
+			<td>Menyusun Tax Blitz 15, tentang PMK 171/2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>173.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>17:30:00</td>
+			<td>18:00:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>Review berita pajak hari ini.</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>174.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-04</td>
+			<td>December</td>
+			<td>18:00:00</td>
+			<td>18:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>Sholat Magrib</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>175.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>08:00:00</td>
+			<td>09:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Review berita pajak dan menyusun rekapitulasi berita pajak</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>176.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>09:00:00</td>
+			<td>12:00:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>Menyusun naskah Tax Blitz terkait terbitnya PMK Nomor 171 Tahun 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>177.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>SHolat Dzuhur dan makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>178.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>14:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Menyusun naskah Tax Vlitz terkait terbitnya PMK No. 171 Tahun 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>179.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>14:00:00</td>
+			<td>15:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>Melakukan riset kebijakan perpajakan di bidang e-commerce</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>180.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>16:00:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>Sholat Ashar</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>181.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-05</td>
+			<td>December</td>
+			<td>16:00:00</td>
+			<td>17:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>Melakukan riset kebijakan perpajakan di bidang e-commerce</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>182.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>09:34:00</td>
+			<td>10:30:00</td>
+			<td>00:56</td>
+			<td>0.93</td>
+			<td>Reviwe berita pajak dan menyusun rekapitulasi berita pajak</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>183.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>10:30:00</td>
+			<td>12:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>Mereview beberapa naskah Tax Guide edisi November 2017 yang telah diterjemahkan oleh Tim QA.</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>184.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Sholat Dzuhur dan makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>185.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Mereviwe dan merevisi beberapa naskah Tax Guide edisi November 2017 hasil terjemahan tim QA dan hasil revisi Partner (Pak Karsino)</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>186.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>15:00:00</td>
+			<td>15:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>Sholat Ashar</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>187.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>18:15:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>Menulis artikel untuk diikutkan dalam Writing COmpetition 2017</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>188.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>18:15:00</td>
+			<td>18:30:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>Sholat Magrib</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>189.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-06</td>
+			<td>December</td>
+			<td>18:30:00</td>
+			<td>19:30:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Melanjutkan penulisan artikel untuk diikutkan dalam Writing COmpetition 2017, QA.</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>190.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>08:55:00</td>
+			<td>10:00:00</td>
+			<td>01:05</td>
+			<td>1.08</td>
+			<td>Review berita dan menyusun rekapitulasi berita</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>191.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>10:00:00</td>
+			<td>12:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Menyiapkan magteri rapat terkait prgram eksternal relation untuk tahun 2018. Rapat koordinasi ini akan dilakukan bersama Manajer dan Partner.</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>192.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Sholat Dzuhur dan makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>193.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>14:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Revies berita</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>194.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>14:00:00</td>
+			<td>15:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Rapat penyusunan program kerja; eksternal relation bersama Manajer dan Partner</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>195.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>15:00:00</td>
+			<td>15:30:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>Sholat ashar</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>196.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>17:30:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Merevisi bahan materi tentang kebijakan perpajakan untuk ecommerce</td>
+			<td>Support Service</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>197.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-07</td>
+			<td>December</td>
+			<td>17:30:00</td>
+			<td>18:00:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>Review berita</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>198.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>08:32:00</td>
+			<td>10:00:00</td>
+			<td>01:28</td>
+			<td>1.47</td>
+			<td>Review berita pajak dan menyusun rekapitulasi berita pajak</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>199.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>10:00:00</td>
+			<td>11:45:00</td>
+			<td>01:45</td>
+			<td>1.75</td>
+			<td>Menyusun weekly update Vol. 1 Desember 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>200.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>11:45:00</td>
+			<td>13:00:00</td>
+			<td>01:15</td>
+			<td>1.25</td>
+			<td>Sholat Jumat dan makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>201.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Melanjutkan penyusunan Weekly Update Vol. 1 Desember 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>202.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>15:00:00</td>
+			<td>15:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>Sholat Ashar</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>203.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-08</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>18:15:00</td>
+			<td>03:00</td>
+			<td>3.00</td>
+			<td>Menyusun Weeklu Update Vol. 1 Desember 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>204.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>09:23:00</td>
+			<td>11:23:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Mendistribusikan Weekly Update dan menguploadnya ke Website.</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>205.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>11:23:00</td>
+			<td>12:00:00</td>
+			<td>00:37</td>
+			<td>0.62</td>
+			<td>Mereview berita pajak dan menyusun rekapitulasi berita pajak.</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>206.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Sholat Dzuhur dan makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>207.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Menyusun kaleidoskop Pajak 2017, untuk Tax Guide edisi Desember 2017 </td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>208.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>15:00:00</td>
+			<td>15:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>Sholat Ashar</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>209.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-11</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>17:20:00</td>
+			<td>02:05</td>
+			<td>2.08</td>
+			<td>Menyusun kaleidoskop Pajak 2017, untuk Tax Guide edisi Desember 2017.</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>210.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>09:16:00</td>
+			<td>10:30:00</td>
+			<td>01:14</td>
+			<td>1.23</td>
+			<td>Mereview berita pajak dan menyusun rekapitulasi berita pajak.</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>211.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>10:30:00</td>
+			<td>12:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>Menyusun naskah kaleidoskop pajak 2017, bahan Tax Guide edisi Desember 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>212.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Sholat Dzuhur dan makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>213.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>14:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Internal Discussion</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>214.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>14:00:00</td>
+			<td>15:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>Menyusun naskah kaleidoskop Pajak 2017, bahan untuk Tax Guide edisi Desember 2017</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>215.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>15:45:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>Sholat Ashar</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>216.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>15:45:00</td>
+			<td>17:30:00</td>
+			<td>01:45</td>
+			<td>1.75</td>
+			<td>Menyusun naskah kelaidoskop Pajak 2017, bahan untuk Tax Guide edisi Desember 2017.</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>217.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>17:30:00</td>
+			<td>18:00:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>Review berita pajak</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>218.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>18:00:00</td>
+			<td>18:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>Sholat Magrib</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>219.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-12</td>
+			<td>December</td>
+			<td>18:15:00</td>
+			<td>18:40:00</td>
+			<td>00:25</td>
+			<td>0.42</td>
+			<td>Mengisi timesheet</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>220.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>08:07:00</td>
+			<td>09:30:00</td>
+			<td>01:23</td>
+			<td>1.38</td>
+			<td>Review berita pajak dan menyusun rekapitulasi berita pajak</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>221.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>09:30:00</td>
+			<td>12:00:00</td>
+			<td>02:30</td>
+			<td>2.50</td>
+			<td>Menyusun naskah tulisan review perkembangan ekonomi dan perpajakan 2017, sebagai bahan untuk Tax Guide edisi November-Desember </td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>222.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Sholat Dzuhur dan makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>223.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>14:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Diskusi internal Divisi tentang perkembangan perpajakan</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>224.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>14:00:00</td>
+			<td>15:30:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>Rapat koordinasi internal divisi terkait perencanaan kegiatan tahun 2018</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>225.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>15:30:00</td>
+			<td>15:45:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>Sholat Ashar</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>226.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>15:45:00</td>
+			<td>17:30:00</td>
+			<td>01:45</td>
+			<td>1.75</td>
+			<td>Menyusun revisi naskah Tax Guide edisi November-Desember dan berkordinasi dengan Tim QA terkait penerjemahan naskah.</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>227.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>17:30:00</td>
+			<td>18:00:00</td>
+			<td>00:30</td>
+			<td>0.50</td>
+			<td>Review berita pajak</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>228.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-13</td>
+			<td>December</td>
+			<td>18:00:00</td>
+			<td>18:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>Sholat Magrib</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>229.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>09:15:00</td>
+			<td>10:30:00</td>
+			<td>01:15</td>
+			<td>1.25</td>
+			<td>Review berita pajak dan menyusun rekapitulasi berita pajak</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>230.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>10:30:00</td>
+			<td>12:00:00</td>
+			<td>01:30</td>
+			<td>1.50</td>
+			<td>Menyusun daftar Himpunan Mahasiswa Perpajakan di Indonesia, sebagai persiapan pelaksanaan program diskusi publik dan visit to campus tahun 2018</td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>231.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>12:00:00</td>
+			<td>13:00:00</td>
+			<td>01:00</td>
+			<td>1.00</td>
+			<td>Sholat Dzuhur dan makan siang</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>232.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>13:00:00</td>
+			<td>15:00:00</td>
+			<td>02:00</td>
+			<td>2.00</td>
+			<td>Melakukan riset untuk menyusun naskah tulisan tentang outlook ekonomi dan perpajakan 2018. Tulisan ini mejadi materi Tax Guide edisi Januari 2018</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>233.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>15:00:00</td>
+			<td>15:15:00</td>
+			<td>00:15</td>
+			<td>0.25</td>
+			<td>Sholat Ashar</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>234.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>15:15:00</td>
+			<td>17:16:00</td>
+			<td>02:01</td>
+			<td>2.02</td>
+			<td>Melanjutkan riset terlkait outlook ekonomi dan perpajakan 2018</td>
+			<td>Office Administration/Project</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>235.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>17:16:00</td>
+			<td>18:00:00</td>
+			<td>00:44</td>
+			<td>0.73</td>
+			<td>Mnyusun resume buku yang berjudul "Kajian Tengah Tahun INDEF 2017: Mengurai Solusi Ketimpangan" </td>
+			<td>Office Administration/Daily Routine</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+			<tr>
+			<td>236.</td>
+			<td>Research & Publication </td>
+			<td>Asep Munazat Zatnika </td>
+			<td>2017-12-14</td>
+			<td>December</td>
+			<td>18:00:00</td>
+			<td>18:20:00</td>
+			<td>00:20</td>
+			<td>0.33</td>
+			<td>Sholat Magrib</td>
+			<td>ISHOMA</td>
+			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+
+		</tr>
+		</tbody>
+</table>
+
